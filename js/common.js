@@ -26,6 +26,15 @@ $(function(){
 			});
 		}
 
+		$("#header svg , #header_in svg").hover(
+			function(){
+				
+			},
+			function(){
+
+			}
+		)
+
 		$('.fade-init').on('inview', function(event, isInView, visiblePartX, visiblePartY) {
 		if(isInView){
 			$(this).stop().addClass('fade');
