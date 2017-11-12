@@ -26,16 +26,16 @@ $(function(){
 			});
 		}
 
-		$("#header svg").hover(
-			function(){
-					$('body , .works_contents').addClass('blackmode');
-					$(this).addClass('blackmode path_over');
-			},
-			function(){
-				$(this).removeClass('blackmode path_over');
-				$('body , .works_contents').removeClass('blackmode');
-			}
-		)
+		// $("#header svg").hover(
+		// 	function(){
+		// 			$('body , .works_contents').addClass('blackmode');
+		// 			$(this).addClass('blackmode path_over');
+		// 	},
+		// 	function(){
+		// 		$(this).removeClass('blackmode path_over');
+		// 		$('body , .works_contents').removeClass('blackmode');
+		// 	}
+		// )
 
 		$('.fade-init').on('inview', function(event, isInView, visiblePartX, visiblePartY) {
 		if(isInView){
