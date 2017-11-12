@@ -1,0 +1,186 @@
+@charset "Shift_JIS";
+/* ===================================================================
+CSS information
+
+ file name  :  popup.css
+ style info :  アクセスポップアップ用
+=================================================================== */
+
+.popup_inner_header{
+	width			: 640px;
+	margin			: 0 auto 0 auto;
+	position		: relative;
+}
+
+.popup_inner_header .logo{
+	position		: absolute;
+	left			: 0;
+	top				: 40px;
+}
+
+.access_content_bg {
+	background		: #fff;
+}
+
+.outline_content_bg {
+	background		: #fff;
+}
+
+.popup_content_wrapper {
+	width			: 640px;
+	padding			: 25px 20px;
+	margin			: 0 auto;
+}
+
+.popup_content_wrapper_600px {
+	width			: 600px;
+	padding			: 25px 20px;
+	margin			: 0 auto;
+	
+	
+}
+
+.popup_content_wrapper_600px table table {
+	border-collapse:separate;
+	border-spacing:1px;
+	text-align		: left;
+}
+
+.popup_content_wrapper_600px table table td{
+	
+	padding:2px;
+}
+
+#footer{
+	width			: 100%;
+	border-top		: 1px solid #fff;
+	background		: #000;
+}
+
+/* ===================================================================
+CSS information
+
+ file name  :  popup.css
+ style info :  ルームプランポップアップ用
+=================================================================== */
+
+.room_plan_contetbg{
+	background:url("../../images/roomplan/popup_roomplan_contentbg.gif") no-repeat center top;
+	border:1px solid #ccc;
+	padding:29px;
+}
+
+
+.room_plan_contetbg img{
+	float:left;
+}
+
+/* ===================================================================
+CSS information
+
+ file name  :  popup.css
+ style info :  ルームプランポップアップ用
+=================================================================== */
+
+.room_plan_contetbg{
+	background:url("../../images/roomplan/popup_roomplan_contentbg.gif") no-repeat center top;
+	border:1px solid #ccc;
+	padding:29px;
+}
+
+
+.room_plan_contetbg img{
+	float:left;
+}
+
+/* ===================================================================
+CSS information
+
+ file name  :  popup.css
+ style info :  学研ポップアップ用
+=================================================================== */
+
+
+.gakken_content_bg {
+	background		: #000;
+}
+
+.gakken_popup_content_wrapper {
+	width			: 860px;
+	padding			: 0 20px 20px 20px;
+	margin			: 20px auto;
+	background:#fff;
+}
+
+.gakken _popup_content_wrapper_860px {
+	width			: 860px;
+	padding			: 25px 20px;
+	margin			: 0 auto;
+	
+	
+}
+
+.gakken_popup_content_wrapper_860px table table {
+	border-collapse:separate;
+	border-spacing:1px;
+	text-align		: left;
+}
+
+.gakken_popup_content_wrapper_860px table table td{
+	
+	padding:2px;
+}
+
+.gakken_popup_box {
+	text-align:left;
+	margin:30px 0 0 0;
+	background:url("../../images/gakken/gakken_plan_bg.jpg") no-repeat center top;
+	font-size:85%;
+	line-height		: 1.7em;
+	padding:0 0 50px 0;
+	background-color: #fff;
+}
+.gakken_popup_box .left{
+	float:left;
+	width:420px;
+}
+.gakken_popup_box .right{
+	float:right;
+	width:420px;
+}
+.box_3c {
+    margin: 0 0 30px;
+    padding: 0;
+    width: 860px;
+	text-align:left;
+	font-size:85%;
+
+}
+.box_3c ul {
+    margin: 0 -40px 0 0;
+    overflow: hidden;
+    width: 900px;
+}
+.box_3c li {
+    float: left;
+    list-style: none outside none;
+    margin-right: 40px;
+    padding: 0;
+    width: 260px;
+}
+.box_3c li.no_margin {
+    float: left;
+    list-style: none outside none;
+    margin-right: 0;
+    padding: 0;
+    width: 260px;
+}
+.pict_tit{
+	font-size:93%!important;
+	font-weight:bold;
+	margin:10px 0;
+}
+.pict_list{
+	text-indent:-1em;
+	margin-left:10px;
+	}

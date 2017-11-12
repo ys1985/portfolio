@@ -1,0 +1,147 @@
+@charset "Shift_JIS";
+/* ===================================================================
+CSS information
+
+ file name  :  home.css
+ style info :  トップページスタイル
+=================================================================== */
+.home_main{
+	background		: #c4c4c4 url("../../images/home/home_mainbg.gif") repeat-x;
+}
+
+.home_main img{
+	margin			: 0 auto 0 auto;
+	text-align		: center;
+}
+
+
+#flashcontent{
+	background		: #ffffff;
+	width			: 1040px;
+	height			: 543px;
+	margin			: 0 auto;
+}
+
+.home_3_copy{
+	width:960px;
+	margin:0 auto 30px auto;
+}
+
+.home_content_bg{
+	color			: #fff;
+	background		: #191919 url("../images/home_contentbg.gif") repeat-x center top;
+	padding			: 20px 0 40px 0;;
+	position		: relative;
+	border-top		: 2px solid #fff;
+}
+
+
+/* 資料請求・現地案内図ボタン用 */
+.content_btn{
+	width			: 320px;
+/*	height			: 273px;
+*/
+	height			: 240px;
+	background		: url("../../images/home/content_btnbg.gif") no-repeat;
+}
+
+.content_btn ul{
+	padding			: 8px;
+}
+
+.content_btn ul li{
+	display			:block;
+}
+
+.content_btn02 ul{
+	padding			: 8px;
+}
+
+.content_btn02 ul li{
+	display			:block;
+}
+
+
+.content_L{
+	width			: 610px;
+	float			: left;
+}
+
+.content_R{
+	width			: 320px;
+	float			: right;
+}
+
+.information table th {
+	width			: 128px;
+	padding			: 0px 15px 10px 0px;
+	vertical-align	: top;
+	line-height		:1.7em;
+}
+
+.information table td {
+	width			: 322px;
+	padding			: 0px 30px 10px 0px;
+	text-align		: left;
+	vertical-align	: top;
+	line-height		:1.7em;
+}
+
+
+.information .padding_r0px{
+	padding-right	: 0px!important;
+}
+
+
+
+.information table th img {
+	vertical-align	: middle;
+	margin-right	: 10px;
+}
+
+
+.attention {
+	font-size		: 85%;
+	line-height		:1.7em;
+}
+.attention p {
+	text-indent		: -1.0em;
+	padding-left	: 1.0em;
+}
+
+.attention-type2{
+	font-size:16px;
+	color:#cc0000!important;
+}
+
+.pagetop {
+	text-align		: right;
+}
+.pagetop a {
+	color			: #fff;
+}
+.pagetop img {
+	margin-right	: 5px;
+	vertical-align	: middle;
+}
+
+.headline p{
+	width			: 266px;
+	float			: left;
+}
+
+.headline ul{
+	float			: right;
+	text-align		:right;
+}
+
+/* 20120130 追加 */
+.home_content_bg .content_wrapper .clearfix.mb20 .news.content_L .free_dail td{
+	line-height:150%;
+	vertical-align:bottom;
+}
+
+.home_content_bg .content_wrapper .clearfix.mb20 .news.content_L .free_dail td img{
+	line-height:150%;
+	vertical-align:bottom;
+}

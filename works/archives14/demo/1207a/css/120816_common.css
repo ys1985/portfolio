@@ -1,0 +1,269 @@
+body{
+	font-family: "メイリオ","ヒラギノ角ゴ Pro W3","ＭＳ Ｐゴシック",Osaka;
+    font-size: 81%;
+    line-height: 140%;
+    margin: 0;
+    padding: 0;
+	color:#333;
+	background:url(../img/body_bg.gif)
+	
+}
+
+#wrapper{
+	width:980px;
+	padding:0 4px;
+	margin:0 auto;
+	padding-bottom:50px;
+	background:#fff;
+	background:url(../img/wrapper_bg.png) repeat-y;
+	
+}
+
+#mainImg_area{
+	width:980px;
+	position:relative;
+}
+
+#mainImg_area h1{
+	position:absolute;
+	top:0;
+	left:23px;
+	z-index:10;
+}
+
+#mainImg_area .mainImg{
+	z-index:0;
+}
+
+
+#mainImg_area h2{
+	position:absolute;
+	top:15px;
+	left:243px;
+}
+
+#mainImg_area p{
+	display:block;
+	position:absolute;
+	top:35px;
+	left:243px;
+	color:#333333;
+}
+
+/* エントリーボタン */
+#mainImg_area .entryBtn01{
+	position:absolute;
+	top:375px;
+	left:550px;
+	
+}
+
+.entryBtn03{
+	position:absolute;
+	left:507px;
+	top:90px;
+}
+
+/*------------------------
+
+	#940px_content
+
+-------------------------*/
+#content_940px{
+	width:940px;
+	margin:0 auto;
+}
+
+.img_center{
+	margin-right:auto;
+	margin-left:auto;
+	display:block;
+}
+
+
+/*--------------------------
+
+	#entryform
+
+-------------------------*/
+
+#entryform{
+	width:938px;
+	border-width:0px 1px 1px 1px;
+	border-style:solid;
+	border-color:#e15b75;
+	padding-bottom:30px;
+}
+
+#entryform h4{
+	margin-bottom:3px;
+}
+
+#entryform table{
+	width:840px;
+	margin:0 auto;
+}
+
+/* テキストボックス */
+#entryform table input.textbox{
+	border:1px solid #ffe2e2;
+	height:30px;
+	padding:0 5px;
+	vertical-align:middle;
+	text-align:left;
+	font-size:14px;
+	line-height:30px;
+}
+
+/* チェックボックス */
+#entryform table input.checkbox{
+	background:#fef3f3;
+	vertical-align:middle;
+}
+
+
+#entryform table .licence_checkbox{
+	overflow:hidden;
+	_zoom:1;
+}
+
+#entryform table .licence_checkbox dd{
+	float:left;
+	margin-right:40px;
+}
+
+
+#entryform table th{
+	background:#ef7f95 url(../img/form/requisite.gif) no-repeat 145px 13px;
+	padding:13px 15px;
+	font-size:14px;
+	width:23%;
+	color:#fff;
+	text-align:left;
+	vertical-align:top;
+	border-right:1px solid #fff;
+	border-bottom:1px solid #fff;
+}
+
+#entryform table td{
+	color:#333;
+	width:77%;
+	font-size:14px;
+	background:#fef3f3;
+	padding:13px 0px 13px 17px;
+	text-align:left;
+	vertical-align:middle;
+	border-bottom:1px solid #fff;
+}
+
+
+/* テキストボックス width */
+#entryform table input.namebox{
+	width:10em;
+}
+
+#entryform table input.citybox{
+	width:25em;
+}
+
+/* 氏名 設定 */
+dl.name_input_dl{
+	overflow:hidden;
+	_zoom:1;
+}
+
+dl.name_input_dl dd{
+	float:left;
+}
+
+dl.name_input_dl dd.name_dd{
+	width:40px;
+	line-height:30px;
+}
+
+dl.name_input_dl dd.text_dd{
+	width:160px;
+	margin-right:20px;
+}
+
+/*-------------------------
+
+	個人情報保護方針 
+	
+--------------------------*/
+.privacy_box{
+	width:800px;
+	margin:0 auto 30px auto;
+	padding:20px;
+	background:#fef3f3;
+}
+
+.privacy_box .inner_box{
+	border:1px solid #ffe2e2;
+	background:#fff;
+	padding:14px;
+	margin-bottom:20px;
+}
+
+/*-------------------------
+
+	フッター
+	
+--------------------------*/
+
+#footer{
+	margin:0 auto;
+	background:#ef7f95;
+	height:31px;
+}
+
+#footer img{
+	display:block;
+	width:980px;
+	margin:0 auto;
+}
+
+
+/*-------------------------
+
+	汎用クラス
+	
+--------------------------*/
+
+.mt10{ margin-top:10px; }
+.mt20{ margin-top:20px; }
+.mt30{ margin-top:30px; }
+.mt25{ margin-top:30px; }
+.mt40{ margin-top:40px; }
+.mt90{ margin-top:90px; }
+
+.mb10{ margin-bottom:10px; }
+.mb15{ margin-bottom:15px; }
+.mb20{ margin-bottom:20px; }
+.mb40{ margin-bottom:40px; }
+
+.pr1em{ padding-right:1em; }
+.pr2em{ padding-right:2em; }
+.pr10{ padding-right:10px; }
+.pr15{ padding-right:15px; }
+
+.mr15{ margin-right:15px; }
+.mr20{ margin-right:20px; }
+
+.pr85{ padding-right:85px; }
+
+.font10px{ font-size:10px;}
+.font11px{ font-size:11px;}
+.font12px{ font-size:12px;}
+.font14px{ font-size:14px;}
+.font16px{ font-size:16px;}
+
+.float_L{ float:left; }
+.clear{ clear:both; }
+.box_relative{ position:relative }
+
+
+/* タグディスプレイ none*/
+.tag_displaynone{
+	display:none;
+}	

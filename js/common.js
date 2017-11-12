@@ -26,12 +26,14 @@ $(function(){
 			});
 		}
 
-		$("#header svg , #header_in svg").hover(
+		$("#header svg").hover(
 			function(){
-				
+					$('body , .works_contents').addClass('blackmode');
+					$(this).addClass('blackmode path_over');
 			},
 			function(){
-
+				$(this).removeClass('blackmode path_over');
+				$('body , .works_contents').removeClass('blackmode');
 			}
 		)
 

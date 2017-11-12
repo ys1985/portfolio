@@ -1,0 +1,115 @@
+@charset "Shift_JIS";
+
+/* ===================================================================
+CSS information
+
+ file name  :  gakken.css
+ style info :  学研ネクスト用
+=================================================================== */
+/*gakken.html*/
+.gakken_navi {
+	padding-bottom:50px;
+}
+.gakken_navi li {
+	display			: block;
+	width			: 470px;
+	height			: 50px;
+	overflow		: hidden;
+	float			: left;
+	margin-right	: 20px;
+}
+.gakken_navi li.concept_navi2 {
+	margin-right	: 0px;
+}
+ul.gakken_BOX{
+	padding: 10px 0 15px 0;
+	background		:url(../../images/gakken/content1_img8.gif) no-repeat bottom;
+}
+ul.gakken_BOX  li{
+	padding-right: 30px;
+	text-align: right;
+}
+.plan_box{
+	width:960px;
+}
+.plan_box li{
+	width:290px;
+	float:left;
+	padding:10px;
+	background-color:#fff;
+	display:inline;
+}
+.plan_box .center{
+	margin:0 15px;
+	display:inline;
+}
+
+/*gakken2.html*/
+.box_white{
+	width:920px;
+	padding:20px;
+	background-color:#FFF;
+	color:#333;
+	font-size:93%;
+}
+.c2_box .left{
+	width:440px;
+	float:left;
+}
+.c2_box .right{
+	width:420px;
+	float:right;
+}
+.center_box{
+	text-align:center;
+	margin:20px auto;
+	width:768px;
+}
+.center_box p{
+	line-height:1.4em;
+	font-size:77%;
+}
+.box_white table{
+	margin:0 auto;
+	text-align:center;
+}
+.box_white2{
+	width:920px;
+	padding:20px;
+	background-color:#FFF;
+	color:#333;
+	font-size:85%;
+}
+
+.box_white2 .boxL{
+	width:450px;
+	float:left;
+}
+.box_white2 .boxR{
+	width:450px;
+	float:right;
+}
+.kankyo_2box_l{
+	width:215px;
+	float:left;
+}
+.kankyo_2box_r{
+	width:215px;
+	float:right;
+}
+.kankyo_3box li{
+	width:135px;
+	float:left;
+}
+.kankyo_3box .center{
+	display:inline;
+	margin:0 20px;
+}
+.kankyo_2box_l_2{
+	width:360px;
+	float:left;
+}
+.kankyo_2box_r_2{
+	width:80px;
+	float:right;
+}

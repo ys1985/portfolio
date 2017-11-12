@@ -1,0 +1,96 @@
+@charset "Shift_JIS";
+
+/* ===================================================================
+CSS information
+
+ file name  :  concept.css
+ style info :  コンセプト用
+=================================================================== */
+
+.concept_navi {
+	padding-bottom:50px;
+}
+.concept_navi li {
+	display			: block;
+	width			: 310px;
+	height			: 50px;
+	overflow		: hidden;
+	float			: left;
+	margin-right	: 15px;
+}
+.concept_navi li.concept_navi3 {
+	margin-right	: 0px;
+}
+.txtS {
+	font-size		: 8px;
+}
+.content_box .flt_L {
+	margin-right	: 10px;
+}
+.content_box .flt_R {
+	width			: 315px;
+}
+.content_box2 .flt_L {
+	width			: 390px;
+}
+.content_box2 .flt_R {
+	width			: 550px;
+}
+.whitenum {
+	display			: inline-block;
+	font-size		: 9px;
+	color			: #000;
+	background		: #fff;
+	line-height		: 1.5em;
+	width			: 1.5em;
+	height			: 1.5em;
+	text-align		: center;
+}
+* html .whitenum {/* IE 6 */
+	display			:inline;
+	zoom			:1;
+}
+*:first-child+html .whitenum {/* IE 7 */
+	display			:inline;
+	zoom			:1;
+}
+
+.content_item_ttl{
+	clear			: both;
+}
+
+.photobox{
+	margin-bottom	: 20px;
+}
+
+.photobox .item {
+	width			: 290px;
+	float			: left;
+	margin			: 0px 30px 0px 0px;
+}
+
+.photobox .item img {
+	margin-bottom	: 10px;
+}
+
+.photobox .last {
+	margin-right	: 0px;
+}
+
+
+.photobox .item_info li{
+	display			: inline;
+	margin-right	: 10px;
+}
+
+.photobox .item_info .item_square{
+	margin-bottom	: 5px;
+}
+
+.photobox .item_txt{
+	font-size:85%;
+}
+
+.photobox .item_txt span{
+	font-size:77%;
+}

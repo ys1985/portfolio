@@ -1,0 +1,28 @@
+@charset "Shift_JIS";
+/* ===================================================================
+CSS information
+
+ file name  :  access.css
+ style info :  アクセスマップ用
+=================================================================== */
+
+.inner_header{
+	width			: 640px;
+	margin			: 0 auto 0 auto;
+	position		: relative;
+}
+
+.access_content_bg {
+	background		: #fff;
+}
+
+.content_wrapper {
+	width			: 640px;
+	padding			: 25px 20px;
+}
+
+#footer{
+	width			: 100%;
+	border-top		: 1px solid #fff;
+	background		: #000;
+}

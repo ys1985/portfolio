@@ -1,0 +1,25 @@
+@charset "Shift_JIS";
+
+/* ===================================================================
+CSS information
+
+ file name  :  roomplan.css
+ style info :  ŠÔŽæ‚èindex—p
+=================================================================== */
+
+.content_box .item {
+	padding			: 30px;
+	background		: #fff;
+	margin-bottom	: 20px;
+}
+
+.content_box2 .flt_L {
+	width			: 390px;
+}
+.content_box2 .flt_R {
+	width			: 550px;
+}
+.gakken_bnr{
+	text-align:center;
+	margin:0 auto 30px auto;
+}

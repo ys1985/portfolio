@@ -1,0 +1,155 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS" />
+<meta name="description" content="東京メトロ南北線「東大前」駅徒歩4分。Brillia東大前。" /> 
+<meta name="keywords" content="Brillia東大前,東京メトロ南北線「東大前」駅徒歩4分,新築・分譲マンション,東京建物" />
+<title>【公式】Brillia東大前｜東京メトロ南北線「東大前」駅徒歩4分｜東京建物の新築・分譲マンション</title>
+<link rel="stylesheet" type="text/css" href="common/css/import.css" media="all" />
+<link rel="stylesheet" type="text/css" href="common/css/home.css" media="all" />
+<!--[info用CSS]-->
+<style type="text/css">
+	<!--
+	.news1 {
+	color: #cc0000;
+	}
+	.news2 {
+	font-size: 16px;
+	}
+	.news3 {
+	color: #cc0000;
+	font-size: 16px;
+	}
+	-->
+</style>
+<!--/info用CSS]-->
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
+<script type="text/javascript" src="common/js/common.js"></script>
+<script type="text/javascript" src="common/js/swfobject.js"></script>
+</head>
+<body>
+
+	<a name="pagetop"></a>
+	<!-- header start -->
+	<div id="header02">
+		<div class="inner_header">
+			<h1>【公式】Brillia東大前｜東京メトロ南北線「東大前」駅徒歩4分｜東京建物の新築・分譲マンション</h1>
+			<div class="logo"><a href="./index.html"><img src="common/images/header_logo.gif" width="178" height="30" alt="Brillia 東大前" /></a></div>
+			<div class="headerinfo"><img src="common/images/headerinfo.gif" width="261" height="26" alt="お問い合わせ 0120-222-846" /></div>
+			<div class="header_btn">
+				<ul class="clearfix"><!--
+				--><li><a href="outline.html" target="_blank" onclick="window.open(this.href,'popup','width=720,height=800,scrollbars=yes,resizable=yes'); return false;"><img src="common/images/header_menu01_off.gif" width="105" height="31" alt="物件概要" /></a></li><!--
+				--><li><a href="accessmap.html" target="_blank" onclick="window.open(this.href,'popup','width=720,height=800,scrollbars=yes,resizable=yes'); return false;"><img src="common/images/header_menu02_off.gif" width="105" height="31" alt="現地案内図" /></a></li><!--
+				--><li><a href="http://www.bt4.jp/request/index.html" target="_blank"><img src="common/images/header_menu03_off.gif" width="136" height="31" alt="資料請求" /></a></li><!--
+				--></ul>
+			</div>
+		</div>
+	</div>
+	<!-- header end -->
+	
+	<!-- グローバルナビ start -->
+	<div id="gnavi" class="clearfix">
+		<ul><!--
+			--><li><a href="top.html"><img src="common/images/gnavi_01_off.gif" width="137" height="39" alt="トップ" /></a></li><!--
+			--><li><a href="concept.html"><img src="common/images/gnavi_02_off.gif" width="137" height="39" alt="物件の特長" /></a></li><!--
+			--><li><a href="location.html"><img src="common/images/gnavi_03_off.gif" width="137" height="39" alt="周辺の環境" /></a><li><!--
+			--><li><a href="access.html"><img src="common/images/gnavi_04_off.gif" width="137" height="39" alt="アクセス" /></a><li><!--
+			--><li><a href="structure1.html"><img src="common/images/gnavi_05_off.gif" width="137" height="39" alt="安心安全" /></a><li><!--
+			--><li><a href="roomplan.html"><img src="common/images/gnavi_06_off.gif" width="137" height="39" alt="間取り" /></a><li><!--
+			--><li><a href="quality.html"><img src="common/images/gnavi_07_off.gif" width="138" height="39" alt="Brilliaについて" /></a><li><!--
+		--></ul>
+	</div>
+	<!-- グローバルナビ end -->
+	
+	
+	<!-- home start -->
+	<div class="home_main">
+		<div id="flashcontent">
+			<img src="images/home/mainImg.jpg" width="1038" height="543" border="0" usemap="#Map" />
+			<map name="Map" id="Map"><area shape="rect" coords="9,514,69,533" href="index.html" /></map>
+		</div>
+</div>
+	<!-- home end -->
+	
+	
+	<!-- home_content_bg start -->
+	<div class="home_content_bg">
+		<h2 class="mb30"><img src="images/home/copy_ttl01.gif" width="960" height="70" walt="「Brillia東大前」、誕生。資料請求受付開始。" /></h2>
+		<!-- content_wrapper start -->
+		<div class="content_wrapper">
+			<div class="clearfix mb20">
+				<!-- news start -->
+				<div class="news content_L">
+					<img class="mb20" src="images/home/copy_ttl02.gif" width="610" height="25" alt="4駅4路線利用可。1LDK～4LDKの全33邸誕生" />
+					<img src="images/home/news_ttl.gif" width="610" height="20" alt="NEWS" />
+					<!--<p><img src="teaser/ico_info.gif" width="48" height="14" alt="お知らせ" /><a href="http://www.c-minami.jp/news-03.pdf" target="_blank">「東北地方太平洋沖地震」に関するお知らせ</a></p>-->
+                    
+                        <p><script language="JavaScript1.1" type="text/javascript">
+     <!--
+     document.write ('<SCRIPT LANGUAGE="JavaScript1.1"SRC="http://www.brillia.com/bukken/topcopy.php?id=00000242&oe=s"><\/SCRIPT>');
+     //-->
+    </script></p>
+				</div>
+				<!-- news end -->
+				<!-- 資料請求ボタン start -->
+				<div class="content_R">
+					<div class="content_btn">
+						<ul><!--
+						--><li class="mb10"><a href="http://www.bt4.jp/request/index.html" target="_blank"><img src="images/home/content_btn01_off.gif" width="304" eight="73" alt="資料請求 当物件の資料をご請求の方に最新の情報をお届けします。" /></a></li><!--
+						--><li><a href="accessmap.html" target="_blank" onclick="window.open(this.href,'popup','width=720,height=800,scrollbars=yes,resizable=yes'); return false;"><img src="images/home/content_btn02_off.gif" width="304" height="45" alt="現地案内図はこちらから" /></a></li><!--
+						--></ul>
+					</div>
+				</div>
+				<!-- 資料請求ボタン end -->
+			</div>
+			<!-- information start -->
+			<div class="information">
+				<p class="mb20"><img src="images/home/information_ttl.gif" width="960" height="20" alt="INFORMATION" /></p>
+
+				<table cellpadding="0" cellspacing="0" border="0">
+					<tr>
+						<th><img src="images/home/outline_square.gif" width="12" height="12" />所在地</th>
+						<td>東京都文京区向丘１丁目27番1他（地番）</td>
+						<th><img src="images/home/outline_square.gif" width="12" height="12" />専有面積</th>
+						<td class="padding_r0px">41.21m&sup2;～83.33m&sup2;</td>
+					</tr>
+					<tr>
+						<th><img src="images/home/outline_square.gif" width="12" height="12" />総戸数</th>
+						<td>33戸（内非分譲住戸4戸）</td>
+						<th><img src="images/home/outline_square.gif" width="12" height="12" />間取り</th>
+						<td class="padding_r0px">1LDK～4LDK</td>
+					</tr>
+				</table>
+			</div>
+			<!-- information end -->
+		</div>
+		<!-- content_wrapper end -->
+	</div>
+	<!-- home_content_bg end -->
+	
+	<!-- footer start -->
+	<div id="footer">
+		<div class="footer_infoBox clearfix">
+			<div class="footer_L">
+				<img src="common/images/footerinfo_01.gif" width="480" height="160" alt="当マンションに関するお問い合わせ・ご相談はこちらから TEL:0120-222-846 ※携帯電話・PHSからもご利用になれます。 お問い合わせは「Brillia 東大前」ゲストサロン 営業時間 : 11：00～18：00(平日) 10：00～18：00(土日祝) 定休日 : 火・水曜日 ※祝日を除く"/>
+				<ul><!--
+				--><li><a href="http://www.bt4.jp/request/index.html" target="_blank"><img src="common/images/footer_menu01_off.gif" width="140" height="51" alt="資料請求 当物件の資料をご送付いたします" /></a></li><!--
+				--><li><a href="accessmap.html" target="_blank" onclick="window.open(this.href,'popup','width=720,height=800,scrollbars=yes,resizable=yes'); return false;"><img src="common/images/footer_menu02_off.gif" width="140" height="51" alt="現地案内図 現地案内図はこちらから" /></a></li><!--
+				--></ul>
+			</div>
+			<div class="footer_R">
+				<img src="common/images/footerinfo_02.gif" width="480" height="160" alt="事業主（売主）についてはこちらから"/>
+				<ul><!--
+				--><li><a href="http://sumai.tatemono.com/" target="_blank"><img src="common/images/footer_menu03.gif" width="215" height="37"  alt="＜売主＞東京建物 東京建物の実績　新築マンションのご案内" /></a></li>
+				<!--
+				--><li><a href="http://www.ttfuhan.co.jp/" target="_blank"><img src="common/images/footer_menu04.gif" width="215" height="37" alt="＜販売代理＞東京建物不動産販売 東京建物不動産販売のご案内" /></a></li>
+			  <!--
+				--></ul>
+				<div class="brillia_club"><a href="http://sumai.tatemono.com/club/" target="_blank"><img src="common/images/index_brillia_club.gif" alt="「Brillia Club」にご入会いただいた方にメールや冊子にて最新の物件情報をお届けいたします。（入会金・年会費一切無料）"/></a></div>
+		  </div>
+			<p class="copyright"><img src="common/images/copyright.gif" width="342" height="12" alt="(C)Copyright 2011 TOKYO TATEMONO Co.,Ltd. All RightsReserved." /></p>
+		</div>
+	</div>
+	<!-- footer end -->
+</body>
+</html>

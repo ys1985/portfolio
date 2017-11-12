@@ -1,0 +1,14 @@
+/* import.css */
+
+
+/*-----  contents -------
+
+
+	1.  reset.css
+	2.  common.css
+
+
+  ----------------------*/
+  
+	@import url("reset.css");
+	@import url("common.css");

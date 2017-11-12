@@ -1,0 +1,59 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS" />
+<meta name="description" content="東京メトロ南北線「東大前」駅徒歩4分。Brillia東大前。" /> 
+<meta name="keywords" content="Brillia東大前,東京メトロ南北線「東大前」駅徒歩4分,新築・分譲マンション,東京建物" />
+<title>物件概要 |【公式】Brillia東大前｜東京メトロ南北線「東大前」駅徒歩4分｜東京建物の新築・分譲マンション</title>
+<link rel="stylesheet" type="text/css" href="common/css/import.css" media="all" />
+<link rel="stylesheet" type="text/css" href="common/css/popup.css" media="all" />
+<link rel="stylesheet" type="text/css" href="common/css/outline.css" media="all" />
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
+<script type="text/javascript" src="common/js/common.js"></script>
+</head>
+<body>
+	<a name="pagetop"></a>
+	<!-- header start -->
+	<div id="header">
+		<div class="popup_inner_header">
+			<h1>【公式】Brillia東大前｜東京メトロ南北線「東大前」駅徒歩4分｜東京建物の新築・分譲マンション</h1>
+			<div class="logo"><a href="http://www.bt4.jp"><img src="common/images/header_logo.gif" width="178" height="30" alt="Brillia 東大前" /></a></div>
+			<div class="header_btn02">
+				<ul class="clearfix"><!--
+				--><li><a href="http://www.bt4.jp/request/index.html" target="_blank"><img src="common/images/header_menu03_off.gif" width="136" height="31" alt="資料請求" /></a></li><!--
+				--></ul>
+			</div>
+		</div>
+	</div>
+	<!-- header end -->
+	
+	<!-- access_content_bg start -->
+	<div class="outline_content_bg">
+		<!-- content_wrapper start -->
+		<div class="popup_content_wrapper_600px">
+			<div class="outline_bg">
+				<script src="http://www.brillia.com/bukken/outline.php?id=00000242&oe=s" type="text/javascript"></script>
+			</div>
+		
+			<div class="information mb20">
+				
+				<div class="pagetop02 mt20">
+					<img src="common/images/pagetop_arrow02.gif" width="7" height="4" /><a href="#pagetop" onclick="$('html,body').animate({scrollTop:0},500,'swing'); return false;">ページの先頭へ戻る</a>
+				</div>
+			</div>
+				
+			<div class="btn mt20"><!--
+				
+				--><a href="javascript:window.close();" class="ml20"><img src="images/access/btn_close_off.gif" width="148" height="41" alt="閉じる" /></a><!--
+			--></div>
+		</div>
+		<!-- content_wrapper end -->
+	</div>
+	<!-- access_content_bg end -->
+	
+	<!-- footer start -->
+	<div id="footer"><img src="common/images/popup_footer.gif" width="640" height="125" alt="当マンションに関するお問い合わせ・ご相談はこちらから TEL:0120-222-846 ※携帯電話・PHSからもご利用になれます。 お問い合わせは「Brillia 東大前」ゲストサロン 営業時間 : 11：00～18：00(平日) 10：00～18：00(土日祝) 定休日 : 火・水曜日 ※祝日を除く" /></div>
+	<!-- footer end -->
+	
+</body>
+</html>

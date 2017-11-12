@@ -1,0 +1,63 @@
+@charset "Shift_JIS";
+
+/* ===================================================================
+CSS information
+
+ file name  :  access.css
+ style info :  アクセスindex用
+=================================================================== */
+
+.address {
+	background		: url("../../images/access/content2_cap.gif") no-repeat left center;
+	min-height		: 20px;
+	padding-left	: 60px;
+	margin-bottom	: 10px;
+	font-size		: 14px;
+}
+
+.accese_l_box{
+	width			: 428px;
+	margin			: 0;
+	padding			: 0;
+	text-align		: left;
+}
+
+.accese_r_box{
+	width			: 532px;
+	margin			: 0;
+	padding			: 0;
+	text-align		: left;
+}
+
+.accese_l_box2{
+	width			: 640px;
+	margin			: 0;
+	padding			: 0;
+}
+
+
+.accese_r_box2{
+	width			: 300px;
+	margin			: 0;
+	padding			: 0;
+
+}
+
+.qr_box {
+	border-top		: 1px dotted #fff;
+	border-bottom	: 1px dotted #fff;
+	padding			: 15px 0px;
+}
+.qr_img {
+	width			: 100px;
+	vertical-align	: middle;
+}
+.qr_txt {
+	width			: 190px;
+	vertical-align	: middle;
+	padding-left	: 10px;
+}
+
+.itemize1 .mark {
+	display			: block;
+}

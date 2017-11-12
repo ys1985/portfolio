@@ -1,0 +1,514 @@
+@charset "Shift_JIS";
+/* ===================================================================
+CSS information
+
+ file name  :  common.css
+ style info :  共通のスタイル指定
+=================================================================== */
+
+body {
+	background-color: #000000;
+	text-align:center;
+	
+}
+
+p{
+	text-align		: left;
+	line-height		: 1.7em;
+}
+
+
+ul li{
+	line-height		: 1.7em;
+}
+
+
+
+/*ヘッダーナビ
+------------------------------------------*/
+
+#header{
+	height			: 90px;
+	background		: url("../images/header_bg.gif") no-repeat center top;
+	border-bottom	: 1px solid #fff;
+}
+
+
+#header02{
+	height			: 90px;
+	background		: url("../images/header_bg.gif") no-repeat center top;
+}
+
+#header h1{
+	color			: #fff;
+	position		: absolute;
+	left			: 0;
+	top				: 15px;
+	font-size		: 11px;		
+}
+
+#header02 h1{
+	color			: #fff;
+	position		: absolute;
+	left			: 0;
+	top				: 15px;
+	font-size		: 11px;		
+}
+
+
+.inner_header{
+	width			: 960px;
+	margin			: 0 auto 0 auto;
+	position		: relative;
+}
+
+
+.inner_header .logo{
+	position		: absolute;
+	left			: 0;
+	top				: 40px;
+}
+
+.header_btn{
+	width			: 121px;
+	height			: 47px;
+	background		: url("../images/header_menubg.gif") no-repeat;
+	position		: absolute;
+	right			: 0;
+	top				: 33px;
+}
+
+.header_btn02{
+	width			: 294px;
+	height			: 47px;
+	background		: url("../images/header_menubg02.gif") no-repeat;
+	position		: absolute;
+	right			: 0;
+	top				: 33px;
+}
+
+.header_btn ul ,
+.header_btn02 ul{
+	position		: relative;
+	margin			: 8px 0px 0px 8px;
+}
+
+.header_btn ul li ,
+.header_btn02 ul li {
+	display			: block;
+	float			: left;
+	margin-right	: 5px;
+}
+
+.headerinfo{
+	position		: absolute;
+	right			: 0;
+	top				: 0;
+}
+
+/*グローバルナビ
+------------------------------------------*/
+
+#gnavi{
+	width			: 100%;
+	height			: 39px;
+	background		: url("../images/gnavi_bg.gif") repeat-x;
+	border-bottom	: 2px solid #fff;
+}
+
+#gnavi ul{
+	width			: 960px;
+	margin			: 0 auto 0 auto;
+}
+
+#gnavi ul li {
+	float			: left;
+	display			: block;
+}
+
+#gnavi ul li a{
+	display			: block;
+	text-align		: -9999px;
+}
+
+/*フッター
+------------------------------------------*/
+#footer{
+	width			: 100%;
+	border-top		: 1px solid #fff;
+	background		: url("../images/footer_bg.gif") no-repeat center top;
+}
+
+#footer .footer_infoBox{
+	width			: 960px;
+	margin			: 15px auto 30px auto;
+	position		: relative;
+}
+
+
+#footer .footer_infoBox .footer_L{
+	float			: left;
+	position		: relative;
+	width			: 480px;
+}
+
+#footer .footer_infoBox .footer_L ul{
+	position		: absolute;
+	top				: 37px;
+	left			: 325px;
+}
+
+
+#footer .footer_infoBox .footer_L ul li{
+	margin-bottom	: 10px;
+}
+
+
+#footer .footer_infoBox .footer_R{
+	float			: left;
+	position		: relative;
+	width			: 480px;
+}
+
+#footer .footer_infoBox .footer_R ul{
+	position		: absolute;
+	top				: 39px;
+	left			: 17px;
+}
+#footer .footer_infoBox .footer_R ul li{
+	margin-bottom	: 17px;
+	
+}
+
+
+#footer .footer_infoBox .footer_R .brillia_club{
+	position		: absolute;
+	left			: 254px;
+	top				: 44px;
+}
+
+#footer .copyright{
+	float			: right;
+	margin-top      : 15px;
+}
+
+
+/* コンテンツ用 背景 */
+/*-----------------------------------------------------*/
+.content_bg{
+	color			: #fff;
+	background		: #191919 url("../images/home_contentbg.gif") repeat-x center top;
+	padding			: 60px 0 40px 0;;
+	position		: relative;
+}
+
+.content_wrapper{
+	width			: 960px;
+	margin			: 0 auto;
+	text-align		: left;
+}
+
+/* パンクズ */
+/*-----------------------------------------------------*/
+.breadcrumbs {
+	position		: absolute;
+	top				: 140px;
+	left			: 50%;
+	margin-left		: -480px;
+}
+.breadcrumbs li {
+	display			: inline;
+	color			: #ffffff;
+}
+.breadcrumbs a {
+	color			: #ffffff;
+}
+
+/* コンテンツ用ヘッダータイトル */
+/*-----------------------------------------------------*/
+.content_headerttl{
+	background		: url("../images/content_headerttl_bg.gif") repeat-x;
+	height			: 43px;
+}
+
+/* フッターナビゲーション */
+/*-----------------------------------------------------*/
+#footer_navi {
+	border-top		: 1px solid #fff;
+}
+#footer_navi ul {
+	width			: 960px;
+	margin			: 0 auto;
+	text-align		: left;
+	color			: #ffffff;
+	padding			: 10px 0px;
+}
+#footer_navi li {
+	display			: inline;
+	margin			: 0px 2px;
+}
+#footer_navi li a {
+	color			: #ffffff;
+	text-decoration	: none;
+	font-size		: 10px;
+}
+#footer_navi li a:hover {
+	text-decoration	: underline;
+}
+
+/* ページトップ */
+/*-----------------------------------------------------*/
+.pagetop , .pagetop02 {
+	text-align		: right;
+}
+.pagetop a {
+	color			: #fff;
+}
+
+.pagetop img {
+	margin-right	: 5px;
+	vertical-align	: middle;
+}
+
+
+.pagetop img {
+	margin-right	: 5px;
+	vertical-align	: middle;
+}
+
+.pagetop02 {
+	text-align		: right;
+}
+.pagetop02 a {
+	color			: #000;
+}
+
+.pagetop02 img {
+	margin-right	: 5px;
+	vertical-align	: middle;
+}
+
+
+.pagetop02 img {
+	margin-right	: 5px;
+	vertical-align	: middle;
+}
+
+
+/*汎用クラス
+-----------------------------------------------------*/
+/* フロート */
+.flt_R{
+	float:right;
+}
+
+.flt_L{
+	float:left;
+}
+
+/*マージン補助*/
+.mt10 {
+	margin-top:10px;
+}
+.mt20 {
+	margin-top:20px;
+}
+.mt30 {
+	margin-top:30px;
+}
+.mt40 {
+	margin-top:40px;
+}
+.mt50 {
+	margin-top:50px;
+}
+
+.mb5{
+	margin-bottom:5px;
+}
+
+.mb6{
+	margin-bottom:6px;
+}
+
+.mb7{
+	margin-bottom:7px;
+}
+
+.mb8{
+	margin-bottom:8px;
+}
+
+.mb9{
+	margin-bottom:9px;
+}
+
+.mb10 {
+	margin-bottom:10px;
+}
+.mb20 {
+	margin-bottom:20px;
+}
+.mb30 {
+	margin-bottom:30px;
+}
+.mb40 {
+	margin-bottom:40px;
+}
+.mb50 {
+	margin-bottom:50px;
+}
+.mb60 {
+	margin-bottom:60px;
+}
+
+.ml10 {
+	margin-left:10px;
+}
+.ml20 {
+	margin-left:20px;
+}
+.ml30 {
+	margin-left:30px;
+}
+.ml40 {
+	margin-left:40px;
+}
+.ml50 {
+	margin-left:50px;
+}
+
+.mr5 {
+	margin-right:5px;
+}
+
+.mr10 {
+	margin-right:10px;
+}
+
+.mr15 {
+	margin-right:15px;
+}
+
+.mr20 {
+	margin-right:20px;
+}
+
+.mr28 {
+	margin-right:28px;
+}
+
+
+.mr30 {
+	margin-right:30px;
+}
+.mr40 {
+	margin-right:40px;
+}
+.mr50 {
+	margin-right:50px;
+}
+
+.mr60 {
+	margin-right:60px;
+}
+
+.mr70 {
+	margin-right:70px;
+}
+
+.mr80 {
+	margin-right:80px;
+}
+
+.mr89 {
+	margin-right:89px;
+}
+
+.mr90 {
+	margin-right:90px;
+}
+
+
+
+/* clearfix
+-----------------------------------------------------*/
+.clearfix:after {/*for modern browser*/
+content: " ";
+display: block;
+clear: both;
+height: 0;
+visibility: hidden;
+}
+	
+.clearfix {
+zoom: 1; /*for IE 5.5-7*/
+display: inline-block;
+}
+	
+/* exlude MacIE 5 \*/
+* html .clearfix {
+height: 1%;
+}
+	
+.clearfix {
+display: block;
+}
+/* end MacIE5 */
+
+.clear{
+	clear:both;
+}
+
+/* ナンバーキャプション */
+.numb_caption{
+	font-size	: 77%;
+	text-align	: left;
+}
+
+
+/*------------------------------------------------
+ * itemize
+ *------------------------------------------------*/
+.itemize1  ,
+.itemize1b ,
+.itemize2  ,
+.itemize2b ,
+.itemize3  ,
+.itemize3b {
+	position				: relative;
+	display					: block;
+}
+.itemize1  .mark ,
+.itemize1b .mark ,
+.itemize2  .mark ,
+.itemize2b .mark ,
+.itemize3  .mark ,
+.itemize3b .mark {
+	position				: absolute;
+	top						: 0;
+	left					: 0;
+}
+.itemize1  { padding-left	: 1.0em; }
+.itemize1b { padding-left	: 1.5em; }
+.itemize2  { padding-left	: 2.0em; }
+.itemize2b { padding-left	: 2.5em; }
+.itemize3  { padding-left	: 3.0em; }
+.itemize3b { padding-left	: 3.5em; }
+.itemize1  .mark { _left	: -1.0em; }
+.itemize1b .mark { _left	: -1.5em; }
+.itemize2  .mark { _left	: -2.0em; }
+.itemize2b .mark { _left	: -2.5em; }
+.itemize3  .mark { _left	: -3.0em; }
+.itemize3b .mark { _left	: -3.5em; }
+
+
+.txt_ac {
+	text-align		: center;
+}
+.txt_al {
+	text-align		: left;
+}
+.txt_ar {
+	text-align		: right;
+}

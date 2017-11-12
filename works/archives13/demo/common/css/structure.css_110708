@@ -1,0 +1,79 @@
+@charset "Shift_JIS";
+
+/* ===================================================================
+CSS information
+
+ file name  :  structure1.css
+ style info :  安心安全ページ用
+=================================================================== */
+.structure1_l_box{
+	width		:469px;
+	margin		:0;
+	padding		:0;
+}
+	
+.structure1_r_box{
+	width		: 469px;
+	margin		: 0;
+	padding		: 0;
+
+}
+
+.concept_navi {
+	padding-bottom:50px;
+}
+.concept_navi li {
+	display			: block;
+	width			: 310px;
+	height			: 50px;
+	overflow		: hidden;
+	float			: left;
+	margin-right	: 15px;
+}
+
+.concept_navi li.concept_navi3 {
+	margin-right	: 0px;
+}
+
+.structure1_col5{
+	width:960px;
+	margin-bottom:30px;
+}
+
+.structure1_col5 .item{
+	margin-right	:10px;
+}
+
+.structure1_col5 .last{
+	margin-right	:0px!important;
+}
+
+.align_center{
+	text-align:center;
+}
+.photobox .item {
+	width			: 300px;
+	float			: left;
+	margin			: 0px 30px 0px 0px;
+}
+.photobox .item_info li{
+	display			: inline;
+	margin-right	: 10px;
+}
+.photobox .item_txt{
+	font-size:85%;
+}
+
+.photobox .item_txt span{
+	font-size:77%;
+}
+
+
+.photobox .last {
+	margin-right	: 0px;
+	margin-bottom	: 25px;
+}
+
+.photobox .item_info .item_square{
+	margin-bottom	: 5px;
+}

@@ -1,0 +1,314 @@
+@charset "utf-8";
+
+
+/* --------------------------------
+
+	* Default Style Sheet 
+	
+	* Contents
+	
+	1. Universal Selector 
+	2. Structure Module
+	3. Hyper Text Module
+	4. List Module
+	5. Tables Module
+	6. Image Module
+	7. Text + Presentation Module
+	8. Forms Module
+	
+	
+--------------------------------- */
+
+
+
+/* ==========================================================================================================
+
+	 1. Universal Selector
+ 
+============================================================================================================*/
+
+* {
+	/*background-color	: transparent;*/
+	margin				: 0;
+	padding				: 0;
+	font-size			: 100.01%;
+	font-style			: normal;
+}
+
+/* for WinIE6,7 
+div,ul,li,ol,dl,dt,dd,table,th,td,p,a {
+	zoom: 1; 
+}*/
+
+/* ==========================================================================================================
+
+	 2. Structure Module
+ 
+============================================================================================================*/
+
+html {
+	overflow-y		: scroll; /* for FireFox scrollbar */
+	height			: 100%;
+}
+
+
+/* ie6 hack */
+* html body {
+	font-size: 75%;
+}
+
+/* ie7 hack */
+*:first-child+html body {
+	font-size: 75%;
+}
+
+
+/* ie6 hack htcですべての要素に:hoverを使う（相対パスはhtmlから見たものになるので絶対パス,URL指定を推奨） */
+/*
+* html body {
+	behavior:url("./css/csshover2.htc");
+	//behavior:url("http://●●●.com/css/csshover2.htc");
+}
+*/
+
+/* ==========================================================================================================
+
+	 3. Hyper Text Module
+ 
+============================================================================================================*/
+
+a {
+	text-decoration	: none;
+}
+
+a:link {
+
+}
+
+a:visited {
+
+}
+
+a:hover {
+
+}
+
+a:active {
+
+}
+
+/* ==========================================================================================================
+
+	  4. List Module
+
+============================================================================================================*/
+
+ul {
+	list-style	: none;
+}
+
+dt {
+	display	: block;
+	width	: auto;
+}
+
+/* ==========================================================================================================
+
+	  5. Tables Module
+
+============================================================================================================*/
+
+table {
+	border			: none;
+	border-collapse	: collapse;
+	border-spacing	: 0;
+	font-size		: 100%;
+}
+
+td, 
+th { /* セルの規定値をmiddleからtopに変更 */
+	vertical-align	: top;
+}
+
+th {
+	font-weight		: normal ;
+	text-align		: left ;
+}
+
+caption {
+	text-align		: left;
+}
+
+/* ==========================================================================================================
+
+	  6. Image Module
+
+============================================================================================================*/
+
+/*  イメージをボックス上に接させる。
+	safariでおかしくなるのでtopをdefault。場合によりbottomにすることも
+-----------------------------------*/
+
+img { 
+	background-color	: transparent;
+	vertical-align		: top;
+}
+
+a img {
+	border	: none;
+}
+
+/* ==========================================================================================================
+
+	  7. Text + Presentation Module
+
+============================================================================================================*/
+
+/*  ------------------------------------------------------------------
+
+	Text(inline) + Presentation Module
+
+---------------------------------------------------------------------*/
+br {
+	letter-spacing	: normal;
+}
+
+abbr {
+	border-bottom	: 1px dashed #999;
+	cursor			: help;
+}
+
+pre, 
+code, 
+samp, 
+kbd, 
+var {
+	/*font-size		: 99%;*/
+	font-family		: Monaco, 'Andale Mono', "Courier New", Courier, monospace;
+}
+
+kbd {
+	border: 1px solid #999999;
+	padding: 0.2em 0.4em;
+	text-transform: uppercase;
+	font-size: 83%;
+}
+
+dfn {
+	font-weight: bold;
+}
+
+cite {
+	font-weight: bold;
+}
+
+sup, 
+sub {
+	font-size		: 75% ;
+}
+
+hr {
+	height			: 1px;
+}
+
+
+/*  selected text
+-----------------------------------*/
+
+::selection {
+	background		: #333333;
+	color			: #fff;
+}
+
+::-moz-selection {
+	background		: #333333;
+	color			: #fff;
+}
+
+/*  ------------------------------------------------------------------
+
+	Text module(block)
+
+---------------------------------------------------------------------*/
+/*blockquote, q {
+	quotes: "" "";
+}*/
+
+
+/* ==========================================================================================================
+
+	8. Forms Module + Replaced Elemnt
+
+============================================================================================================*/
+
+input, 
+textarea, 
+select, 
+option, 
+optgroup {
+	vertical-align		: middle;
+	background-color	: #FFF;
+	font				: 99%/1.6 "メイリオ", Meiryo, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro W3", Osaka, "ＭＳ Ｐゴシック", sans-serif;
+}
+
+/* ie6 hack IEでinputの大きさを超えるline-heightを入れるとfocus時にずれる問題*/
+* html input {
+	line-height: 1.0;
+	height: 1.6em;
+}
+
+/* ie7 hack */
+*:first-child+html input {
+	line-height: 1.0;
+}
+
+/* IE7でinput（置換要素）がズームされない問題を解決 */
+input {
+	zoom: 1;
+}
+/* ie7 hack IE7でlabelがズームされない問題 */
+*:first-child+html label {
+	zoom: 1;
+}
+
+select {
+	min-width		: 2em;
+	border	: 1px solid #999999;
+}
+
+option, 
+optgroup {
+	padding-right	: 0.4em;
+	color: inherit; /* for Opera(Operaは継承してくれない)*/
+}
+
+fieldset {
+	border			: none;
+}
+
+legend {
+	display			: none;
+}
+
+/*  input & label & option mousePointer
+-----------------------------------*/
+label[for], 
+input[type="checkbox"], 
+input[type="radio"], 
+input[type="button"], 
+input[type="image"], 
+input[type="reset"], 
+input[type="submit"], 
+select, 
+option {
+	cursor	: pointer;
+}
+
+optgroup {
+	cursor	: default;
+}
+
+/* label clickの明示
+label[for]:active {
+	outline: 1px dotted #333333;
+}*/

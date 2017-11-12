@@ -1,0 +1,195 @@
+@charset "Shift_JIS";
+
+/* ===================================================================
+CSS information
+
+ file name  :  concept.css
+ style info :  コンセプト用
+=================================================================== */
+
+.concept_navi {
+	padding-bottom:50px;
+}
+.concept_navi li {
+	display			: block;
+	width			: 470px;
+	height			: 50px;
+	overflow		: hidden;
+	float			: left;
+	margin-right	: 20px;
+}
+.concept_navi li.concept_navi2 {
+	margin-right	: 0px;
+}
+.txtS {
+	font-size		: 8px;
+}
+.content_box .flt_L {
+	margin-right	: 10px;
+}
+.content_box .flt_R {
+	width			: 315px;
+}
+.content_box2 .flt_L {
+	width			: 390px;
+}
+.content_box2 .flt_R {
+	width			: 550px;
+}
+.whitenum {
+	display			: inline-block;
+	font-size		: 9px;
+	color			: #000;
+	background		: #fff;
+	line-height		: 1.5em;
+	width			: 1.5em;
+	height			: 1.5em;
+	text-align		: center;
+}
+* html .whitenum {/* IE 6 */
+	display			:inline;
+	zoom			:1;
+}
+*:first-child+html .whitenum {/* IE 7 */
+	display			:inline;
+	zoom			:1;
+}
+
+.content_item_ttl{
+	clear			: both;
+}
+
+.photobox{
+}
+
+.photobox .item {
+	width			: 225px;
+	float			: left;
+	margin			: 0px 20px 0px 0px;
+}
+
+.photobox .item img ,
+.photobox .item02 img {
+	margin-bottom	: 10px;
+}
+
+.photobox .item02 {
+	width			: 630px;
+	float			: left;
+	margin			: 0px 30px 0px 0px;
+}
+
+.photobox .last {
+	margin-right	: 0px;
+}
+
+.photobox .item_info {
+	margin-bottom:50px;
+}
+
+.photobox .item_info li{
+	display			: inline;
+	margin-right	: 10px;
+}
+
+.photobox .item_info .item_square{
+	margin-bottom	: 5px;
+}
+
+.photobox .item_txt{
+	font-size:85%;
+}
+
+.photobox .item_txt span{
+	font-size:77%;
+}
+.item_long{
+	width:225px;
+	float:left;
+}
+.long_r{
+	width:715px;
+	float:right;
+}
+.listen{
+	margin-bottom:50px;
+	background: url("../../images/equipment/equipment1/listen_bg.gif") repeat-y center top;
+	padding:30px;
+	color:#333;
+
+}
+.listen_l{
+	width:430px;
+	float:left;
+}
+.listen_r{
+	width:430px;
+	float:right;
+}
+.listen_box{
+	width:430px;
+}
+
+.listen_img{
+		width:200px;
+		float:left;
+}
+.listen_text{
+	width:200px;
+	float:right;
+}
+.listen_text dt{
+	font-weight:bold;
+	font-size:14px;
+	margin-bottom:10px;
+}
+.eco_ph{
+	text-align:center;
+	margin:0 auto 80px auto;
+}
+.photobox{
+}
+
+.photobox .eco {
+	width			: 225px;
+	float			: left;
+	margin			: 0px 20px 20px 0px;
+}
+
+
+.photobox .last {
+	margin-right	: 0px;
+}
+
+.photobox .eco_info {
+	margin-bottom:5px;
+}
+
+.photobox .eco_info li{
+	display			: inline;
+	margin-right	: 10px;
+}
+.photobox .eco_info span{
+	font-size:77%;
+}
+.eco_cap span{
+	font-size:77%;
+}
+
+.photobox .eco_info .eco_square{
+	margin-bottom	: 5px;
+}
+
+.photobox .eco_txt{
+	font-size:93%;
+}
+
+.photobox .eco_txt span{
+	font-size:85%;
+}
+
+.photobox .eco_L {
+	width			: 470px;
+	float			: left;
+	margin			: 0px 20px 20px 0px;
+}

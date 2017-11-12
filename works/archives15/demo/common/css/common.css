@@ -1,0 +1,215 @@
+body{
+	font-family: "メイリオ", Meiryo, "ヒラギノ角ゴ Pro W3", Hiragino Kaku Gothic Pro, "ＭＳ Ｐゴシック", MS PGothic, sans-serif;
+    font-size: 81%;
+    line-height: 140%;
+    margin: 0;
+    padding: 0;
+	color:#333;
+	border-top:3px solid #39b502;
+}
+
+a{
+	color:#4baaf4;
+	text-decoration:underline;
+}
+
+a:link ,
+a:visited ,
+a:active ,{
+	color:#4baaf4;
+	text-decoration:underline;
+}
+
+a:hover{
+	text-decoration:none;
+}
+
+
+#main_area{
+	width:1200px;
+	text-align:center;
+	margin:0 auto;
+}
+
+.inner_wrapper{
+	width:980px;
+	overflow:hidden;
+	_zoom:1;
+	margin:0 auto;
+}
+
+.box_float{
+	overflow:hidden;
+	_zoom:1;
+}
+
+.section02_wrapper{
+	width:100%;
+	height:auto;
+	padding-top:30px;
+	background:url(../img/section02_bg.gif);
+}
+
+.section05_wrapepr{
+	overflow:hidden;
+	_zoom:1;
+	padding-top:40px;
+	padding-bottom:40px;
+	margin:0 auto;
+	width:1200px;
+	height:auto;
+	background:url(../img/section05_bg.gif);
+}
+	
+
+.entry_btn_area01{
+	overflow:hidden;
+	_zoom:1;
+	margin:30px auto 15px auto; 
+	width:726px;
+}
+
+.entry_brn_area01 .entry_flot_R{
+	float:right;
+	width:542px;
+}
+
+
+
+/*-------------------------
+
+ お仕事を探す/登録会会場一覧
+ 
+--------------------------*/
+.border_blue{
+	border:1px solid #4baaf4;
+}
+
+.border_green{
+	border:1px solid #39b502;
+}
+
+.search_box{
+	display:table;
+	width:766px;
+	margin:0 auto;
+}
+
+.search_box .blue_ttl{
+	background:#4baaf4;
+	width:220px;
+	display:table-cell;
+	vertical-align:middle;
+}
+
+.search_box .green_ttl{
+	background:#39b502;
+	width:220px;
+	display:table-cell;
+	vertical-align:middle;
+}
+
+.search_box .txt_lk_box{
+	width:516px;
+	display:table-cell;
+	vertical-align:middle;
+	font-size:16px;
+	padding-top:10px;
+	padding-left:15px;
+	padding-right:15px;
+}
+
+
+.search_box .txt_lk_box ul{
+	overflow:hidden;
+	_zoom:1;
+}
+
+.search_box .txt_lk_box ul li{
+	float:left;
+	padding-left:10px;
+	padding-bottom:10px;
+}
+
+.pos_relative{
+	position:relative;
+}
+
+.section04_entry_lk{
+	position:absolute;
+	top:40px;
+	left:410px;
+	font-size:16px;
+	font-weight:normal;
+}
+
+
+/*-----------------------------
+
+ footer 
+
+-------------------------------*/
+
+#footer{
+	margin-top:50px;
+	background:#39b502;
+	text-align:center;
+	padding-top:7px;
+	padding-bottom:7px;
+	font-size:12px;
+	color:#fff;
+}
+
+
+
+/*-------------------------
+
+	汎用クラス
+	
+--------------------------*/
+
+float_box{
+	overflow:hidden;
+	_zoom:1;
+}
+
+.mt10{ margin-top:10px; }
+.mt20{ margin-top:20px; }
+.mt30{ margin-top:30px; }
+.mt25{ margin-top:30px; }
+.mt40{ margin-top:40px; }
+.mt90{ margin-top:90px; }
+
+.mb10{ margin-bottom:10px; }
+.mb15{ margin-bottom:15px; }
+.mb20{ margin-bottom:20px; }
+.mb30{ margin-bottom:30px; }
+.mb40{ margin-bottom:40px; }
+
+.pr1em{ padding-right:1em; }
+.pr2em{ padding-right:2em; }
+.pr10{ padding-right:10px; }
+.pr15{ padding-right:15px; }
+
+.mr15{ margin-right:15px; }
+.mr20{ margin-right:20px; }
+
+.pr85{ padding-right:85px; }
+
+.font10px{ font-size:10px;}
+.font11px{ font-size:11px;}
+.font12px{ font-size:12px;}
+.font14px{ font-size:14px;}
+.font16px{ font-size:16px;}
+
+.float_L{ float:left; }
+.float_R{ float:right; }
+.clear{ clear:both; }
+.txt_ac{text-align:center;}
+.box_relative{ position:relative }
+
+
+/* タグディスプレイ none*/
+.tag_displaynone{
+	display:none;
+}	

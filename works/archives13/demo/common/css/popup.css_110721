@@ -1,0 +1,76 @@
+@charset "Shift_JIS";
+/* ===================================================================
+CSS information
+
+ file name  :  popup.css
+ style info :  アクセスポップアップ用
+=================================================================== */
+
+.popup_inner_header{
+	width			: 640px;
+	margin			: 0 auto 0 auto;
+	position		: relative;
+}
+
+.popup_inner_header .logo{
+	position		: absolute;
+	left			: 0;
+	top				: 40px;
+}
+
+.access_content_bg {
+	background		: #fff;
+}
+
+.outline_content_bg {
+	background		: #fff;
+}
+
+.popup_content_wrapper {
+	width			: 640px;
+	padding			: 25px 20px;
+	margin			: 0 auto;
+}
+
+.popup_content_wrapper_600px {
+	width			: 600px;
+	padding			: 25px 20px;
+	margin			: 0 auto;
+	
+	
+}
+
+.popup_content_wrapper_600px table table {
+	border-collapse:separate;
+	border-spacing:1px;
+	text-align		: left;
+}
+
+.popup_content_wrapper_600px table table td{
+	
+	padding:2px;
+}
+
+#footer{
+	width			: 100%;
+	border-top		: 1px solid #fff;
+	background		: #000;
+}
+
+/* ===================================================================
+CSS information
+
+ file name  :  popup.css
+ style info :  ルームプランポップアップ用
+=================================================================== */
+
+.room_plan_contetbg{
+	background:url("../../images/roomplan/popup_roomplan_contentbg.gif") no-repeat center top;
+	border:1px solid #ccc;
+	padding:29px;
+}
+
+
+.room_plan_contetbg img{
+	float:left;
+}

@@ -1,0 +1,39 @@
+@charset "Shift_JIS";
+
+/* ===================================================================
+CSS information
+
+ file name  :  quality.css
+ style info :  アクセスindex用
+=================================================================== */
+
+.content_box .flt_L ,
+.content_box .flt_R {
+	border				: 1px solid #444444;
+	background			: #2E2E2E;
+	padding				: 15px;
+	width				: 440px;
+	
+}
+.content_box .ttl {
+	margin-bottom		: 15px;
+}
+.content_box .txt {
+	float				: left;
+	width				: 238px;
+}
+.content_box .img {
+	float				: right;
+	width				: 179px;
+}
+
+.content_whitebox {
+	background			: #ffffff;
+	border				: 1px slid #ddd;
+	padding				: 30px;
+	color				: #333;
+}
+
+.quality_flt_box{
+	
+}

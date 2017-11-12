@@ -1,0 +1,85 @@
+@charset "Shift_JIS";
+
+/* ===================================================================
+CSS information
+
+ file name  :  location.css
+ style info :  Žü•ÓŠÂ‹«—p
+=================================================================== */
+
+.location_ttl {
+	position:relative;
+	width:464px;
+}
+
+
+.location_ttl p{
+	position:absolute;
+	color:#333;
+	right:0;
+	top:4px;
+	margin-right:10px;
+	/*font-weight:bold;*/
+	color:#CD1B1B;
+}
+
+.location_ttl p span{
+	font-size:17px;
+}
+
+
+
+.location_caption{
+	width:960px;
+}
+
+.location_caption img{
+	display:block;
+	float:left;
+	width:83px;
+}
+
+.location_caption ul{
+	float:right;
+	width:857px;
+	padding:0;
+}
+
+.location_caption li{
+	font-size:77%;
+	line-height:1.6em;
+	padding:0;
+}
+
+.life_info_box{
+	width:464px;
+}
+
+
+.life_info table{
+	width:464px;
+}
+
+.life_info_box .info1{
+	padding:8px 0;
+	border-bottom:dotted 1px #FFFFFF;
+	font-size:11px;	
+	width:300px;
+	text-align:left;
+}
+
+.life_info_box .info2 , .info3{
+	padding:8px 0;
+	border-bottom:dotted 1px #FFFFFF;
+	font-size:11px;
+	width:82px;
+	text-align:right
+}
+
+
+
+.life_info_box .last{
+	border-bottom:none!important;
+	padding-bottom: 45px;
+}
+
