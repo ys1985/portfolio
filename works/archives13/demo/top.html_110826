@@ -1,10 +1,10 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS" />
-<meta name="description" content="“Œ‹žƒƒgƒ“ì–küu“Œ‘å‘Ov‰w“k•à4•ªBBrillia“Œ‘å‘OB" /> 
-<meta name="keywords" content="Brillia“Œ‘å‘O,“Œ‹žƒƒgƒ“ì–küu“Œ‘å‘Ov‰w“k•à4•ª,V’zE•ª÷ƒ}ƒ“ƒVƒ‡ƒ“,“Œ‹žŒš•¨" />
-<title>yŒöŽ®zBrillia“Œ‘å‘Ob“Œ‹žƒƒgƒ“ì–küu“Œ‘å‘Ov‰w“k•à4•ªb“Œ‹žŒš•¨‚ÌV’zE•ª÷ƒ}ƒ“ƒVƒ‡ƒ“</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½gï¿½ï¿½ï¿½ï¿½kï¿½ï¿½ï¿½uï¿½ï¿½ï¿½ï¿½Oï¿½vï¿½wï¿½kï¿½ï¿½4ï¿½ï¿½ï¿½BBrilliaï¿½ï¿½ï¿½ï¿½Oï¿½B" /> 
+<meta name="keywords" content="Brilliaï¿½ï¿½ï¿½ï¿½O,ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½gï¿½ï¿½ï¿½ï¿½kï¿½ï¿½ï¿½uï¿½ï¿½ï¿½ï¿½Oï¿½vï¿½wï¿½kï¿½ï¿½4ï¿½ï¿½,ï¿½Vï¿½zï¿½Eï¿½ï¿½ï¿½ï¿½ï¿½}ï¿½ï¿½ï¿½Vï¿½ï¿½ï¿½ï¿½,ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½" />
+<title>ï¿½yï¿½ï¿½ï¿½ï¿½ï¿½zBrilliaï¿½ï¿½ï¿½ï¿½Oï¿½bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½gï¿½ï¿½ï¿½ï¿½kï¿½ï¿½ï¿½uï¿½ï¿½ï¿½ï¿½Oï¿½vï¿½wï¿½kï¿½ï¿½4ï¿½ï¿½ï¿½bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÌVï¿½zï¿½Eï¿½ï¿½ï¿½ï¿½ï¿½}ï¿½ï¿½ï¿½Vï¿½ï¿½ï¿½ï¿½</title>
 <link rel="stylesheet" type="text/css" href="common/css/import.css" media="all" />
 <link rel="stylesheet" type="text/css" href="common/css/home.css" media="all" />
 <link rel="stylesheet" type="text/css" href="common/css/print.css" media="print" />
@@ -16,7 +16,7 @@
 <script type="text/javascript">
 	swfobject.embedSWF("index.swf", "flashcontent", "1038", "540", "8");
 </script>
-<!--[info—pCSS]--> 
+<!--[infoï¿½pCSS]--> 
 <style type="text/css"> 
 <!--
 .news1 {
@@ -39,34 +39,34 @@ font-size: 16px;
 	<!-- header start -->
 	<div id="header02">
 		<div class="inner_header">
-			<h1>yŒöŽ®zBrillia“Œ‘å‘Ob“Œ‹žƒƒgƒ“ì–küu“Œ‘å‘Ov‰w“k•à4•ªb“Œ‹žŒš•¨‚ÌV’zE•ª÷ƒ}ƒ“ƒVƒ‡ƒ“</h1>
-			<div class="logo"><a href="./index.html"><img src="common/images/header_logo.gif" width="178" height="30" alt="Brillia “Œ‘å‘O" /></a></div>
-			<div class="headerinfo"><img src="common/images/headerinfo.gif" width="261" height="26" alt="‚¨–â‚¢‡‚í‚¹ 0120-222-846" /></div>
+			<h1>ï¿½yï¿½ï¿½ï¿½ï¿½ï¿½zBrilliaï¿½ï¿½ï¿½ï¿½Oï¿½bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½gï¿½ï¿½ï¿½ï¿½kï¿½ï¿½ï¿½uï¿½ï¿½ï¿½ï¿½Oï¿½vï¿½wï¿½kï¿½ï¿½4ï¿½ï¿½ï¿½bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÌVï¿½zï¿½Eï¿½ï¿½ï¿½ï¿½ï¿½}ï¿½ï¿½ï¿½Vï¿½ï¿½ï¿½ï¿½</h1>
+			<div class="logo"><a href="./index.html"><img src="common/images/header_logo.gif" width="178" height="30" alt="Brillia ï¿½ï¿½ï¿½ï¿½O" /></a></div>
+			<div class="headerinfo"><img src="common/images/headerinfo.gif" width="261" height="26" alt="ï¿½ï¿½ï¿½â‚¢ï¿½ï¿½ï¿½í‚¹ 0120-222-846" /></div>
 			<div class="header_btn">
 				<ul class="clearfix"><!--
-				--><li><a href="outline.html" target="_blank" onclick="window.open(this.href,'popup','width=720,height=800,scrollbars=yes,resizable=yes'); return false;"><img src="common/images/header_menu01_off.gif" width="105" height="31" alt="•¨ŒŠT—v" /></a></li><!--
-				--><li><a href="accessmap.html" target="_blank" onclick="window.open(this.href,'popup','width=720,height=800,scrollbars=yes,resizable=yes'); return false;"><img src="common/images/header_menu02_off.gif" width="105" height="31" alt="Œ»’nˆÄ“à}" /></a></li><!--
-				--><li><a href="http://www.bt4.jp/yoyaku_hp/index.html" target="_blank"><img src="common/images/header_menu04_off.gif" width="136" height="31" alt="—ˆê—\–ñ" /></a></li><!--
-				--><li><a href="http://www.bt4.jp/request/index.html" target="_blank"><img src="common/images/header_menu03_off.gif" width="136" height="31" alt="Ž‘—¿¿‹" /></a></li><!--
+				--><li><a href="outline.html" target="_blank" onclick="window.open(this.href,'popup','width=720,height=800,scrollbars=yes,resizable=yes'); return false;"><img src="common/images/header_menu01_off.gif" width="105" height="31" alt="ï¿½ï¿½ï¿½ï¿½ï¿½Tï¿½v" /></a></li><!--
+				--><li><a href="accessmap.html" target="_blank" onclick="window.open(this.href,'popup','width=720,height=800,scrollbars=yes,resizable=yes'); return false;"><img src="common/images/header_menu02_off.gif" width="105" height="31" alt="ï¿½ï¿½ï¿½nï¿½Ä“ï¿½}" /></a></li><!--
+				--><li><a href="http://www.bt4.jp/yoyaku_hp/index.html" target="_blank"><img src="common/images/header_menu04_off.gif" width="136" height="31" alt="ï¿½ï¿½ï¿½ï¿½\ï¿½ï¿½" /></a></li><!--
+				--><li><a href="http://www.bt4.jp/request/index.html" target="_blank"><img src="common/images/header_menu03_off.gif" width="136" height="31" alt="ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½" /></a></li><!--
 				--></ul>
 			</div>
 		</div>
 	</div>
 	<!-- header end -->
 	
-	<!-- ƒOƒ[ƒoƒ‹ƒiƒr start -->
+	<!-- ï¿½Oï¿½ï¿½ï¿½[ï¿½oï¿½ï¿½ï¿½iï¿½r start -->
 	<div id="gnavi" class="clearfix">
 		<ul><!--
-			--><li><a href="top.html"><img src="common/images/gnavi_01_off.gif" width="137" height="39" alt="ƒgƒbƒv" /></a></li><!--
-			--><li><a href="concept.html"><img src="common/images/gnavi_02_off.gif" width="137" height="39" alt="•¨Œ‚Ì“Á’·" /></a></li><!--
-			--><li><a href="location.html"><img src="common/images/gnavi_03_off.gif" width="137" height="39" alt="Žü•Ó‚ÌŠÂ‹«" /></a><li><!--
-			--><li><a href="access.html"><img src="common/images/gnavi_04_off.gif" width="137" height="39" alt="ƒAƒNƒZƒX" /></a><li><!--
-			--><li><a href="structure1.html"><img src="common/images/gnavi_05_off.gif" width="137" height="39" alt="ˆÀSˆÀ‘S" /></a><li><!--
-			--><li><a href="roomplan.html"><img src="common/images/gnavi_06_off.gif" width="137" height="39" alt="ŠÔŽæ‚è" /></a><li><!--
-			--><li><a href="quality.html"><img src="common/images/gnavi_07_off.gif" width="138" height="39" alt="Brillia‚É‚Â‚¢‚Ä" /></a><li><!--
+			--><li><a href="top.html"><img src="common/images/gnavi_01_off.gif" width="137" height="39" alt="ï¿½gï¿½bï¿½v" /></a></li><!--
+			--><li><a href="concept.html"><img src="common/images/gnavi_02_off.gif" width="137" height="39" alt="ï¿½ï¿½ï¿½ï¿½ï¿½Ì“ï¿½ï¿½ï¿½" /></a></li><!--
+			--><li><a href="location.html"><img src="common/images/gnavi_03_off.gif" width="137" height="39" alt="ï¿½ï¿½ï¿½Ó‚ÌŠÂ‹ï¿½" /></a><li><!--
+			--><li><a href="access.html"><img src="common/images/gnavi_04_off.gif" width="137" height="39" alt="ï¿½Aï¿½Nï¿½Zï¿½X" /></a><li><!--
+			--><li><a href="structure1.html"><img src="common/images/gnavi_05_off.gif" width="137" height="39" alt="ï¿½ï¿½ï¿½Sï¿½ï¿½ï¿½S" /></a><li><!--
+			--><li><a href="roomplan.html"><img src="common/images/gnavi_06_off.gif" width="137" height="39" alt="ï¿½ÔŽï¿½ï¿½" /></a><li><!--
+			--><li><a href="quality.html"><img src="common/images/gnavi_07_off.gif" width="138" height="39" alt="Brilliaï¿½É‚Â‚ï¿½ï¿½ï¿½" /></a><li><!--
 		--></ul>
 	</div>
-	<!-- ƒOƒ[ƒoƒ‹ƒiƒr end -->
+	<!-- ï¿½Oï¿½ï¿½ï¿½[ï¿½oï¿½ï¿½ï¿½iï¿½r end -->
 	
 	
 	<!-- home start -->
@@ -78,15 +78,15 @@ font-size: 16px;
 	
 	<!-- home_content_bg start -->
 	<div class="home_content_bg"> 
-		<h2 class="mb30"><img src="images/home/copy_ttl01.gif" width="960" height="70" walt="uBrillia“Œ‘å‘OvA’a¶BŽ‘—¿¿‹Žó•tŠJŽnB" /></h2> 
+		<h2 class="mb30"><img src="images/home/copy_ttl01.gif" width="960" height="70" walt="ï¿½uBrilliaï¿½ï¿½ï¿½ï¿½Oï¿½vï¿½Aï¿½aï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½tï¿½Jï¿½nï¿½B" /></h2> 
 		<!-- content_wrapper start --> 
 	  <div class="content_wrapper"> 
 			<div class="clearfix mb20"> 
 				<!-- news start --> 
 				<div class="news content_L"> 
-					<img class="mb20" src="images/home/copy_ttl02.gif" width="610" height="25" alt="4‰w4˜Hü—˜—p‰ÂB1LDK`4LDK‚Ì‘S33“@’a¶" /> 
+					<img class="mb20" src="images/home/copy_ttl02.gif" width="610" height="25" alt="4ï¿½w4ï¿½Hï¿½ï¿½ï¿½ï¿½ï¿½pï¿½ÂB1LDKï¿½`4LDKï¿½Ì‘S33ï¿½@ï¿½aï¿½ï¿½" /> 
 					<img src="images/home/news_ttl.gif" width="610" height="20" alt="NEWS" /> 
-					<!--<p><img src="teaser/ico_info.gif" width="48" height="14" alt="‚¨’m‚ç‚¹" /><a href="http://www.c-minami.jp/news-03.pdf" target="_blank">u“Œ–k’n•û‘¾•½—m‰«’nkv‚ÉŠÖ‚·‚é‚¨’m‚ç‚¹</a></p>--> 
+					<!--<p><img src="teaser/ico_info.gif" width="48" height="14" alt="ï¿½ï¿½ï¿½mï¿½ç‚¹" /><a href="http://www.c-minami.jp/news-03.pdf" target="_blank">ï¿½uï¿½ï¿½ï¿½kï¿½nï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½mï¿½ï¿½ï¿½nï¿½kï¿½vï¿½ÉŠÖ‚ï¿½ï¿½é‚¨ï¿½mï¿½ç‚¹</a></p>--> 
                     
                         <script language="JavaScript1.1" type="text/javascript"> 
      <!--
@@ -95,21 +95,21 @@ font-size: 16px;
     </script> 
 				</div>
 				<!-- news end -->
-				<!-- Ž‘—¿¿‹ƒ{ƒ^ƒ“ start -->
+				<!-- ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½{ï¿½^ï¿½ï¿½ start -->
 			  <div class="content_R">
 				<div class="content_btn">
 						<ul><!--
-						--><li class="mb10"><a href="http://www.bt4.jp/yoyaku_hp/index.html" target="_blank"><img src="images/home/content_btn04_off.gif" width="304" eight="73" alt="—ˆê—\–ñ@“–•¨Œ‚Ö‚Ì—ˆê‚ð‚²Šó–]‚Ì•û‚ÍA‚±‚¿‚ç‚©‚ç‚²—\–ñ‚­‚¾‚³‚¢B" /></a></li><!--
-						--><li class="mb10"><a href="http://www.bt4.jp/request/index.html" target="_blank"><img src="images/home/content_btn01_off.gif" width="304" eight="73" alt="Ž‘—¿¿‹ “–•¨Œ‚ÌŽ‘—¿‚ð‚²¿‹‚Ì•û‚ÉÅV‚Ìî•ñ‚ð‚¨“Í‚¯‚µ‚Ü‚·B" /></a></li><!--
-						--><li><a href="accessmap.html" target="_blank" onclick="window.open(this.href,'popup','width=720,height=800,scrollbars=yes,resizable=yes'); return false;"><img src="images/home/content_btn02_off.gif" width="304" height="45" alt="Œ»’nˆÄ“à}‚Í‚±‚¿‚ç‚©‚ç" /></a></li><!--
+						--><li class="mb10"><a href="http://www.bt4.jp/yoyaku_hp/index.html" target="_blank"><img src="images/home/content_btn04_off.gif" width="304" eight="73" alt="ï¿½ï¿½ï¿½ï¿½\ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ö‚Ì—ï¿½ï¿½ï¿½ï¿½ï¿½]ï¿½Ì•ï¿½ï¿½ÍAï¿½ï¿½ï¿½ï¿½ï¿½ç‚©ï¿½ç‚²ï¿½\ï¿½ñ‚­‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B" /></a></li><!--
+						--><li class="mb10"><a href="http://www.bt4.jp/request/index.html" target="_blank"><img src="images/home/content_btn01_off.gif" width="304" eight="73" alt="ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÌŽï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì•ï¿½ï¿½ÉÅVï¿½Ìï¿½ï¿½ï¿½Í‚ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½B" /></a></li><!--
+						--><li><a href="accessmap.html" target="_blank" onclick="window.open(this.href,'popup','width=720,height=800,scrollbars=yes,resizable=yes'); return false;"><img src="images/home/content_btn02_off.gif" width="304" height="45" alt="ï¿½ï¿½ï¿½nï¿½Ä“ï¿½}ï¿½Í‚ï¿½ï¿½ï¿½ï¿½ç‚©ï¿½ï¿½" /></a></li><!--
 						--></ul>
 				  </div>
                     
-				  <a href="gakken.html"><img src="images/gakken/gakken_topbnr_off.gif" alt="Brillia&times;Š”Ž®‰ïŽÐŠwŒ¤ƒlƒNƒXƒg„§uŽqˆç‚Äde ‰Æ’ë‹³ˆçƒxƒXƒgZ‘îƒvƒ‰ƒ“v@Š”Ž®‰ïŽÐŠwŒ¤ƒlƒNƒXƒg„§uŽqˆç‚Äde ‰Æ’ë‹³ˆçƒxƒXƒgZ‘îƒvƒ‰ƒ“v‚Í‚±‚¿‚ç" width="319" height="84" /></a>
+				  <a href="gakken.html"><img src="images/gakken/gakken_topbnr_off.gif" alt="Brillia&times;ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÐŠwï¿½ï¿½ï¿½lï¿½Nï¿½Xï¿½gï¿½ï¿½ï¿½ï¿½ï¿½uï¿½qï¿½ï¿½ï¿½de ï¿½Æ’ë‹³ï¿½ï¿½xï¿½Xï¿½gï¿½Zï¿½ï¿½vï¿½ï¿½ï¿½ï¿½ï¿½vï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÐŠwï¿½ï¿½ï¿½lï¿½Nï¿½Xï¿½gï¿½ï¿½ï¿½ï¿½ï¿½uï¿½qï¿½ï¿½ï¿½de ï¿½Æ’ë‹³ï¿½ï¿½xï¿½Xï¿½gï¿½Zï¿½ï¿½vï¿½ï¿½ï¿½ï¿½ï¿½vï¿½Í‚ï¿½ï¿½ï¿½ï¿½ï¿½" width="319" height="84" /></a>
 
 				</div>
 
-				<!-- Ž‘—¿¿‹ƒ{ƒ^ƒ“ end -->
+				<!-- ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½{ï¿½^ï¿½ï¿½ end -->
 			</div>
 			<!-- information start -->
 			<div class="information">
@@ -117,16 +117,16 @@ font-size: 16px;
 
 				<table cellpadding="0" cellspacing="0" border="0">
 					<tr>
-						<th><img src="images/home/outline_square.gif" width="12" height="12" />ŠÝ’n</th>
-						<td>“Œ‹ž“s•¶‹ž‹æŒü‹u‚P’š–Ú27”Ô1i’n”Ôj</td>
-						<th><img src="images/home/outline_square.gif" width="12" height="12" />ê—L–ÊÏ</th>
-						<td class="padding_r0px">41.21m&sup2;`83.33m&sup2;</td>
+						<th><img src="images/home/outline_square.gif" width="12" height="12" />ï¿½ï¿½ï¿½Ý’n</th>
+						<td>ï¿½ï¿½ï¿½ï¿½ï¿½sï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½uï¿½Pï¿½ï¿½ï¿½ï¿½27ï¿½ï¿½1ï¿½iï¿½nï¿½Ôj</td>
+						<th><img src="images/home/outline_square.gif" width="12" height="12" />ï¿½ï¿½Lï¿½Êï¿½</th>
+						<td class="padding_r0px">41.21m&sup2;ï¿½`83.33m&sup2;</td>
 					</tr>
 					<tr>
-						<th><img src="images/home/outline_square.gif" width="12" height="12" />‘ŒË”</th>
-						<td>33ŒËi“à”ñ•ª÷ZŒË4ŒËj</td>
-						<th><img src="images/home/outline_square.gif" width="12" height="12" />ŠÔŽæ‚è</th>
-						<td class="padding_r0px">1LDK`4LDK</td>
+						<th><img src="images/home/outline_square.gif" width="12" height="12" />ï¿½ï¿½ï¿½Ëï¿½</th>
+						<td>33ï¿½Ëiï¿½ï¿½ñ•ªï¿½ï¿½Zï¿½ï¿½4ï¿½Ëj</td>
+						<th><img src="images/home/outline_square.gif" width="12" height="12" />ï¿½ÔŽï¿½ï¿½</th>
+						<td class="padding_r0px">1LDKï¿½`4LDK</td>
 					</tr>
 				</table>
 			</div>
@@ -140,21 +140,21 @@ font-size: 16px;
 	<div id="footer">
 		<div class="footer_infoBox clearfix">
 			<div class="footer_L">
-				<img src="common/images/footerinfo_01.gif" width="480" height="160" alt="“–ƒ}ƒ“ƒVƒ‡ƒ“‚ÉŠÖ‚·‚é‚¨–â‚¢‡‚í‚¹E‚²‘Š’k‚Í‚±‚¿‚ç‚©‚ç TEL:0120-222-846 ¦Œg‘Ñ“d˜bEPHS‚©‚ç‚à‚²—˜—p‚É‚È‚ê‚Ü‚·B ‚¨–â‚¢‡‚í‚¹‚ÍuBrillia “Œ‘å‘OvƒQƒXƒgƒTƒƒ“ ‰c‹ÆŽžŠÔ : 11F00`18F00(•½“ú) 10F00`18F00(“y“új) ’è‹x“ú : ‰ÎE…—j“ú ¦j“ú‚ðœ‚­"/>
+				<img src="common/images/footerinfo_01.gif" width="480" height="160" alt="ï¿½ï¿½ï¿½}ï¿½ï¿½ï¿½Vï¿½ï¿½ï¿½ï¿½ï¿½ÉŠÖ‚ï¿½ï¿½é‚¨ï¿½â‚¢ï¿½ï¿½ï¿½í‚¹ï¿½Eï¿½ï¿½ï¿½ï¿½ï¿½kï¿½Í‚ï¿½ï¿½ï¿½ï¿½ç‚©ï¿½ï¿½ TEL:0120-222-846 ï¿½ï¿½ï¿½gï¿½Ñ“dï¿½bï¿½EPHSï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½pï¿½É‚È‚ï¿½Ü‚ï¿½ï¿½B ï¿½ï¿½ï¿½â‚¢ï¿½ï¿½ï¿½í‚¹ï¿½ÍuBrillia ï¿½ï¿½ï¿½ï¿½Oï¿½vï¿½Qï¿½Xï¿½gï¿½Tï¿½ï¿½ï¿½ï¿½ ï¿½cï¿½ÆŽï¿½ï¿½ï¿½ : 11ï¿½F00ï¿½`18ï¿½F00(ï¿½ï¿½ï¿½ï¿½) 10ï¿½F00ï¿½`18ï¿½F00(ï¿½yï¿½ï¿½ï¿½j) ï¿½ï¿½xï¿½ï¿½ : ï¿½ÎEï¿½ï¿½ï¿½jï¿½ï¿½ ï¿½ï¿½ï¿½jï¿½ï¿½ï¿½ï¿½ï¿½"/>
 				<ul><!--
-				--><li><a href="http://www.bt4.jp/yoyaku_hp/index.html" target="_blank"><img src="common/images/footer_menu05_off.gif" width="140" height="51" alt="—ˆê—\–ñ —ˆê‚ð‚²Šó–]‚Ì•û‚Í‚±‚¿‚ç" /></a></li><!--
-				--><li><a href="http://www.bt4.jp/request/index.html" target="_blank"><img src="common/images/footer_menu01_off.gif" width="140" height="51" alt="Ž‘—¿¿‹ “–•¨Œ‚ÌŽ‘—¿‚ð‚²‘—•t‚¢‚½‚µ‚Ü‚·" /></a></li><!--
+				--><li><a href="http://www.bt4.jp/yoyaku_hp/index.html" target="_blank"><img src="common/images/footer_menu05_off.gif" width="140" height="51" alt="ï¿½ï¿½ï¿½ï¿½\ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½]ï¿½Ì•ï¿½ï¿½Í‚ï¿½ï¿½ï¿½ï¿½ï¿½" /></a></li><!--
+				--><li><a href="http://www.bt4.jp/request/index.html" target="_blank"><img src="common/images/footer_menu01_off.gif" width="140" height="51" alt="ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÌŽï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½tï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½" /></a></li><!--
 				--></ul>
 			</div>
 			<div class="footer_R">
-				<img src="common/images/footerinfo_02.gif" width="480" height="160" alt="Ž–‹ÆŽåi”„Žåj‚É‚Â‚¢‚Ä‚Í‚±‚¿‚ç‚©‚ç"/>
+				<img src="common/images/footerinfo_02.gif" width="480" height="160" alt="ï¿½ï¿½ï¿½ÆŽï¿½iï¿½ï¿½ï¿½ï¿½jï¿½É‚Â‚ï¿½ï¿½Ä‚Í‚ï¿½ï¿½ï¿½ï¿½ç‚©ï¿½ï¿½"/>
 				<ul><!--
-				--><li><a href="http://sumai.tatemono.com/" target="_blank"><img src="common/images/footer_menu03.gif" width="215" height="37"  alt="ƒ”„Žå„“Œ‹žŒš•¨ “Œ‹žŒš•¨‚ÌŽÀÑ@V’zƒ}ƒ“ƒVƒ‡ƒ“‚Ì‚²ˆÄ“à" /></a></li>
+				--><li><a href="http://sumai.tatemono.com/" target="_blank"><img src="common/images/footer_menu03.gif" width="215" height="37"  alt="ï¿½ï¿½ï¿½ï¿½ï¿½å„ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÌŽï¿½ï¿½Ñ@ï¿½Vï¿½zï¿½}ï¿½ï¿½ï¿½Vï¿½ï¿½ï¿½ï¿½ï¿½Ì‚ï¿½ï¿½Ä“ï¿½" /></a></li>
 				<!--
-				--><li><a href="http://www.ttfuhan.co.jp/" target="_blank"><img src="common/images/footer_menu04.gif" width="215" height="37" alt="ƒ”Ì”„‘ã—„“Œ‹žŒš•¨•s“®ŽY”Ì”„ “Œ‹žŒš•¨•s“®ŽY”Ì”„‚Ì‚²ˆÄ“à" /></a></li>
+				--><li><a href="http://www.ttfuhan.co.jp/" target="_blank"><img src="common/images/footer_menu04.gif" width="215" height="37" alt="ï¿½ï¿½ï¿½Ì”ï¿½ï¿½ã—ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½sï¿½ï¿½ï¿½Yï¿½Ì”ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½sï¿½ï¿½ï¿½Yï¿½Ì”ï¿½ï¿½Ì‚ï¿½ï¿½Ä“ï¿½" /></a></li>
 			  <!--
 				--></ul>
-				<div class="brillia_club"><a href="http://sumai.tatemono.com/club/" target="_blank"><img src="common/images/index_brillia_club.gif" alt="uBrillia Clubv‚É‚²“ü‰ï‚¢‚½‚¾‚¢‚½•û‚Éƒ[ƒ‹‚âûŽq‚É‚ÄÅV‚Ì•¨Œî•ñ‚ð‚¨“Í‚¯‚¢‚½‚µ‚Ü‚·Bi“ü‰ï‹àE”N‰ï”ïˆêØ–³—¿j"/></a></div>
+				<div class="brillia_club"><a href="http://sumai.tatemono.com/club/" target="_blank"><img src="common/images/index_brillia_club.gif" alt="ï¿½uBrillia Clubï¿½vï¿½É‚ï¿½ï¿½ï¿½ï¿½ï‚¢ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Éƒï¿½ï¿½[ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½qï¿½É‚ÄÅVï¿½Ì•ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Í‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½Bï¿½iï¿½ï¿½ï¿½ï¿½ï¿½Eï¿½Nï¿½ï¿½ï¿½ï¿½Ø–ï¿½ï¿½ï¿½ï¿½j"/></a></div>
 		  </div>
 			<p class="copyright"><img src="common/images/copyright.gif" width="342" height="12" alt="(C)Copyright 2011 TOKYO TATEMONO Co.,Ltd. All RightsReserved." /></p>
 		</div>

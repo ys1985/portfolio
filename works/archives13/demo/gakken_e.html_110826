@@ -1,10 +1,10 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS" />
-<meta name="description" content="“Œ‹žƒƒgƒ“ì–küu“Œ‘å‘Ov‰w“k•à4•ªBBrillia“Œ‘å‘OB" /> 
-<meta name="keywords" content="Brillia“Œ‘å‘O,“Œ‹žƒƒgƒ“ì–küu“Œ‘å‘Ov‰w“k•à4•ª,V’zE•ª÷ƒ}ƒ“ƒVƒ‡ƒ“,“Œ‹žŒš•¨" />
-<title>ŠÔŽæ‚è Etype |yŒöŽ®zBrillia“Œ‘å‘Ob“Œ‹žƒƒgƒ“ì–küu“Œ‘å‘Ov‰w“k•à4•ªb“Œ‹žŒš•¨‚ÌV’zE•ª÷ƒ}ƒ“ƒVƒ‡ƒ“</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½gï¿½ï¿½ï¿½ï¿½kï¿½ï¿½ï¿½uï¿½ï¿½ï¿½ï¿½Oï¿½vï¿½wï¿½kï¿½ï¿½4ï¿½ï¿½ï¿½BBrilliaï¿½ï¿½ï¿½ï¿½Oï¿½B" /> 
+<meta name="keywords" content="Brilliaï¿½ï¿½ï¿½ï¿½O,ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½gï¿½ï¿½ï¿½ï¿½kï¿½ï¿½ï¿½uï¿½ï¿½ï¿½ï¿½Oï¿½vï¿½wï¿½kï¿½ï¿½4ï¿½ï¿½,ï¿½Vï¿½zï¿½Eï¿½ï¿½ï¿½ï¿½ï¿½}ï¿½ï¿½ï¿½Vï¿½ï¿½ï¿½ï¿½,ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½" />
+<title>ï¿½ÔŽï¿½ï¿½ Etype |ï¿½yï¿½ï¿½ï¿½ï¿½ï¿½zBrilliaï¿½ï¿½ï¿½ï¿½Oï¿½bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½gï¿½ï¿½ï¿½ï¿½kï¿½ï¿½ï¿½uï¿½ï¿½ï¿½ï¿½Oï¿½vï¿½wï¿½kï¿½ï¿½4ï¿½ï¿½ï¿½bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÌVï¿½zï¿½Eï¿½ï¿½ï¿½ï¿½ï¿½}ï¿½ï¿½ï¿½Vï¿½ï¿½ï¿½ï¿½</title>
 <link rel="stylesheet" type="text/css" href="common/css/import.css" media="all" />
 <link rel="stylesheet" type="text/css" href="common/css/popup.css" media="all" />
 <link rel="stylesheet" type="text/css" href="common/css/print.css" media="print" />
@@ -16,12 +16,12 @@
 	<!-- header start -->
 	<div id="header">
 		<div class="popup_inner_header">
-			<h1>yŒöŽ®zBrillia“Œ‘å‘Ob“Œ‹žƒƒgƒ“ì–küu“Œ‘å‘Ov‰w“k•à4•ªb“Œ‹žŒš•¨‚ÌV’zE•ª÷ƒ}ƒ“ƒVƒ‡ƒ“</h1>
-			<div class="logo"><a href="http://www.bt4.jp"><img src="common/images/header_logo.gif" width="178" height="30" alt="Brillia “Œ‘å‘O" /></a></div>
+			<h1>ï¿½yï¿½ï¿½ï¿½ï¿½ï¿½zBrilliaï¿½ï¿½ï¿½ï¿½Oï¿½bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½gï¿½ï¿½ï¿½ï¿½kï¿½ï¿½ï¿½uï¿½ï¿½ï¿½ï¿½Oï¿½vï¿½wï¿½kï¿½ï¿½4ï¿½ï¿½ï¿½bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÌVï¿½zï¿½Eï¿½ï¿½ï¿½ï¿½ï¿½}ï¿½ï¿½ï¿½Vï¿½ï¿½ï¿½ï¿½</h1>
+			<div class="logo"><a href="http://www.bt4.jp"><img src="common/images/header_logo.gif" width="178" height="30" alt="Brillia ï¿½ï¿½ï¿½ï¿½O" /></a></div>
 			<div class="header_btn02">
 				<ul class="clearfix"><!--
-				--><li><a href="http://www.bt4.jp/yoyaku_hp/index.html" target="_blank"><img src="common/images/header_menu04_off.gif" width="136" height="31" alt="—ˆê—\–ñ" /></a></li><!--
-				--><li><a href="http://www.bt4.jp/request/index.html" target="_blank"><img src="common/images/header_menu03_off.gif" width="136" height="31" alt="Ž‘—¿¿‹" /></a></li><!--
+				--><li><a href="http://www.bt4.jp/yoyaku_hp/index.html" target="_blank"><img src="common/images/header_menu04_off.gif" width="136" height="31" alt="ï¿½ï¿½ï¿½ï¿½\ï¿½ï¿½" /></a></li><!--
+				--><li><a href="http://www.bt4.jp/request/index.html" target="_blank"><img src="common/images/header_menu03_off.gif" width="136" height="31" alt="ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½" /></a></li><!--
 				--></ul>
 			</div>
 		</div>
@@ -33,75 +33,75 @@
 	<div class="gakken_content_bg">
 		<!-- content_wrapper start -->
 		<div class="gakken_popup_content_wrapper">
-        <div><img src="images/gakken/gakken_plan_tite.gif" alt="Etype ŠÔŽæ‚è3LDK+WIC" width="860" height="89" /></div>
-        <div class="mt30"><img src="images/gakken/gakken_plan_h2.gif" alt="1.‚µ‚Â‚¯‚ÆŠw‚Ñ‚Ì‚µ‚©‚¯@2.ŠwK‚Ì‚½‚ß‚Ì‹³ˆçŠÂ‹«@3.Œ«‚¢eŽq‚ÌƒRƒ~ƒ…ƒjƒP[ƒVƒ‡ƒ“@4.‰ÆŽ–‚ÆˆçŽ™‚ÌŒyŒ¸" width="860" height="42" /></div>
-        <div class="mt10"><img src="images/gakken/gakken_planE.gif" alt="Etype ŠÔŽæ‚è" width="860" height="678" /></div>
+        <div><img src="images/gakken/gakken_plan_tite.gif" alt="Etype ï¿½ÔŽï¿½ï¿½3LDK+WIC" width="860" height="89" /></div>
+        <div class="mt30"><img src="images/gakken/gakken_plan_h2.gif" alt="1.ï¿½ï¿½ï¿½Â‚ï¿½ï¿½ÆŠwï¿½Ñ‚Ì‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½@2.ï¿½wï¿½Kï¿½Ì‚ï¿½ï¿½ß‚Ì‹ï¿½ï¿½ï¿½Â‹ï¿½ï¿½@3.ï¿½ï¿½ï¿½ï¿½ï¿½eï¿½qï¿½ÌƒRï¿½~ï¿½ï¿½ï¿½jï¿½Pï¿½[ï¿½Vï¿½ï¿½ï¿½ï¿½ï¿½@4.ï¿½ÆŽï¿½ï¿½ÆˆçŽ™ï¿½ÌŒyï¿½ï¿½" width="860" height="42" /></div>
+        <div class="mt10"><img src="images/gakken/gakken_planE.gif" alt="Etype ï¿½ÔŽï¿½ï¿½" width="860" height="678" /></div>
 
         <div class="gakken_popup_box clearfix">
         <dl class="left">
-        <dt class="mt30"><img src="images/gakken/gakken_plan_stit01.jpg" alt="Žq‚Ç‚à‚ª‰€‚âŠwZ‚És‚Á‚Ä‚¢‚éŠÔAƒŠƒrƒ“ƒO‚Í‚¨•ê‚³‚Ü‚ÌƒIƒAƒVƒX" width="288" height="43" /></dt>
-        <dd class="mt30">uŽq‚Ç‚à‚ª¬‚³‚¢Žž‚ÍAŽ©•ª‚ÌŽžŠÔ‚È‚ñ‚ÄEEEv‚Æ‚ ‚«‚ç‚ß‚Ä‚¢‚Ü‚¹‚ñ‚©?<br />
-Žq‚Ç‚à‚½‚¿‚Ì‰×•¨‚âŽU‚ç‚©‚µ‚½‚à‚Ì‚ÉU‚è‰ñ‚³‚ê‚¸‚ÉA‚¨—F’B‚Æ‰ä‚ª‰Æ‚ÅƒeƒB[ƒ^ƒCƒ€B<br />
-‰Æ’ë‚Å‚ÌŽq‚Ç‚à‚½‚¿‚Ìs“®‚â•Ï‚í‚è‚ä‚­ŠÂ‹«‚Æƒj[ƒY‚ðAŽ–‘O‚Éƒvƒ‰ƒ“ƒjƒ“ƒO‚µ‚½‰Æ‚¾‚©‚çA‚¿‚å‚Á‚Æ‚µ‚½ˆÀ‚ç‚¬‚Ì‹óŠÔ‚ÉZ‚ê‚é‚Ì‚Å‚·B<br />
-Žq‚Ç‚à‚Ì‹³ˆç‚Í‘åØB‚¯‚ê‚ÇA‚»‚ê‚ð‚³‚³‚¦‚é‚²‰Æ‘°‚ªK‚¹‚ðŠ´‚¶‚Ä‚¢‚½‚¾‚¯‚é‹óŠÔ‚à“¯‚¶‚æ‚¤‚É‘åØ‚Å‚·B</dd>
+        <dt class="mt30"><img src="images/gakken/gakken_plan_stit01.jpg" alt="ï¿½qï¿½Ç‚ï¿½ï¿½ï¿½ï¿½ï¿½wï¿½Zï¿½Ésï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ÔAï¿½ï¿½ï¿½rï¿½ï¿½ï¿½Oï¿½Í‚ï¿½ï¿½ê‚³ï¿½Ü‚ÌƒIï¿½Aï¿½Vï¿½X" width="288" height="43" /></dt>
+        <dd class="mt30">ï¿½uï¿½qï¿½Ç‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÍAï¿½ï¿½ï¿½ï¿½ï¿½ÌŽï¿½ï¿½Ô‚È‚ï¿½ÄEï¿½Eï¿½Eï¿½vï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ß‚Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½?<br />
+ï¿½qï¿½Ç‚ï¿½ï¿½ï¿½ï¿½Ì‰×•ï¿½ï¿½ï¿½Uï¿½ç‚©ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚ÉUï¿½ï¿½ñ‚³‚ê‚¸ï¿½ÉAï¿½ï¿½ï¿½Fï¿½Bï¿½Æ‰ä‚ªï¿½Æ‚Åƒeï¿½Bï¿½[ï¿½^ï¿½Cï¿½ï¿½ï¿½B<br />
+ï¿½Æ’ï¿½Å‚ÌŽqï¿½Ç‚ï¿½ï¿½ï¿½ï¿½Ìsï¿½ï¿½ï¿½ï¿½Ï‚ï¿½ï¿½ä‚­ï¿½Â‹ï¿½ï¿½Æƒjï¿½[ï¿½Yï¿½ï¿½Aï¿½ï¿½ï¿½Oï¿½Éƒvï¿½ï¿½ï¿½ï¿½ï¿½jï¿½ï¿½ï¿½Oï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ç‚¬ï¿½Ì‹ï¿½Ô‚ÉZï¿½ï¿½ï¿½Ì‚Å‚ï¿½ï¿½B<br />
+ï¿½qï¿½Ç‚ï¿½Ì‹ï¿½ï¿½ï¿½Í‘ï¿½ØBï¿½ï¿½ï¿½ï¿½ÇAï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½é‚²ï¿½Æ‘ï¿½ï¿½ï¿½ï¿½Kï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ô‚ï¿½ï¿½ï¿½ï¿½æ‚¤ï¿½É‘ï¿½Ø‚Å‚ï¿½ï¿½B</dd>
         </dl>
 
          <dl class="right">
-        <dt class="mt30"><img src="images/gakken/gakken_plan_stit02.jpg" alt="‚È‚ºH‚Ç‚¤‚µ‚ÄH‚ð‚»‚Ìê‚Å‰ðŒˆ‚Å‚«‚éÝ”õ‚Æ‹³Þ‚ð‚»‚ë‚¦‚Ü‚µ‚å‚¤B" width="315" height="43" /></dt>
-        <dd class="mt30">‚¨Žq‚³‚Ü‚©‚ç‚Ìu‚±‚ê‚È‚É?vu‚ ‚ê‚È‚É?vu‚È‚ºA‚Ç‚¤‚µ‚Ä?v‚É‚ÍA‚¨Žq‚³‚Ü‚Ì¬’·‚É‡‚í‚¹‚Ä‚·‚®‚É‰ž‚¦‚Ä‚ ‚°‚é‚±‚Æ‚ª‘åØ‚Å‚·B‚»‚Ì‚½‚ß‚É‚ÍA‰Æ‘°‚ÌW‚¤ƒŠƒrƒ“ƒO‚É•K—v‚È‚à‚Ì‚ð—pˆÓ‚·‚é‚±‚Æ‚ª‚¢‚¿‚Î‚ñBŽq‚Ç‚à‚ÉŽ¿–â‚·‚é‚±‚ÆA‚»‚µ‚ÄŽq‚Ç‚à‚ÉŽ¿–â‚³‚¹‚é‚±‚ÆA‚±‚ÌÏ‚Ýd‚Ë‚ªA‚¢‚Ü‹‚ß‚ç‚ê‚Ä‚¢‚éuŽ©•ª‚Ål‚¦A‰ðŒˆ‚·‚éŽq‚Ç‚àv‚ðˆç‚Ä‚Ü‚·B<br />
-}ŠÓE•S‰È‚â’n‹…‹V‚È‚Ç‚Ì "’²‚×‚éEl‚¦‚é" ‚É•K—v‚È‹³Þ‚ÍA‚¨Žq‚³‚Ü‚ÌŒ»Ý‚Ì—‰ð“x‚É‡‚Á‚½‚à‚Ì‚Å‚ ‚é‚±‚ÆA”­“W«‚Ì‚ ‚é‚à‚ÌAˆµ‚¢‚â‚·‚¢‚à‚Ì‚Å‚ ‚é‚±‚Æ‚È‚Ç‚Ì”z—¶‚ª•K—v‚Å‚·B<br />
-‚Ü‚½AŽæ‚èo‚µA•Ð‚Ã‚¯‚ªŽ©•ª‚Å‚Å‚«‚é‚æ‚¤‚ÉH•v‚·‚é‚±‚Æ‚à•K—v‚Å‚·B</dd>
+        <dt class="mt30"><img src="images/gakken/gakken_plan_stit02.jpg" alt="ï¿½È‚ï¿½ï¿½Hï¿½Ç‚ï¿½ï¿½ï¿½ï¿½ÄHï¿½ï¿½Ìï¿½Å‰ï¿½Å‚ï¿½ï¿½ï¿½Ý”ï¿½ï¿½Æ‹ï¿½ï¿½Þ‚ï¿½ë‚¦ï¿½Ü‚ï¿½ï¿½å‚¤ï¿½B" width="315" height="43" /></dt>
+        <dd class="mt30">ï¿½ï¿½ï¿½qï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½Ìuï¿½ï¿½ï¿½ï¿½È‚ï¿½?ï¿½vï¿½uï¿½ï¿½ï¿½ï¿½È‚ï¿½?ï¿½vï¿½uï¿½È‚ï¿½ï¿½Aï¿½Ç‚ï¿½ï¿½ï¿½ï¿½ï¿½?ï¿½vï¿½É‚ÍAï¿½ï¿½ï¿½qï¿½ï¿½ï¿½Ü‚Ìï¿½ï¿½ï¿½ï¿½Éï¿½ï¿½í‚¹ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½É‰ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½é‚±ï¿½Æ‚ï¿½ï¿½ï¿½Ø‚Å‚ï¿½ï¿½Bï¿½ï¿½ï¿½Ì‚ï¿½ï¿½ß‚É‚ÍAï¿½Æ‘ï¿½ï¿½ÌWï¿½ï¿½ï¿½ï¿½ï¿½rï¿½ï¿½ï¿½Oï¿½É•Kï¿½vï¿½È‚ï¿½Ì‚ï¿½pï¿½Ó‚ï¿½ï¿½é‚±ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Î‚ï¿½Bï¿½qï¿½Ç‚ï¿½ÉŽï¿½ï¿½â‚·ï¿½é‚±ï¿½ÆAï¿½ï¿½ï¿½ï¿½ï¿½ÄŽqï¿½Ç‚ï¿½ÉŽï¿½ï¿½â‚³ï¿½ï¿½ï¿½é‚±ï¿½ÆAï¿½ï¿½ï¿½ÌÏ‚Ýdï¿½Ë‚ï¿½ï¿½Aï¿½ï¿½ï¿½Ü‹ï¿½ï¿½ß‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½uï¿½ï¿½ï¿½ï¿½ï¿½Ålï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½qï¿½Ç‚ï¿½vï¿½ï¿½ï¿½Ä‚Ü‚ï¿½ï¿½B<br />
+ï¿½}ï¿½ÓEï¿½Sï¿½È‚ï¿½nï¿½ï¿½ï¿½Vï¿½È‚Ç‚ï¿½ "ï¿½ï¿½ï¿½×‚ï¿½Eï¿½lï¿½ï¿½ï¿½ï¿½" ï¿½É•Kï¿½vï¿½È‹ï¿½ï¿½Þ‚ÍAï¿½ï¿½ï¿½qï¿½ï¿½ï¿½Ü‚ÌŒï¿½ï¿½Ý‚Ì—ï¿½ï¿½ï¿½xï¿½Éï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚Å‚ï¿½ï¿½é‚±ï¿½ÆAï¿½ï¿½ï¿½Wï¿½ï¿½ï¿½Ì‚ï¿½ï¿½ï¿½ï¿½ÌAï¿½ï¿½ï¿½ï¿½ï¿½â‚·ï¿½ï¿½ï¿½ï¿½Ì‚Å‚ï¿½ï¿½é‚±ï¿½Æ‚È‚Ç‚Ì”zï¿½ï¿½ï¿½ï¿½ï¿½Kï¿½vï¿½Å‚ï¿½ï¿½B<br />
+ï¿½Ü‚ï¿½ï¿½Aï¿½ï¿½ï¿½oï¿½ï¿½ï¿½Aï¿½Ð‚Ã‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Å‚Å‚ï¿½ï¿½ï¿½æ‚¤ï¿½ÉHï¿½vï¿½ï¿½ï¿½é‚±ï¿½Æ‚ï¿½Kï¿½vï¿½Å‚ï¿½ï¿½B</dd>
         </dl>
        </div>
 
-        <div class="mb40"><img src="images/gakken/gakken_plan_stit03.gif" alt="Žq‚Ç‚à•”‰®‚Ìƒvƒ‰ƒ“‚Í‚²‰Æ‘°‚ÌŽ©—R‚Èl‚¦‚ð‘¸d‚µ‚Ä‚¢‚Ü‚·B‚²—¼e‚ÉŒ©Žç‚ç‚ê‚ÄƒŠƒrƒ“ƒO‚ÅŠwKKŠµ‚ªg‚É‚Â‚¢‚½‚¨Žq‚³‚Ü‚ªAˆêl‚Å•×‹­‚·‚éKŠµ‚ª•K—v‚Æ‚È‚é‚Ì‚Í’†Šw¶ ‚©‚çB‚»‚Ì ‚Ü‚Å‚É³‚µ‚¢‰Æ’ëŠwKKŠµ‚ðg‚É•t‚¯‚³‚¹‚é‚Ì‚ªŽqˆç‚Äde‰Æ’ë‹³ˆçƒxƒXƒgZ‘îƒvƒ‰ƒ“‚Ì–ðŠ„‚Å‚·B" width="860" height="101" /></div>
+        <div class="mb40"><img src="images/gakken/gakken_plan_stit03.gif" alt="ï¿½qï¿½Ç‚ï¿½ï¿½ï¿½ï¿½Ìƒvï¿½ï¿½ï¿½ï¿½ï¿½Í‚ï¿½ï¿½Æ‘ï¿½ï¿½ÌŽï¿½ï¿½Rï¿½Èlï¿½ï¿½ï¿½ð‘¸dï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½eï¿½ÉŒï¿½ï¿½ï¿½ï¿½ï¿½Äƒï¿½ï¿½rï¿½ï¿½ï¿½Oï¿½ÅŠwï¿½Kï¿½Kï¿½ï¿½ï¿½ï¿½ï¿½gï¿½É‚Â‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½qï¿½ï¿½ï¿½Ü‚ï¿½ï¿½Aï¿½ï¿½lï¿½Å•×‹ï¿½ï¿½ï¿½ï¿½ï¿½Kï¿½ï¿½ï¿½ï¿½ï¿½Kï¿½vï¿½Æ‚È‚ï¿½Ì‚Í’ï¿½ï¿½wï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½Ìï¿½ï¿½Ü‚Å‚Éï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ’ï¿½wï¿½Kï¿½Kï¿½ï¿½ï¿½ï¿½gï¿½É•tï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚ï¿½ï¿½qï¿½ï¿½ï¿½deï¿½Æ’ë‹³ï¿½ï¿½xï¿½Xï¿½gï¿½Zï¿½ï¿½vï¿½ï¿½ï¿½ï¿½ï¿½Ì–ï¿½Å‚ï¿½ï¿½B" width="860" height="101" /></div>
 
 <div class="box_3c clearfix">
 <ul>
-    <li><img src="images/gakken/gakken_plan_ph01.jpg" alt="‹³ˆç‚àƒRƒ~ƒ…ƒjƒP[ƒVƒ‡ƒ“‚àƒŠƒrƒ“ƒO‚ª’†S" width="260" height="150" /><br />
-        <p class="pict_tit">‹³ˆç‚àƒRƒ~ƒ…ƒjƒP[ƒVƒ‡ƒ“‚àƒŠƒrƒ“ƒO‚ª’†S</p>
-        Œõ‚Æ•—‚ð“Z‚¤A3–ÊÌŒõ•3–Êƒoƒ‹ƒRƒj[‚Ì“ìŠpZŒËBˆø‚«ŒË‚ð‘½—p‚·‚é‚±‚Æ‚ÅA‹Žº‹óŠÔ‚ð‚ä‚Á‚½‚è‚Æ–³‘Ê‚È‚­Žg‚¦‚Ü‚·B‰Æ‘°‚ÌƒRƒ~ƒ…ƒjƒP[ƒVƒ‡ƒ“‚âŠ°‚¬‚ð‘æˆê‚Él‚¦A’Ç‹‚µ‚½ƒvƒ‰ƒ“‚Å‚·B</li>
-    <li><img src="images/gakken/gakken_plan_ph02.jpg" alt="‰ÆŽ–‚ÌŽèŠÔ‚ªÈ‚¯‚éƒ~ƒZƒXƒTƒ|[ƒgŽd—l" width="260" height="150" /><br />
-        <p class="pict_tit">‰ÆŽ–‚ÌŽèŠÔ‚ªÈ‚¯‚éƒ~ƒZƒXƒTƒ|[ƒgŽd—l</p>
-        Žq‚Ç‚à‚Ì‹³ˆç‚É‚ÍA‚»‚ê‚ðŽx‚¦‚é‚²‰Æ‘°‚Ì•‰’S‚ðŒyŒ¸‚³‚¹‚È‚­‚Ä‚Í‚È‚è‚Ü‚¹‚ñBƒLƒbƒ`ƒ“‚ÌHô‹@A‚âHŠí’I•W€Ý’u‚È‚ÇAŽèŠÔ‚ªÈ‚¯‚éuƒ~ƒZƒXƒTƒ|[ƒgv‚ðÌ—p‚·‚é‚±‚Æ‚Å‰ÆŽ–‚ÌŒø—¦‚ðƒAƒbƒv‚³‚¹‚Ü‚·B</li>
-    <li class="no_margin"><img src="images/gakken/gakken_plan_ph03.jpg" alt="ƒŠƒrƒ“ƒOŠwK‚ÌƒXƒXƒ" width="260" height="150" /><br />
-        <p class="pict_tit">ƒŠƒrƒ“ƒOŠwK‚ÌƒXƒXƒ</p>
-        Žq‚Ç‚à‚ªˆêl‚ÅAŽ©ŠwŠwK‚ÉŽæ‚è‘g‚ß‚é‚æ‚¤‚É‚È‚é‚Ü‚Å‚ÌŠwKƒXƒ|ƒbƒg‚ðƒŠƒrƒ“ƒO“à‚Éì‚é‚±‚Æ‚ÅAƒLƒbƒ`ƒ“‚É‚¢‚é‚²‰Æ‘°‚Ì–Ú‚É“Í‚«‚â‚·‚­A‹A‘îEh‘èE‚¨Žè“`‚¢‚ÌKŠµ‚ªŽ©‘R‚Ég‚É•t‚«‚â‚·‚­‚È‚è‚Ü‚·B
+    <li><img src="images/gakken/gakken_plan_ph01.jpg" alt="ï¿½ï¿½ï¿½ï¿½ï¿½Rï¿½~ï¿½ï¿½ï¿½jï¿½Pï¿½[ï¿½Vï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½rï¿½ï¿½ï¿½Oï¿½ï¿½ï¿½ï¿½ï¿½S" width="260" height="150" /><br />
+        <p class="pict_tit">ï¿½ï¿½ï¿½ï¿½ï¿½Rï¿½~ï¿½ï¿½ï¿½jï¿½Pï¿½[ï¿½Vï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½rï¿½ï¿½ï¿½Oï¿½ï¿½ï¿½ï¿½ï¿½S</p>
+        ï¿½ï¿½ï¿½Æ•ï¿½ï¿½ï¿½Zï¿½ï¿½ï¿½A3ï¿½ÊÌŒï¿½ï¿½ï¿½3ï¿½Êƒoï¿½ï¿½ï¿½Rï¿½jï¿½[ï¿½Ì“ï¿½pï¿½Zï¿½ËBï¿½ï¿½ï¿½ï¿½ï¿½Ë‚ð‘½—pï¿½ï¿½ï¿½é‚±ï¿½Æ‚ÅAï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ô‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ–ï¿½ï¿½Ê‚È‚ï¿½ï¿½gï¿½ï¿½ï¿½Ü‚ï¿½ï¿½Bï¿½Æ‘ï¿½ï¿½ÌƒRï¿½~ï¿½ï¿½ï¿½jï¿½Pï¿½[ï¿½Vï¿½ï¿½ï¿½ï¿½ï¿½âŠ°ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Élï¿½ï¿½ï¿½Aï¿½Ç‹ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½vï¿½ï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½B</li>
+    <li><img src="images/gakken/gakken_plan_ph02.jpg" alt="ï¿½ÆŽï¿½ï¿½ÌŽï¿½Ô‚ï¿½ï¿½È‚ï¿½ï¿½ï¿½~ï¿½Zï¿½Xï¿½Tï¿½|ï¿½[ï¿½gï¿½dï¿½l" width="260" height="150" /><br />
+        <p class="pict_tit">ï¿½ÆŽï¿½ï¿½ÌŽï¿½Ô‚ï¿½ï¿½È‚ï¿½ï¿½ï¿½~ï¿½Zï¿½Xï¿½Tï¿½|ï¿½[ï¿½gï¿½dï¿½l</p>
+        ï¿½qï¿½Ç‚ï¿½Ì‹ï¿½ï¿½ï¿½É‚ÍAï¿½ï¿½ï¿½ï¿½ï¿½xï¿½ï¿½ï¿½é‚²ï¿½Æ‘ï¿½ï¿½Ì•ï¿½ï¿½Sï¿½ï¿½yï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½Ä‚Í‚È‚ï¿½Ü‚ï¿½ï¿½ï¿½Bï¿½Lï¿½bï¿½`ï¿½ï¿½ï¿½ÌHï¿½ï¿½@ï¿½Aï¿½ï¿½ï¿½ï¿½Hï¿½ï¿½Iï¿½Wï¿½ï¿½ï¿½Ý’uï¿½È‚ÇAï¿½ï¿½Ô‚ï¿½ï¿½È‚ï¿½ï¿½ï¿½uï¿½~ï¿½Zï¿½Xï¿½Tï¿½|ï¿½[ï¿½gï¿½vï¿½ï¿½Ì—pï¿½ï¿½ï¿½é‚±ï¿½Æ‚Å‰ÆŽï¿½ï¿½ÌŒï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½bï¿½vï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½B</li>
+    <li class="no_margin"><img src="images/gakken/gakken_plan_ph03.jpg" alt="ï¿½ï¿½ï¿½rï¿½ï¿½ï¿½Oï¿½wï¿½Kï¿½ÌƒXï¿½Xï¿½ï¿½" width="260" height="150" /><br />
+        <p class="pict_tit">ï¿½ï¿½ï¿½rï¿½ï¿½ï¿½Oï¿½wï¿½Kï¿½ÌƒXï¿½Xï¿½ï¿½</p>
+        ï¿½qï¿½Ç‚ï¿½ï¿½ï¿½lï¿½ÅAï¿½ï¿½ï¿½wï¿½wï¿½Kï¿½ÉŽï¿½ï¿½gï¿½ß‚ï¿½æ‚¤ï¿½É‚È‚ï¿½Ü‚Å‚ÌŠwï¿½Kï¿½Xï¿½|ï¿½bï¿½gï¿½ï¿½rï¿½ï¿½ï¿½Oï¿½ï¿½Éï¿½é‚±ï¿½Æ‚ÅAï¿½Lï¿½bï¿½`ï¿½ï¿½ï¿½É‚ï¿½ï¿½é‚²ï¿½Æ‘ï¿½ï¿½Ì–Ú‚É“Í‚ï¿½ï¿½â‚·ï¿½ï¿½ï¿½Aï¿½Aï¿½ï¿½Eï¿½hï¿½ï¿½Eï¿½ï¿½ï¿½ï¿½`ï¿½ï¿½ï¿½ÌKï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Rï¿½Égï¿½É•tï¿½ï¿½ï¿½â‚·ï¿½ï¿½ï¿½È‚ï¿½Ü‚ï¿½ï¿½B
 </li>
 </ul>
 </div>
 <div class="box_3c clearfix">
 <ul>
-    <li><img src="images/gakken/gakken_plan_ph04.jpg" alt="‰Æ‘°‚Ì‰ï˜b‚ª’e‚ÞŠJ•ú“I‚È‘Î–ÊƒLƒbƒ`ƒ“" width="260" height="150" /><br />
-        <p class="pict_tit">‰Æ‘°‚Ì‰ï˜b‚ª’e‚ÞŠJ•ú“I‚È‘Î–ÊƒLƒbƒ`ƒ“</p>
-        ‚¨—¿—‚ð‚µ‚È‚ª‚çA‰Æ‘°‚Æ‚Ì‰ï˜b‚ªŠy‚µ‚ß‚éƒJƒEƒ“ƒ^[ƒLƒbƒ`ƒ“•ƒKƒ‰ƒXƒpƒlƒ‹‚ðÌ—pB‚¨Žq‚³‚Ü‚Æ“úX‚ÌƒRƒ~ƒ…ƒjƒP[ƒVƒ‡ƒ“‚ð‰ÆŽ–‚ð‚µ‚È‚ª‚çŽæ‚ê‚é‚±‚Æ‚âAƒ_ƒCƒjƒ“ƒO‚É‚¨—¿—‚ð‰^‚Ô‚¨Žè“`‚¢‚àAŽ©‘R‚Éo—ˆ‚â‚·‚­‚È‚è‚Ü‚·B</li>
-    <li><img src="images/gakken/gakken_plan_ph05.jpg" alt="‹³ˆç‚Æ‰ÆŽ–‚É×‚©‚¢‚Æ‚±‚ë‚Ü‚Å‚±‚¾‚í‚Á‚½•W€‘•”õ" width="260" height="150" /><br />
-        <p class="pict_tit">‹³ˆç‚Æ‰ÆŽ–‚É×‚©‚¢‚Æ‚±‚ë‚Ü‚Å‚±‚¾‚í‚Á‚½•W€‘•”õ</p>
-        ‚¨Žq—l‚Ì–XŽq‚ðŠ|‚¯‚ç‚ê‚éƒR[ƒgŠ|‚¯‚ð‚Í‚¶‚ßAŒºŠÖ‘O‚É‚Íg‚¾‚µ‚È‚Ý‚ðƒ`ƒFƒbƒN‚·‚é‹¾‚ðÝ’uB‚³‚ç‚ÉA‰J‚Ì“ú‚ÌŽº“àŠ±‚µ‚É•Ö—˜‚ÈŽº“à•¨Š±‹à•¨‚ð•W€Ý’u‚µ‚Ä‚¢‚Ü‚·B</li>
+    <li><img src="images/gakken/gakken_plan_ph04.jpg" alt="ï¿½Æ‘ï¿½ï¿½Ì‰ï¿½bï¿½ï¿½ï¿½eï¿½ÞŠJï¿½ï¿½ï¿½Iï¿½È‘Î–ÊƒLï¿½bï¿½`ï¿½ï¿½" width="260" height="150" /><br />
+        <p class="pict_tit">ï¿½Æ‘ï¿½ï¿½Ì‰ï¿½bï¿½ï¿½ï¿½eï¿½ÞŠJï¿½ï¿½ï¿½Iï¿½È‘Î–ÊƒLï¿½bï¿½`ï¿½ï¿½</p>
+        ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½Aï¿½Æ‘ï¿½ï¿½Æ‚Ì‰ï¿½bï¿½ï¿½ï¿½yï¿½ï¿½ï¿½ß‚ï¿½Jï¿½Eï¿½ï¿½ï¿½^ï¿½[ï¿½Lï¿½bï¿½`ï¿½ï¿½ï¿½ï¿½ï¿½Kï¿½ï¿½ï¿½Xï¿½pï¿½lï¿½ï¿½ï¿½ï¿½Ì—pï¿½Bï¿½ï¿½ï¿½qï¿½ï¿½ï¿½Ü‚Æ“ï¿½ï¿½Xï¿½ÌƒRï¿½~ï¿½ï¿½ï¿½jï¿½Pï¿½[ï¿½Vï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÆŽï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½ï¿½é‚±ï¿½Æ‚ï¿½Aï¿½_ï¿½Cï¿½jï¿½ï¿½ï¿½Oï¿½É‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½^ï¿½Ô‚ï¿½ï¿½ï¿½`ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½Rï¿½Éoï¿½ï¿½ï¿½â‚·ï¿½ï¿½ï¿½È‚ï¿½Ü‚ï¿½ï¿½B</li>
+    <li><img src="images/gakken/gakken_plan_ph05.jpg" alt="ï¿½ï¿½ï¿½ï¿½Æ‰ÆŽï¿½ï¿½É×‚ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½Ü‚Å‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Wï¿½ï¿½ï¿½ï¿½ï¿½ï¿½" width="260" height="150" /><br />
+        <p class="pict_tit">ï¿½ï¿½ï¿½ï¿½Æ‰ÆŽï¿½ï¿½É×‚ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½Ü‚Å‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Wï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</p>
+        ï¿½ï¿½ï¿½qï¿½lï¿½Ì–Xï¿½qï¿½ï¿½|ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Rï¿½[ï¿½gï¿½|ï¿½ï¿½ï¿½ï¿½Í‚ï¿½ï¿½ßAï¿½ï¿½ï¿½Ö‘Oï¿½É‚Ígï¿½ï¿½ï¿½ï¿½ï¿½È‚Ý‚ï¿½`ï¿½Fï¿½bï¿½Nï¿½ï¿½ï¿½é‹¾ï¿½ï¿½Ý’uï¿½Bï¿½ï¿½ï¿½ï¿½ÉAï¿½Jï¿½Ì“ï¿½ï¿½ÌŽï¿½ï¿½ï¿½ï¿½ï¿½ï¿½É•Ö—ï¿½ï¿½ÈŽï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Wï¿½ï¿½ï¿½Ý’uï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½B</li>
     <li class="no_margin numb_caption">
-        ¦‰º‹L‚Ì“à—e‚Í“–ƒvƒ‰ƒ““±“üŠé‹Æ‚É‚æ‚é“ÆŽ©‚ÌŽæ‚è‘g‚Ý‚Ì‚½‚ßAŠ”Ž®‰ïŽÐŠwŒ¤ƒlƒNƒXƒg‚Ì„§‚·‚é€–Ú‚ÆˆÙ‚È‚é“à—e‚ðŠÜ‚ñ‚Å‚¢‚éê‡‚ª‚²‚´‚¢‚Ü‚·B<br /><br />
+        ï¿½ï¿½ï¿½ï¿½ï¿½Lï¿½Ì“ï¿½eï¿½Í“ï¿½ï¿½vï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚É‚ï¿½ï¿½ÆŽï¿½ï¿½ÌŽï¿½ï¿½gï¿½Ý‚Ì‚ï¿½ï¿½ßAï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÐŠwï¿½ï¿½ï¿½lï¿½Nï¿½Xï¿½gï¿½Ìï¿½ï¿½ï¿½ï¿½ï¿½ï¿½é€ï¿½Ú‚ÆˆÙ‚È‚ï¿½ï¿½eï¿½ï¿½Ü‚ï¿½Å‚ï¿½ï¿½ï¿½ê‡ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½B<br /><br />
 
-¦Š”Ž®‰ïŽÐŠwŒ¤ƒlƒNƒXƒg„§uŽqˆç‚Äde‰Æ’ë‹³ˆçƒxƒXƒgZ‘îƒvƒ‰ƒ“v‚ÍA•¨Œ‚»‚Ì‚à‚ÌA‰Æ‹ïAÝ”õ“™‚ÌÓ”C‚ÍZ‘î”Ì”„‰ïŽÐA‰Æ‹ïEÝ”õƒ[ƒJ[‚ª¿‚¯•‰‚¢AŠ”Ž®‰ïŽÐŠwŒ¤ƒlƒNƒXƒg‚ÍA”Ì”„‚â‚»‚ÌÝŒvAŽ{H‚Í‚¨‚±‚È‚Á‚Ä‚¨‚è‚Ü‚¹‚ñB‚Ü‚½AZ‘î‚â‚»‚ÌÝ”õ‚»‚Ì‚à‚Ì‚Ì‰¿’lA‹@”\‚¨‚æ‚ÑˆÀ‘S«‚ð„§‚·‚é‚à‚Ì‚Å‚Í‚È‚­AŽq‚Ç‚à‚Ì“ª‚ª—Ç‚­‚È‚é‚±‚ÆA‹y‚ÑAŠw—Í‚ÌŒüã‚ð•ÛØ‚·‚é‚à‚Ì‚Å‚Í‚ ‚è‚Ü‚¹‚ñB<br />
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÐŠwï¿½ï¿½ï¿½lï¿½Nï¿½Xï¿½gï¿½ï¿½ï¿½ï¿½ï¿½uï¿½qï¿½ï¿½ï¿½deï¿½Æ’ë‹³ï¿½ï¿½xï¿½Xï¿½gï¿½Zï¿½ï¿½vï¿½ï¿½ï¿½ï¿½ï¿½vï¿½ÍAï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚ï¿½ÌAï¿½Æ‹ï¿½Aï¿½Ý”ï¿½ï¿½ï¿½ï¿½ÌÓ”Cï¿½ÍZï¿½ï¿½Ì”ï¿½ï¿½ï¿½ÐAï¿½Æ‹ï¿½Eï¿½Ý”ï¿½ï¿½ï¿½ï¿½[ï¿½Jï¿½[ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÐŠwï¿½ï¿½ï¿½lï¿½Nï¿½Xï¿½gï¿½ÍAï¿½Ì”ï¿½ï¿½â‚»ï¿½ÌÝŒvï¿½Aï¿½{ï¿½Hï¿½Í‚ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½Bï¿½Ü‚ï¿½ï¿½Aï¿½Zï¿½ï¿½â‚»ï¿½ÌÝ”ï¿½ï¿½ï¿½ï¿½Ì‚ï¿½Ì‚Ì‰ï¿½ï¿½lï¿½Aï¿½@ï¿½\ï¿½ï¿½ï¿½ï¿½Ñˆï¿½ï¿½Sï¿½ï¿½ï¿½ð„ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚Å‚Í‚È‚ï¿½ï¿½Aï¿½qï¿½Ç‚ï¿½Ì“ï¿½ï¿½ï¿½ï¿½Ç‚ï¿½ï¿½È‚é‚±ï¿½ÆAï¿½yï¿½ÑAï¿½wï¿½Í‚ÌŒï¿½ï¿½ï¿½ï¿½ÛØ‚ï¿½ï¿½ï¿½ï¿½Ì‚Å‚Í‚ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½B<br />
 <br />
-¦ŒfÚ‚ÌˆÄ“àŽÊ^‚ÍAƒ‚ƒfƒ‹ƒ‹[ƒ€iJƒ^ƒCƒvj‚ð•½¬23”N7ŒŽ‚ÉŽB‰e‚µ‚½‚à‚Ì‚ÅA‰Æ‹ï‹y‚Ñ’²“x•i‚Í”Ì”„‰¿Ši‚ÉŠÜ‚Ü‚ê‚Ä‚¨‚è‚Ü‚¹‚ñB‚Ü‚½Aˆê•”ƒIƒvƒVƒ‡ƒ“Žd—l‚Æ‚È‚Á‚Ä‚¨‚è‚Ü‚·‚Ì‚ÅA—\‚ß‚²—¹³‚­‚¾‚³‚¢B</li>
+ï¿½ï¿½ï¿½fï¿½Ú‚ÌˆÄ“ï¿½Ê^ï¿½ÍAï¿½ï¿½ï¿½fï¿½ï¿½ï¿½ï¿½ï¿½[ï¿½ï¿½ï¿½iJï¿½^ï¿½Cï¿½vï¿½jï¿½ð•½ï¿½23ï¿½N7ï¿½ï¿½ï¿½ÉŽBï¿½eï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚ÅAï¿½Æ‹ï¿½yï¿½Ñ’ï¿½ï¿½xï¿½iï¿½Í”Ì”ï¿½ï¿½ï¿½ï¿½iï¿½ÉŠÜ‚Ü‚ï¿½Ä‚ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½Bï¿½Ü‚ï¿½ï¿½Aï¿½ê•”ï¿½Iï¿½vï¿½Vï¿½ï¿½ï¿½ï¿½ï¿½dï¿½lï¿½Æ‚È‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½Ì‚ÅAï¿½\ï¿½ß‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B</li>
 </ul>
 </div>
 
 <div class="pagetop02 mt20">
-					<img src="common/images/pagetop_arrow02.gif" width="7" height="4" /><a href="#pagetop" onclick="$('html,body').animate({scrollTop:0},500,'swing'); return false;">ƒy[ƒW‚Ìæ“ª‚Ö–ß‚é</a>
+					<img src="common/images/pagetop_arrow02.gif" width="7" height="4" /><a href="#pagetop" onclick="$('html,body').animate({scrollTop:0},500,'swing'); return false;">ï¿½yï¿½[ï¿½Wï¿½Ìæ“ªï¿½Ö–ß‚ï¿½</a>
 				</div>
 
 
 <div class="btn mt20"><!--
-				--><a href="javascript:window.print();"><img src="images/access/btn_print_off.gif" width="148" height="41" alt="ˆóü‚·‚é" /></a><!--
-				--><a href="javascript:window.close();" class="ml20"><img src="images/access/btn_close_off.gif" width="148" height="41" alt="•Â‚¶‚é" /></a><!--
+				--><a href="javascript:window.print();"><img src="images/access/btn_print_off.gif" width="148" height="41" alt="ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½" /></a><!--
+				--><a href="javascript:window.close();" class="ml20"><img src="images/access/btn_close_off.gif" width="148" height="41" alt="ï¿½Â‚ï¿½ï¿½ï¿½" /></a><!--
 			--></div>
 		</div>
 		<!-- content_wrapper end -->
 	</div>
 	<!-- access_content_bg end -->
 	<!-- footer start -->
-	<div id="footer"><img src="common/images/popup_footer.gif" width="640" height="125" alt="“–ƒ}ƒ“ƒVƒ‡ƒ“‚ÉŠÖ‚·‚é‚¨–â‚¢‡‚í‚¹E‚²‘Š’k‚Í‚±‚¿‚ç‚©‚ç TEL:0120-222-846 ¦Œg‘Ñ“d˜bEPHS‚©‚ç‚à‚²—˜—p‚É‚È‚ê‚Ü‚·B ‚¨–â‚¢‡‚í‚¹‚ÍuBrillia “Œ‘å‘OvƒQƒXƒgƒTƒƒ“ ‰c‹ÆŽžŠÔ : 11F00`18F00(•½“ú) 10F00`18F00(“y“új) ’è‹x“ú : ‰ÎE…—j“ú ¦j“ú‚ðœ‚­" /></div>
+	<div id="footer"><img src="common/images/popup_footer.gif" width="640" height="125" alt="ï¿½ï¿½ï¿½}ï¿½ï¿½ï¿½Vï¿½ï¿½ï¿½ï¿½ï¿½ÉŠÖ‚ï¿½ï¿½é‚¨ï¿½â‚¢ï¿½ï¿½ï¿½í‚¹ï¿½Eï¿½ï¿½ï¿½ï¿½ï¿½kï¿½Í‚ï¿½ï¿½ï¿½ï¿½ç‚©ï¿½ï¿½ TEL:0120-222-846 ï¿½ï¿½ï¿½gï¿½Ñ“dï¿½bï¿½EPHSï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½pï¿½É‚È‚ï¿½Ü‚ï¿½ï¿½B ï¿½ï¿½ï¿½â‚¢ï¿½ï¿½ï¿½í‚¹ï¿½ÍuBrillia ï¿½ï¿½ï¿½ï¿½Oï¿½vï¿½Qï¿½Xï¿½gï¿½Tï¿½ï¿½ï¿½ï¿½ ï¿½cï¿½ÆŽï¿½ï¿½ï¿½ : 11ï¿½F00ï¿½`18ï¿½F00(ï¿½ï¿½ï¿½ï¿½) 10ï¿½F00ï¿½`18ï¿½F00(ï¿½yï¿½ï¿½ï¿½j) ï¿½ï¿½xï¿½ï¿½ : ï¿½ÎEï¿½ï¿½ï¿½jï¿½ï¿½ ï¿½ï¿½ï¿½jï¿½ï¿½ï¿½ï¿½ï¿½" /></div>
 	<!-- footer end -->
 <script type="text/javascript">
 <!--

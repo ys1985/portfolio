@@ -1,10 +1,10 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS" />
-<meta name="description" content="“Œ‹žƒƒgƒ“ì–küu“Œ‘å‘Ov‰w“k•à4•ªBBrillia“Œ‘å‘OB" /> 
-<meta name="keywords" content="Brillia“Œ‘å‘O,“Œ‹žƒƒgƒ“ì–küu“Œ‘å‘Ov‰w“k•à4•ª,V’zE•ª÷ƒ}ƒ“ƒVƒ‡ƒ“,“Œ‹žŒš•¨" />
-<title>•¨ŒŠT—v |yŒöŽ®zBrillia“Œ‘å‘Ob“Œ‹žƒƒgƒ“ì–küu“Œ‘å‘Ov‰w“k•à4•ªb“Œ‹žŒš•¨‚ÌV’zE•ª÷ƒ}ƒ“ƒVƒ‡ƒ“</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½gï¿½ï¿½ï¿½ï¿½kï¿½ï¿½ï¿½uï¿½ï¿½ï¿½ï¿½Oï¿½vï¿½wï¿½kï¿½ï¿½4ï¿½ï¿½ï¿½BBrilliaï¿½ï¿½ï¿½ï¿½Oï¿½B" /> 
+<meta name="keywords" content="Brilliaï¿½ï¿½ï¿½ï¿½O,ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½gï¿½ï¿½ï¿½ï¿½kï¿½ï¿½ï¿½uï¿½ï¿½ï¿½ï¿½Oï¿½vï¿½wï¿½kï¿½ï¿½4ï¿½ï¿½,ï¿½Vï¿½zï¿½Eï¿½ï¿½ï¿½ï¿½ï¿½}ï¿½ï¿½ï¿½Vï¿½ï¿½ï¿½ï¿½,ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½" />
+<title>ï¿½ï¿½ï¿½ï¿½ï¿½Tï¿½v |ï¿½yï¿½ï¿½ï¿½ï¿½ï¿½zBrilliaï¿½ï¿½ï¿½ï¿½Oï¿½bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½gï¿½ï¿½ï¿½ï¿½kï¿½ï¿½ï¿½uï¿½ï¿½ï¿½ï¿½Oï¿½vï¿½wï¿½kï¿½ï¿½4ï¿½ï¿½ï¿½bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÌVï¿½zï¿½Eï¿½ï¿½ï¿½ï¿½ï¿½}ï¿½ï¿½ï¿½Vï¿½ï¿½ï¿½ï¿½</title>
 <link rel="stylesheet" type="text/css" href="common/css/import.css" media="all" />
 <link rel="stylesheet" type="text/css" href="common/css/popup.css" media="all" />
 <link rel="stylesheet" type="text/css" href="common/css/outline.css" media="all" />
@@ -16,11 +16,11 @@
 	<!-- header start -->
 	<div id="header">
 		<div class="popup_inner_header">
-			<h1>yŒöŽ®zBrillia“Œ‘å‘Ob“Œ‹žƒƒgƒ“ì–küu“Œ‘å‘Ov‰w“k•à4•ªb“Œ‹žŒš•¨‚ÌV’zE•ª÷ƒ}ƒ“ƒVƒ‡ƒ“</h1>
-			<div class="logo"><a href="http://www.bt4.jp"><img src="common/images/header_logo.gif" width="178" height="30" alt="Brillia “Œ‘å‘O" /></a></div>
+			<h1>ï¿½yï¿½ï¿½ï¿½ï¿½ï¿½zBrilliaï¿½ï¿½ï¿½ï¿½Oï¿½bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½gï¿½ï¿½ï¿½ï¿½kï¿½ï¿½ï¿½uï¿½ï¿½ï¿½ï¿½Oï¿½vï¿½wï¿½kï¿½ï¿½4ï¿½ï¿½ï¿½bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÌVï¿½zï¿½Eï¿½ï¿½ï¿½ï¿½ï¿½}ï¿½ï¿½ï¿½Vï¿½ï¿½ï¿½ï¿½</h1>
+			<div class="logo"><a href="http://www.bt4.jp"><img src="common/images/header_logo.gif" width="178" height="30" alt="Brillia ï¿½ï¿½ï¿½ï¿½O" /></a></div>
 			<div class="header_btn02">
 				<ul class="clearfix"><!--
-				--><li><a href="http://www.bt4.jp/request/index.html" target="_blank"><img src="common/images/header_menu03_off.gif" width="136" height="31" alt="Ž‘—¿¿‹" /></a></li><!--
+				--><li><a href="http://www.bt4.jp/request/index.html" target="_blank"><img src="common/images/header_menu03_off.gif" width="136" height="31" alt="ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½" /></a></li><!--
 				--></ul>
 			</div>
 		</div>
@@ -38,13 +38,13 @@
 			<div class="information mb20">
 				
 				<div class="pagetop02 mt20">
-					<img src="common/images/pagetop_arrow02.gif" width="7" height="4" /><a href="#pagetop" onclick="$('html,body').animate({scrollTop:0},500,'swing'); return false;">ƒy[ƒW‚Ìæ“ª‚Ö–ß‚é</a>
+					<img src="common/images/pagetop_arrow02.gif" width="7" height="4" /><a href="#pagetop" onclick="$('html,body').animate({scrollTop:0},500,'swing'); return false;">ï¿½yï¿½[ï¿½Wï¿½Ìæ“ªï¿½Ö–ß‚ï¿½</a>
 				</div>
 			</div>
 				
 			<div class="btn mt20"><!--
 				
-				--><a href="javascript:window.close();" class="ml20"><img src="images/access/btn_close_off.gif" width="148" height="41" alt="•Â‚¶‚é" /></a><!--
+				--><a href="javascript:window.close();" class="ml20"><img src="images/access/btn_close_off.gif" width="148" height="41" alt="ï¿½Â‚ï¿½ï¿½ï¿½" /></a><!--
 			--></div>
 		</div>
 		<!-- content_wrapper end -->
@@ -52,7 +52,7 @@
 	<!-- access_content_bg end -->
 	
 	<!-- footer start -->
-	<div id="footer"><img src="common/images/popup_footer.gif" width="640" height="125" alt="“–ƒ}ƒ“ƒVƒ‡ƒ“‚ÉŠÖ‚·‚é‚¨–â‚¢‡‚í‚¹E‚²‘Š’k‚Í‚±‚¿‚ç‚©‚ç TEL:0120-222-846 ¦Œg‘Ñ“d˜bEPHS‚©‚ç‚à‚²—˜—p‚É‚È‚ê‚Ü‚·B ‚¨–â‚¢‡‚í‚¹‚ÍuBrillia “Œ‘å‘OvƒQƒXƒgƒTƒƒ“ ‰c‹ÆŽžŠÔ : 11F00`18F00(•½“ú) 10F00`18F00(“y“új) ’è‹x“ú : ‰ÎE…—j“ú ¦j“ú‚ðœ‚­" /></div>
+	<div id="footer"><img src="common/images/popup_footer.gif" width="640" height="125" alt="ï¿½ï¿½ï¿½}ï¿½ï¿½ï¿½Vï¿½ï¿½ï¿½ï¿½ï¿½ÉŠÖ‚ï¿½ï¿½é‚¨ï¿½â‚¢ï¿½ï¿½ï¿½í‚¹ï¿½Eï¿½ï¿½ï¿½ï¿½ï¿½kï¿½Í‚ï¿½ï¿½ï¿½ï¿½ç‚©ï¿½ï¿½ TEL:0120-222-846 ï¿½ï¿½ï¿½gï¿½Ñ“dï¿½bï¿½EPHSï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½pï¿½É‚È‚ï¿½Ü‚ï¿½ï¿½B ï¿½ï¿½ï¿½â‚¢ï¿½ï¿½ï¿½í‚¹ï¿½ÍuBrillia ï¿½ï¿½ï¿½ï¿½Oï¿½vï¿½Qï¿½Xï¿½gï¿½Tï¿½ï¿½ï¿½ï¿½ ï¿½cï¿½ÆŽï¿½ï¿½ï¿½ : 11ï¿½F00ï¿½`18ï¿½F00(ï¿½ï¿½ï¿½ï¿½) 10ï¿½F00ï¿½`18ï¿½F00(ï¿½yï¿½ï¿½ï¿½j) ï¿½ï¿½xï¿½ï¿½ : ï¿½ÎEï¿½ï¿½ï¿½jï¿½ï¿½ ï¿½ï¿½ï¿½jï¿½ï¿½ï¿½ï¿½ï¿½" /></div>
 	<!-- footer end -->
 	
 </body>

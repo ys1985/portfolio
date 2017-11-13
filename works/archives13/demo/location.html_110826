@@ -1,10 +1,10 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS" />
-<meta name="description" content="“Œ‹žƒƒgƒ“ì–küu“Œ‘å‘Ov‰w“k•à4•ªBBrillia“Œ‘å‘OB" /> 
-<meta name="keywords" content="Brillia“Œ‘å‘O,“Œ‹žƒƒgƒ“ì–küu“Œ‘å‘Ov‰w“k•à4•ª,V’zE•ª÷ƒ}ƒ“ƒVƒ‡ƒ“,“Œ‹žŒš•¨" />
-<title>	Žü•ÓŠÂ‹« |yŒöŽ®zBrillia“Œ‘å‘Ob“Œ‹žƒƒgƒ“ì–küu“Œ‘å‘Ov‰w“k•à4•ªb“Œ‹žŒš•¨‚ÌV’zE•ª÷ƒ}ƒ“ƒVƒ‡ƒ“</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½gï¿½ï¿½ï¿½ï¿½kï¿½ï¿½ï¿½uï¿½ï¿½ï¿½ï¿½Oï¿½vï¿½wï¿½kï¿½ï¿½4ï¿½ï¿½ï¿½BBrilliaï¿½ï¿½ï¿½ï¿½Oï¿½B" /> 
+<meta name="keywords" content="Brilliaï¿½ï¿½ï¿½ï¿½O,ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½gï¿½ï¿½ï¿½ï¿½kï¿½ï¿½ï¿½uï¿½ï¿½ï¿½ï¿½Oï¿½vï¿½wï¿½kï¿½ï¿½4ï¿½ï¿½,ï¿½Vï¿½zï¿½Eï¿½ï¿½ï¿½ï¿½ï¿½}ï¿½ï¿½ï¿½Vï¿½ï¿½ï¿½ï¿½,ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½" />
+<title>	ï¿½ï¿½ï¿½ÓŠÂ‹ï¿½ |ï¿½yï¿½ï¿½ï¿½ï¿½ï¿½zBrilliaï¿½ï¿½ï¿½ï¿½Oï¿½bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½gï¿½ï¿½ï¿½ï¿½kï¿½ï¿½ï¿½uï¿½ï¿½ï¿½ï¿½Oï¿½vï¿½wï¿½kï¿½ï¿½4ï¿½ï¿½ï¿½bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÌVï¿½zï¿½Eï¿½ï¿½ï¿½ï¿½ï¿½}ï¿½ï¿½ï¿½Vï¿½ï¿½ï¿½ï¿½</title>
 <link rel="stylesheet" type="text/css" href="common/css/import.css" media="all" />
 <link rel="stylesheet" type="text/css" href="common/css/location.css" media="all" />
 <link rel="stylesheet" type="text/css" href="common/css/print.css" media="print" />
@@ -19,15 +19,15 @@
 	<!-- header start -->
 	<div id="header02">
 		<div class="inner_header">
-			<h1>yŒöŽ®zBrillia“Œ‘å‘Ob“Œ‹žƒƒgƒ“ì–küu“Œ‘å‘Ov‰w“k•à4•ªb“Œ‹žŒš•¨‚ÌV’zE•ª÷ƒ}ƒ“ƒVƒ‡ƒ“</h1>
-			<div class="logo"><a href="./index.html"><img src="common/images/header_logo.gif" width="178" height="30" alt="Brillia “Œ‘å‘O" /></a></div>
-			<div class="headerinfo"><img src="common/images/headerinfo.gif" width="261" height="26" alt="‚¨–â‚¢‡‚í‚¹ 0120-222-846" /></div>
+			<h1>ï¿½yï¿½ï¿½ï¿½ï¿½ï¿½zBrilliaï¿½ï¿½ï¿½ï¿½Oï¿½bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½gï¿½ï¿½ï¿½ï¿½kï¿½ï¿½ï¿½uï¿½ï¿½ï¿½ï¿½Oï¿½vï¿½wï¿½kï¿½ï¿½4ï¿½ï¿½ï¿½bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÌVï¿½zï¿½Eï¿½ï¿½ï¿½ï¿½ï¿½}ï¿½ï¿½ï¿½Vï¿½ï¿½ï¿½ï¿½</h1>
+			<div class="logo"><a href="./index.html"><img src="common/images/header_logo.gif" width="178" height="30" alt="Brillia ï¿½ï¿½ï¿½ï¿½O" /></a></div>
+			<div class="headerinfo"><img src="common/images/headerinfo.gif" width="261" height="26" alt="ï¿½ï¿½ï¿½â‚¢ï¿½ï¿½ï¿½í‚¹ 0120-222-846" /></div>
 			<div class="header_btn">
 				<ul class="clearfix"><!--
-				--><li><a href="outline.html" target="_blank" onclick="window.open(this.href,'popup','width=720,height=800,scrollbars=yes,resizable=yes'); return false;"><img src="common/images/header_menu01_off.gif" width="105" height="31" alt="•¨ŒŠT—v" /></a></li><!--
-				--><li><a href="accessmap.html" target="_blank" onclick="window.open(this.href,'popup','width=720,height=800,scrollbars=yes,resizable=yes'); return false;"><img src="common/images/header_menu02_off.gif" width="105" height="31" alt="Œ»’nˆÄ“à}" /></a></li><!--
-				--><li><a href="http://www.bt4.jp/yoyaku_hp/index.html" target="_blank"><img src="common/images/header_menu04_off.gif" width="136" height="31" alt="—ˆê—\–ñ" /></a></li><!--
-				--><li><a href="http://www.bt4.jp/request/index.html" target="_blank"><img src="common/images/header_menu03_off.gif" width="136" height="31" alt="Ž‘—¿¿‹" /></a></li><!--
+				--><li><a href="outline.html" target="_blank" onclick="window.open(this.href,'popup','width=720,height=800,scrollbars=yes,resizable=yes'); return false;"><img src="common/images/header_menu01_off.gif" width="105" height="31" alt="ï¿½ï¿½ï¿½ï¿½ï¿½Tï¿½v" /></a></li><!--
+				--><li><a href="accessmap.html" target="_blank" onclick="window.open(this.href,'popup','width=720,height=800,scrollbars=yes,resizable=yes'); return false;"><img src="common/images/header_menu02_off.gif" width="105" height="31" alt="ï¿½ï¿½ï¿½nï¿½Ä“ï¿½}" /></a></li><!--
+				--><li><a href="http://www.bt4.jp/yoyaku_hp/index.html" target="_blank"><img src="common/images/header_menu04_off.gif" width="136" height="31" alt="ï¿½ï¿½ï¿½ï¿½\ï¿½ï¿½" /></a></li><!--
+				--><li><a href="http://www.bt4.jp/request/index.html" target="_blank"><img src="common/images/header_menu03_off.gif" width="136" height="31" alt="ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½" /></a></li><!--
 				--></ul>
 			</div>
 		</div>
@@ -35,28 +35,28 @@
 	<!-- header end -->
 	
 	
-	<!-- ƒOƒ[ƒoƒ‹ƒiƒr start -->
+	<!-- ï¿½Oï¿½ï¿½ï¿½[ï¿½oï¿½ï¿½ï¿½iï¿½r start -->
 	<div id="gnavi" class="clearfix">
 		<ul><!--
-			--><li><a href="top.html"><img src="common/images/gnavi_01_off.gif" width="137" height="39" alt="ƒgƒbƒv" /></a></li><!--
-			--><li><a href="concept.html"><img src="common/images/gnavi_02_off.gif" width="137" height="39" alt="•¨Œ‚Ì“Á’·" /></a></li><!--
-			--><li><a href="location.html"><img src="common/images/gnavi_03_on.gif" width="137" height="39" alt="Žü•Ó‚ÌŠÂ‹«" /></a></li><!--
-			--><li><a href="access.html"><img src="common/images/gnavi_04_off.gif" width="137" height="39" alt="ƒAƒNƒZƒX" /></a></li><!--
-			--><li><a href="structure1.html"><img src="common/images/gnavi_05_off.gif" width="137" height="39" alt="ˆÀSˆÀ‘S" /></a></li><!--
-			--><li><a href="roomplan.html"><img src="common/images/gnavi_06_off.gif" width="137" height="39" alt="ŠÔŽæ‚è" /></a></li><!--
-			--><li><a href="quality.html"><img src="common/images/gnavi_07_off.gif" width="138" height="39" alt="Brillia‚É‚Â‚¢‚Ä" /></a></li><!--
+			--><li><a href="top.html"><img src="common/images/gnavi_01_off.gif" width="137" height="39" alt="ï¿½gï¿½bï¿½v" /></a></li><!--
+			--><li><a href="concept.html"><img src="common/images/gnavi_02_off.gif" width="137" height="39" alt="ï¿½ï¿½ï¿½ï¿½ï¿½Ì“ï¿½ï¿½ï¿½" /></a></li><!--
+			--><li><a href="location.html"><img src="common/images/gnavi_03_on.gif" width="137" height="39" alt="ï¿½ï¿½ï¿½Ó‚ÌŠÂ‹ï¿½" /></a></li><!--
+			--><li><a href="access.html"><img src="common/images/gnavi_04_off.gif" width="137" height="39" alt="ï¿½Aï¿½Nï¿½Zï¿½X" /></a></li><!--
+			--><li><a href="structure1.html"><img src="common/images/gnavi_05_off.gif" width="137" height="39" alt="ï¿½ï¿½ï¿½Sï¿½ï¿½ï¿½S" /></a></li><!--
+			--><li><a href="roomplan.html"><img src="common/images/gnavi_06_off.gif" width="137" height="39" alt="ï¿½ÔŽï¿½ï¿½" /></a></li><!--
+			--><li><a href="quality.html"><img src="common/images/gnavi_07_off.gif" width="138" height="39" alt="Brilliaï¿½É‚Â‚ï¿½ï¿½ï¿½" /></a></li><!--
 		--></ul>
 	</div>
-	<!-- ƒOƒ[ƒoƒ‹ƒiƒr end -->
+	<!-- ï¿½Oï¿½ï¿½ï¿½[ï¿½oï¿½ï¿½ï¿½iï¿½r end -->
 	
-	<!-- ƒRƒ“ƒeƒ“ƒ^ƒCƒgƒ‹ -->
+	<!-- ï¿½Rï¿½ï¿½ï¿½eï¿½ï¿½ï¿½^ï¿½Cï¿½gï¿½ï¿½ -->
 	<h2 class="content_headerttl"><img src="images/loacation/content_headerttl.gif" width="960" height="43" /></h2>
 	
-<!-- ƒpƒ“ƒNƒY -->
+<!-- ï¿½pï¿½ï¿½ï¿½Nï¿½Y -->
 	<ul class="breadcrumbs">
-		<li><a href="top.html">ƒgƒbƒv</a></li>
+		<li><a href="top.html">ï¿½gï¿½bï¿½v</a></li>
 		<li>&gt;</li>
-		<li>Žü•ÓŠÂ‹«</li>
+		<li>ï¿½ï¿½ï¿½ÓŠÂ‹ï¿½</li>
 	</ul>
 	<!-- home_content_bg start -->
   <div class="content_bg">
@@ -64,26 +64,26 @@
 			
 			
 			
-			<h3><img src="images/loacation/content1_ttl.gif" width="960" height="47" alt="‚±‚±‚Í“sS‚Ìu‹uvBu“Œ‘å‘Ov‰w“k•à4•ª" /></h3>
-			<p class="mb30"><img src="images/loacation/content1_subtxt.gif" width="960" height="36" alt="”’ŽR’Ê‚è‚ÌƒNƒC[ƒ“ƒYˆÉ¨’O‚È‚Ç‚ÌƒX[ƒp[‚âA“ú–{ˆã‰È‘åŠw•a‰@‚È‚Ç‚Ìˆã—Ã‹@ŠÖAŽqˆç‚ÄLê‚âŒö‰€‚È‚ÇA‰½‚Å‚àg‹ß‚É®‚¤DŠÂ‹«‚Å‚·B‚‘ä‚ÌŠX‚Å‚ ‚è‚È‚ª‚çAÅŠñ‚è‰wu“Œ‘å‘Ov‚Ü‚Å‚Íƒtƒ‰ƒbƒg‚ÈƒAƒvƒ[ƒ`B‰i‚­•é‚ç‚µ‚Ä‰õ“K‚È—§’n‚Å‚·B" /></h3>
+			<h3><img src="images/loacation/content1_ttl.gif" width="960" height="47" alt="ï¿½ï¿½ï¿½ï¿½ï¿½Í“sï¿½Sï¿½Ìuï¿½uï¿½vï¿½Bï¿½uï¿½ï¿½ï¿½ï¿½Oï¿½vï¿½wï¿½kï¿½ï¿½4ï¿½ï¿½" /></h3>
+			<p class="mb30"><img src="images/loacation/content1_subtxt.gif" width="960" height="36" alt="ï¿½ï¿½ï¿½Rï¿½Ê‚ï¿½ÌƒNï¿½Cï¿½[ï¿½ï¿½ï¿½Yï¿½Éï¿½ï¿½Oï¿½È‚Ç‚ÌƒXï¿½[ï¿½pï¿½[ï¿½ï¿½Aï¿½ï¿½ï¿½{ï¿½ï¿½È‘ï¿½wï¿½aï¿½@ï¿½È‚Ç‚Ìˆï¿½Ã‹@ï¿½ÖAï¿½qï¿½ï¿½ÄLï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ÇAï¿½ï¿½ï¿½Å‚ï¿½gï¿½ß‚Éï¿½ï¿½ï¿½ï¿½Dï¿½Â‹ï¿½ï¿½Å‚ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ÌŠXï¿½Å‚ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½Aï¿½ÅŠï¿½ï¿½wï¿½uï¿½ï¿½ï¿½ï¿½Oï¿½vï¿½Ü‚Å‚Íƒtï¿½ï¿½ï¿½bï¿½gï¿½ÈƒAï¿½vï¿½ï¿½ï¿½[ï¿½`ï¿½Bï¿½iï¿½ï¿½ï¿½ï¿½ç‚µï¿½Ä‰ï¿½ï¿½Kï¿½È—ï¿½ï¿½nï¿½Å‚ï¿½ï¿½B" /></h3>
 			
 			<div class="mb10">
-				<img src="images/loacation/content1_img1.jpg" width="960" height="350" alt="1.“Œ‹ž‘åŠw^“k•à–ñ4•ª@2.ã–ì‰¶Ž’Œö‰€i•s”E’rj^“k•à–ñ18•ª@3.ª’Ã_ŽÐ^“k•à–ñ10•ª@4.ƒAƒ“ƒvƒeƒBƒgƒD[ƒ‹[ƒtƒŒƒ“ƒ`]^“k•à–ñ5•ª 5.ƒCƒ‹ƒ|ƒbƒcƒH ƒzƒŠƒC[ƒCƒ^ƒŠƒAƒ“]^“k•à–ñ5•ª 6.ƒNƒC[ƒ“ƒYˆÉ¨’O^“k•à–ñ11•ª@7.“Œ‘å‰w‘O^“k•à–ñ4•ª@8.“Œ‹ž‘åŠwˆãŠw•”•‘®•a‰@^“k•à–ñ17•ª 9.•¶‹žƒVƒrƒbƒNƒz[ƒ‹^“k•à–ñ17•ª" />
+				<img src="images/loacation/content1_img1.jpg" width="960" height="350" alt="1.ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½wï¿½^ï¿½kï¿½ï¿½ï¿½4ï¿½ï¿½ï¿½@2.ï¿½ï¿½ì‰¶ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½iï¿½sï¿½Eï¿½rï¿½jï¿½^ï¿½kï¿½ï¿½ï¿½18ï¿½ï¿½ï¿½@3.ï¿½ï¿½ï¿½Ã_ï¿½Ð^ï¿½kï¿½ï¿½ï¿½10ï¿½ï¿½ï¿½@4.ï¿½Aï¿½ï¿½ï¿½vï¿½eï¿½Bï¿½gï¿½Dï¿½[ï¿½ï¿½[ï¿½tï¿½ï¿½ï¿½ï¿½ï¿½`]ï¿½^ï¿½kï¿½ï¿½ï¿½5ï¿½ï¿½ 5.ï¿½Cï¿½ï¿½ï¿½|ï¿½bï¿½cï¿½H ï¿½zï¿½ï¿½ï¿½C[ï¿½Cï¿½^ï¿½ï¿½ï¿½Aï¿½ï¿½]ï¿½^ï¿½kï¿½ï¿½ï¿½5ï¿½ï¿½ 6.ï¿½Nï¿½Cï¿½[ï¿½ï¿½ï¿½Yï¿½Éï¿½ï¿½Oï¿½^ï¿½kï¿½ï¿½ï¿½11ï¿½ï¿½ï¿½@7.ï¿½ï¿½ï¿½ï¿½wï¿½Oï¿½^ï¿½kï¿½ï¿½ï¿½4ï¿½ï¿½ï¿½@8.ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½wï¿½ï¿½wï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½aï¿½@ï¿½^ï¿½kï¿½ï¿½ï¿½17ï¿½ï¿½ 9.ï¿½ï¿½ï¿½ï¿½ï¿½Vï¿½rï¿½bï¿½Nï¿½zï¿½[ï¿½ï¿½ï¿½^ï¿½kï¿½ï¿½ï¿½17ï¿½ï¿½" />
 				<img src="images/loacation/content1_img2.jpg" width="960" height="161" alt="" />
 			</div>
 			
 			<!--<div class="location_caption mb10 clearfix"> 
-				<img src="images/loacation/content1_cap.gif" width="83" height="46" alt="‰æ‘œ‰ðà" /> 
+				<img src="images/loacation/content1_cap.gif" width="83" height="46" alt="ï¿½æ‘œï¿½ï¿½ï¿½" /> 
 	 		<ul>
-				<li>1.“Œ‹ž‘åŠw^“k•à–ñ4•ª@2.ã–ì‰¶Ž’Œö‰€i•s”E’rj^“k•à–ñ18•ª@3.ª’Ã_ŽÐ^“k•à–ñ10•ª@4.ƒAƒ“ƒvƒeƒBƒgƒD[ƒ‹[ƒtƒŒƒ“ƒ`]^“k•à–ñ5•ª</li>
-				<li>5ƒCƒ‹ƒ|ƒbƒcƒH ƒzƒŠƒC[ƒCƒ^ƒŠƒAƒ“]^“k•à–ñ5•ª 6.ƒNƒC[ƒ“ƒYˆÉ¨’O^“k•à–ñ5•ª@7.“Œ‘å‰w‘O^“k•à–ñ4•ª@8.“Œ‹ž‘åŠwˆãŠw•”•‘®•a‰@^“k•à–ñ17•ª</li>
-				<li>9.•¶‹žƒVƒrƒbƒNƒz[ƒ‹^“k•à–ñ17•ª</li>
+				<li>1.ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½wï¿½^ï¿½kï¿½ï¿½ï¿½4ï¿½ï¿½ï¿½@2.ï¿½ï¿½ì‰¶ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½iï¿½sï¿½Eï¿½rï¿½jï¿½^ï¿½kï¿½ï¿½ï¿½18ï¿½ï¿½ï¿½@3.ï¿½ï¿½ï¿½Ã_ï¿½Ð^ï¿½kï¿½ï¿½ï¿½10ï¿½ï¿½ï¿½@4.ï¿½Aï¿½ï¿½ï¿½vï¿½eï¿½Bï¿½gï¿½Dï¿½[ï¿½ï¿½[ï¿½tï¿½ï¿½ï¿½ï¿½ï¿½`]ï¿½^ï¿½kï¿½ï¿½ï¿½5ï¿½ï¿½</li>
+				<li>5ï¿½Cï¿½ï¿½ï¿½|ï¿½bï¿½cï¿½H ï¿½zï¿½ï¿½ï¿½C[ï¿½Cï¿½^ï¿½ï¿½ï¿½Aï¿½ï¿½]ï¿½^ï¿½kï¿½ï¿½ï¿½5ï¿½ï¿½ 6.ï¿½Nï¿½Cï¿½[ï¿½ï¿½ï¿½Yï¿½Éï¿½ï¿½Oï¿½^ï¿½kï¿½ï¿½ï¿½5ï¿½ï¿½ï¿½@7.ï¿½ï¿½ï¿½ï¿½wï¿½Oï¿½^ï¿½kï¿½ï¿½ï¿½4ï¿½ï¿½ï¿½@8.ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½wï¿½ï¿½wï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½aï¿½@ï¿½^ï¿½kï¿½ï¿½ï¿½17ï¿½ï¿½</li>
+				<li>9.ï¿½ï¿½ï¿½ï¿½ï¿½Vï¿½rï¿½bï¿½Nï¿½zï¿½[ï¿½ï¿½ï¿½^ï¿½kï¿½ï¿½ï¿½17ï¿½ï¿½</li>
 			</ul> 
 			</div>  -->
 			
 			<ul class="numb_caption mb60"> 
-				<li>¦ ŒfÚ‚ÌŽÊ^‚Í•½¬23”N4ŒŽ‚ÉŽB‰e‚µ‚½‚à‚Ì‚Å‚·B</li> 
-				<li>¦ “k•à•ª”‚Í80m/1•ª‚ÅŽZo‚µ‚Ä‚¢‚Ü‚·¡¬”“_ˆÈ‰º‚ÍØ‚èã‚°‚Ä‚¨‚è‚Ü‚·¡</li> 
+				<li>ï¿½ï¿½ ï¿½fï¿½Ú‚ÌŽÊ^ï¿½Í•ï¿½ï¿½ï¿½23ï¿½N4ï¿½ï¿½ï¿½ÉŽBï¿½eï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚Å‚ï¿½ï¿½B</li> 
+				<li>ï¿½ï¿½ ï¿½kï¿½ï¿½ï¿½ï¿½ï¿½ï¿½80m/1ï¿½ï¿½ï¿½ÅŽZï¿½oï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½_ï¿½È‰ï¿½ï¿½ÍØ‚ï¿½ã‚°ï¿½Ä‚ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½</li> 
 			</ul> 
 
 			
@@ -92,209 +92,209 @@
 			<div class="life_info clearfix">
 				<div class="life_info_box flt_L">
 					<div class="location_ttl">
-						<img class="mb20" src="images/loacation/lifeinfo_ttl1.gif" width="464" height="31" alt="Š¯ŒöEŒö‹¤Ž{Ý" />
+						<img class="mb20" src="images/loacation/lifeinfo_ttl1.gif" width="464" height="31" alt="ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Eï¿½ï¿½ï¿½ï¿½ï¿½{ï¿½ï¿½" />
 						<div class="extra"></div>
-						<p class="test"><span>9</span>•ªˆÈ“à <span>5</span>Ž{Ý</p>
+						<p class="test"><span>9</span>ï¿½ï¿½ï¿½È“ï¿½ <span>5</span>ï¿½{ï¿½ï¿½</p>
 						<div style="clear:both"></div>
 					</div>
 			  <table cellpadding="0" cellspacing="0" border="0">
 						<tr>
-							<td class="info1">–{‹½Å–±</td>
-							<td class="info2">–ñ“k•à1•ª</td>
+							<td class="info1">ï¿½{ï¿½ï¿½ï¿½Å–ï¿½ï¿½ï¿½</td>
+							<td class="info2">ï¿½ï¿½kï¿½ï¿½1ï¿½ï¿½</td>
 							<td class="info3">50m</td>
 						</tr>
 						<tr>
-							<td class="info1">Œü‹u’nˆæŠˆ“®ƒZƒ“ƒ^[‹æ–¯<br>ƒT[ƒrƒXƒR[ƒi[</td>
-							<td class="info2">–ñ“k•à2•ª</td>
+							<td class="info1">ï¿½ï¿½ï¿½uï¿½nï¿½æŠˆï¿½ï¿½ï¿½Zï¿½ï¿½ï¿½^ï¿½[ï¿½æ–¯<br>ï¿½Tï¿½[ï¿½rï¿½Xï¿½Rï¿½[ï¿½iï¿½[</td>
+							<td class="info2">ï¿½ï¿½kï¿½ï¿½2ï¿½ï¿½</td>
 							<td class="info3">140m</td>
 						</tr>
 						<tr>
-							<td class="info1">–í¶’¬Œð”Ô</td>
-							<td class="info2">–ñ“k•à5•ª</td>
+							<td class="info1">ï¿½í¶ï¿½ï¿½ï¿½ï¿½ï¿½</td>
+							<td class="info2">ï¿½ï¿½kï¿½ï¿½5ï¿½ï¿½</td>
 							<td class="info3">350m</td>
 						</tr>
 						<tr>
-							<td class="info1">•¶‹žŒü‹u—X•Ö‹Ç</td>
-							<td class="info2">–ñ“k•à6•ª</td>
+							<td class="info1">ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½uï¿½Xï¿½Ö‹ï¿½</td>
+							<td class="info2">ï¿½ï¿½kï¿½ï¿½6ï¿½ï¿½</td>
 							<td class="info3">480m</td>
 						</tr>
 						<tr>
-							<td class="last info1">–{‹½Á–hª’Ão’£Š</td>
-							<td class="last info2">–ñ“k•à9•ª</td>
+							<td class="last info1">ï¿½{ï¿½ï¿½ï¿½ï¿½ï¿½hï¿½ï¿½ï¿½ï¿½ï¿½Ãoï¿½ï¿½ï¿½ï¿½</td>
+							<td class="last info2">ï¿½ï¿½kï¿½ï¿½9ï¿½ï¿½</td>
 							<td class="last info3">690m</td>
 						</tr>
 						<!--<tr>
-							<td class="info1">•¶‹ž‹æ–ðŠ</td>
-							<td class="info2">–ñ“k•à17•ª</td>
+							<td class="info1">ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</td>
+							<td class="info2">ï¿½ï¿½kï¿½ï¿½17ï¿½ï¿½</td>
 							<td class="info3">1,290m</td>
 						</tr>
 						<tr>
-							<td class="last info1">–{•xŽmŒxŽ@</td>
-							<td class="last info2">–ñ“k•à19•ª</td>
+							<td class="last info1">ï¿½{ï¿½xï¿½mï¿½xï¿½@ï¿½ï¿½</td>
+							<td class="last info2">ï¿½ï¿½kï¿½ï¿½19ï¿½ï¿½</td>
 							<td class="last info3">1,500m</td>
 						</tr> -->
 					</table>
                     
                     <div class="location_ttl">
-                    	<img class="mb20" src="images/loacation/lifeinfo_ttl3.gif" width="464" height="31" alt="‹³ˆçŽ{Ý" />
-						<p><span>8</span>•ªˆÈ“à <span>10</span>Ž{Ý</p>
+                    	<img class="mb20" src="images/loacation/lifeinfo_ttl3.gif" width="464" height="31" alt="ï¿½ï¿½ï¿½ï¿½{ï¿½ï¿½" />
+						<p><span>8</span>ï¿½ï¿½ï¿½È“ï¿½ <span>10</span>ï¿½{ï¿½ï¿½</p>
 					</div>
 			  <table cellpadding="0" cellspacing="0" border="0">
 						<tr>
-							<td class="info1">‹æ—§Œü‹u•Ûˆç‰€</td>
-							<td class="info2">–ñ“k•à1•ª</td>
+							<td class="info1">ï¿½æ—§ï¿½ï¿½ï¿½uï¿½Ûˆç‰€</td>
+							<td class="info2">ï¿½ï¿½kï¿½ï¿½1ï¿½ï¿½</td>
 							<td class="info3">60m</td>
 						</tr>
 						<tr>
-							<td class="info1">‹æ—§‘æ˜Z’†ŠwZ</td>
-							<td class="info2">–ñ“k•à2•ª</td>
+							<td class="info1">ï¿½æ—§ï¿½ï¿½Zï¿½ï¿½ï¿½wï¿½Z</td>
+							<td class="info2">ï¿½ï¿½kï¿½ï¿½2ï¿½ï¿½</td>
 							<td class="info3">90m</td>
 						</tr>
 						<tr>
-							<td class="info1">‹æ—§‘æˆê—c’t‰€</td>
-							<td class="info2">–ñ“k•à2•ª</td>
+							<td class="info1">ï¿½æ—§ï¿½ï¿½ï¿½cï¿½tï¿½ï¿½</td>
+							<td class="info2">ï¿½ï¿½kï¿½ï¿½2ï¿½ï¿½</td>
 							<td class="info3">130m</td>
 						</tr>
 						<tr>
-							<td class="info1">‹æ—§½”V¬ŠwZ</td>
-							<td class="info2">–ñ“k•à4•ª</td>
+							<td class="info1">ï¿½æ—§ï¿½ï¿½ï¿½Vï¿½ï¿½ï¿½wï¿½Z</td>
+							<td class="info2">ï¿½ï¿½kï¿½ï¿½4ï¿½ï¿½</td>
 							<td class="info3">250m</td>
 						</tr>
 						<tr>
-							<td class="info1">“Œ‹ž‘åŠw</td>
-							<td class="info2">–ñ“k•à4•ª</td>
+							<td class="info1">ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½w</td>
+							<td class="info2">ï¿½ï¿½kï¿½ï¿½4ï¿½ï¿½</td>
 							<td class="info3">290m</td>
 						</tr>
 						<tr>
-							<td class="info1">•¶‹žŠw‰@‘åŠw</td>
-							<td class="info2">–ñ“k•à4•ª</td>
+							<td class="info1">ï¿½ï¿½ï¿½ï¿½ï¿½wï¿½@ï¿½ï¿½w</td>
+							<td class="info2">ï¿½ï¿½kï¿½ï¿½4ï¿½ï¿½</td>
 							<td class="info3">300m</td>
 						</tr>
 						<tr>
-							<td class="info1">•ÛˆçŠ‚Ü‚Ÿ‚Þ“Œ‘å‘O‰€</td>
-							<td class="info2">–ñ“k•à5•ª</td>
+							<td class="info1">ï¿½ÛˆçŠï¿½Ü‚ï¿½ï¿½Þ“ï¿½ï¿½ï¿½Oï¿½ï¿½</td>
+							<td class="info2">ï¿½ï¿½kï¿½ï¿½5ï¿½ï¿½</td>
 							<td class="info3">340m</td>
 						</tr>
 						<tr>
-							<td class="info1">•¶‹žŠw‰@‘åŠw•¶‹ž—c’t‰€</td>
-							<td class="info2">–ñ“k•à5•ª</td>
+							<td class="info1">ï¿½ï¿½ï¿½ï¿½ï¿½wï¿½@ï¿½ï¿½wï¿½ï¿½ï¿½ï¿½ï¿½cï¿½tï¿½ï¿½</td>
+							<td class="info2">ï¿½ï¿½kï¿½ï¿½5ï¿½ï¿½</td>
 							<td class="info3">400m</td>
 						</tr>
 						<tr>
-							<td class="info1">“s—§Œü‹u‚“™ŠwZ</td>
-							<td class="info2">–ñ“k•à6•ª</td>
+							<td class="info1">ï¿½sï¿½ï¿½ï¿½ï¿½ï¿½uï¿½ï¿½ï¿½ï¿½ï¿½wï¿½Z</td>
+							<td class="info2">ï¿½ï¿½kï¿½ï¿½6ï¿½ï¿½</td>
 							<td class="info3">480m</td>
 						</tr>
 						<tr>
-							<td class="last info1">ˆè•¶ŠÙ’†ŠwZ</td>
-							<td class="last info2">–ñ“k•à8•ª</td>
+							<td class="last info1">ï¿½è•¶ï¿½Ù’ï¿½ï¿½wï¿½Z</td>
+							<td class="last info2">ï¿½ï¿½kï¿½ï¿½8ï¿½ï¿½</td>
 							<td class="last info3">640m</td>
 						</tr>
 						<!--<tr>
-							<td class="info1">“Œ—m‘åŠw</td>
-							<td class="last info2">–ñ“k•à12•ª</td>
+							<td class="info1">ï¿½ï¿½ï¿½mï¿½ï¿½w</td>
+							<td class="last info2">ï¿½ï¿½kï¿½ï¿½12ï¿½ï¿½</td>
 							<td class="last info3">940m</td>
 						</tr>
 						<tr>
-							<td class="info1">‘—§“Œ‹žŠwŒ|‘åŠw‹³ˆçŠw•”<br>•‘®—c’t‰€’|‘‰€ŽÉ</td>
-							<td class="info2">–ñ“k•à22•ª</td>
+							<td class="info1">ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½wï¿½|ï¿½ï¿½wï¿½ï¿½ï¿½ï¿½wï¿½ï¿½<br>ï¿½ï¿½ï¿½ï¿½ï¿½cï¿½tï¿½ï¿½ï¿½|ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</td>
+							<td class="info2">ï¿½ï¿½kï¿½ï¿½22ï¿½ï¿½</td>
 							<td class="info3">1,750m</td>
 						</tr>
 						<tr>
-							<td class="last info1">‘—§“Œ‹žŠwŒ|‘åŠw‹³ˆçŠw•”<br>•‘®’|‘¬ŠwZ/’†ŠwZ</td>
-							<td class="last info2">–ñ“k•à24•ª</td>
+							<td class="last info1">ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½wï¿½|ï¿½ï¿½wï¿½ï¿½ï¿½ï¿½wï¿½ï¿½<br>ï¿½ï¿½ï¿½ï¿½ï¿½|ï¿½ï¿½ï¿½ï¿½ï¿½wï¿½Z/ï¿½ï¿½ï¿½wï¿½Z</td>
+							<td class="last info2">ï¿½ï¿½kï¿½ï¿½24ï¿½ï¿½</td>
 							<td class="last info3">1,870m</td>
 						</tr> -->
 					</table> 
                     
                     <div class="location_ttl">
-                   		<img class="mb20" src="images/loacation/lifeinfo_ttl7.gif" width="464" height="31" alt="ˆã—Ã‹@ŠÖ" />
-						<p><span>9</span>•ªˆÈ“à <span>17</span>Ž{Ý</p>
+                   		<img class="mb20" src="images/loacation/lifeinfo_ttl7.gif" width="464" height="31" alt="ï¿½ï¿½Ã‹@ï¿½ï¿½" />
+						<p><span>9</span>ï¿½ï¿½ï¿½È“ï¿½ <span>17</span>ï¿½{ï¿½ï¿½</p>
 					</div>
 			  <table cellpadding="0" cellspacing="0" border="0">
 						<tr>
-							<td class="info1">ƒiƒ~ƒLŽ•‰Èˆã‰@iŽ•j</td>
-							<td class="info2">–ñ“k•à3•ª</td>
+							<td class="info1">ï¿½iï¿½~ï¿½Lï¿½ï¿½ï¿½Èˆï¿½@ï¿½iï¿½ï¿½ï¿½j</td>
+							<td class="info2">ï¿½ï¿½kï¿½ï¿½3ï¿½ï¿½</td>
 							<td class="info3">210m</td>
 						</tr>
 						<tr>
-							<td class="info1">‘å‹´“à‰ÈƒNƒŠƒjƒbƒNi“àAÁAƒAƒŒƒ‹ƒM[j</td>
-							<td class="info2">–ñ“k•à3•ª</td>
+							<td class="info1">ï¿½å‹´ï¿½ï¿½ÈƒNï¿½ï¿½ï¿½jï¿½bï¿½Nï¿½iï¿½ï¿½Aï¿½ï¿½ï¿½Aï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½Mï¿½[ï¿½j</td>
+							<td class="info2">ï¿½ï¿½kï¿½ï¿½3ï¿½ï¿½</td>
 							<td class="info3">230m</td>
 						</tr>
 						<tr>
-							<td class="info1">‚æ‚µ‚Í‚µŽ¨•@ˆôA‰Èˆã‰@iŽ¨j</td>
-							<td class="info2">–ñ“k•à3•ª</td>
+							<td class="info1">ï¿½æ‚µï¿½Í‚ï¿½ï¿½ï¿½ï¿½@ï¿½ï¿½Aï¿½Èˆï¿½@ï¿½iï¿½ï¿½ï¿½j</td>
+							<td class="info2">ï¿½ï¿½kï¿½ï¿½3ï¿½ï¿½</td>
 							<td class="info3">240m</td>
 						</tr>
 						<tr>
-							<td class="info1">ƒGƒKƒŠá‰ÈiŠáj</td>
-							<td class="info2">–ñ“k•à4•ª</td>
+							<td class="info1">ï¿½Gï¿½Kï¿½ï¿½ï¿½ï¿½Èiï¿½ï¿½j</td>
+							<td class="info2">ï¿½ï¿½kï¿½ï¿½4ï¿½ï¿½</td>
 							<td class="info3">280m</td>
 						</tr>
 						<tr>
-							<td class="info1">“Œ‘å‘OŽ•‰ÈƒNƒŠƒjƒbƒNiŽ•j</td>
-							<td class="info2">–ñ“k•à4•ª</td>
+							<td class="info1">ï¿½ï¿½ï¿½ï¿½Oï¿½ï¿½ï¿½ÈƒNï¿½ï¿½ï¿½jï¿½bï¿½Nï¿½iï¿½ï¿½ï¿½j</td>
+							<td class="info2">ï¿½ï¿½kï¿½ï¿½4ï¿½ï¿½</td>
 							<td class="info3">290m</td>
 						</tr>
 						<tr>
-							<td class="info1">‚j‚`‚v‚`‚r‚`‚j‚hŽ•‰ÈiŽ•j</td>
-							<td class="info2">–ñ“k•à4•ª</td>
+							<td class="info1">ï¿½jï¿½`ï¿½vï¿½`ï¿½rï¿½`ï¿½jï¿½hï¿½ï¿½ï¿½Èiï¿½ï¿½ï¿½j</td>
+							<td class="info2">ï¿½ï¿½kï¿½ï¿½4ï¿½ï¿½</td>
 							<td class="info3">300m</td>
 						</tr>
 						<tr>
-							<td class="info1">¼•ÐƒNƒŠƒjƒbƒNi“àAŒÄAÁA•új</td>
-							<td class="info2">–ñ“k•à4•ª</td>
+							<td class="info1">ï¿½ï¿½ï¿½ÐƒNï¿½ï¿½ï¿½jï¿½bï¿½Nï¿½iï¿½ï¿½Aï¿½ÄAï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½j</td>
+							<td class="info2">ï¿½ï¿½kï¿½ï¿½4ï¿½ï¿½</td>
 							<td class="info3">320m</td>
 						</tr>
 						<tr>
-							<td class="info1">{èˆã‰@i¬j</td>
-							<td class="info2">–ñ“k•à5•ª</td>
+							<td class="info1">ï¿½{ï¿½ï¿½ï¿½@ï¿½iï¿½ï¿½ï¿½j</td>
+							<td class="info2">ï¿½ï¿½kï¿½ï¿½5ï¿½ï¿½</td>
 							<td class="info3">390m</td>
 						</tr>
 						<tr>
-							<td class="info1">•¶‹ž‘æˆêˆã‰@i“àA”çj</td>
-							<td class="info2">–ñ“k•à6•ª</td>
+							<td class="info1">ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½iï¿½ï¿½Aï¿½ï¿½j</td>
+							<td class="info2">ï¿½ï¿½kï¿½ï¿½6ï¿½ï¿½</td>
 							<td class="info3">420m</td>
 						</tr>
 						<tr>
-							<td class="info1">ƒƒfƒBƒNƒX–{‹½ƒNƒŠƒjƒbƒNi“àAÁAzAS“àAŠOA”çj</td>
-							<td class="info2">–ñ“k•à6•ª</td>
+							<td class="info1">ï¿½ï¿½ï¿½fï¿½Bï¿½Nï¿½Xï¿½{ï¿½ï¿½ï¿½Nï¿½ï¿½ï¿½jï¿½bï¿½Nï¿½iï¿½ï¿½Aï¿½ï¿½ï¿½Aï¿½zï¿½Aï¿½Sï¿½ï¿½Aï¿½Oï¿½Aï¿½ï¿½j</td>
+							<td class="info2">ï¿½ï¿½kï¿½ï¿½6ï¿½ï¿½</td>
 							<td class="info3">430m</td>
 						</tr>
 						<tr>
-							<td class="info1">‚¢‚í‚³‚íŠá‰Èˆã‰@iŠáj</td>
-							<td class="info2">–ñ“k•à6•ª</td>
+							<td class="info1">ï¿½ï¿½ï¿½í‚³ï¿½ï¿½ï¿½Èˆï¿½@ï¿½iï¿½ï¿½j</td>
+							<td class="info2">ï¿½ï¿½kï¿½ï¿½6ï¿½ï¿½</td>
 							<td class="info3">440m</td>
 						</tr>
 						<tr>
-							<td class="info1">‹g–ìŽ•‰ÈƒNƒŠƒjƒbƒNiŽ•j</td>
-							<td class="info2">–ñ“k•à6•ª</td>
+							<td class="info1">ï¿½gï¿½ìŽ•ï¿½ÈƒNï¿½ï¿½ï¿½jï¿½bï¿½Nï¿½iï¿½ï¿½ï¿½j</td>
+							<td class="info2">ï¿½ï¿½kï¿½ï¿½6ï¿½ï¿½</td>
 							<td class="info3">440m</td>
 						</tr>
 						<tr>
-							<td class="info1">Œü‹uŽ•‰Èˆã‰@iŽ•j</td>
-							<td class="info2">–ñ“k•à6•ª</td>
+							<td class="info1">ï¿½ï¿½ï¿½uï¿½ï¿½ï¿½Èˆï¿½@ï¿½iï¿½ï¿½ï¿½j</td>
+							<td class="info2">ï¿½ï¿½kï¿½ï¿½6ï¿½ï¿½</td>
 							<td class="info3">480m</td>
 						</tr>
 						<tr>
-							<td class="info1">•l“‡ˆã‰@i¬j</td>
-							<td class="info2">–ñ“k•à7•ª</td>
+							<td class="info1">ï¿½lï¿½ï¿½ï¿½ï¿½@ï¿½iï¿½ï¿½ï¿½j</td>
+							<td class="info2">ï¿½ï¿½kï¿½ï¿½7ï¿½ï¿½</td>
 							<td class="info3">500m</td>
 						</tr>
 						<tr>
-							<td class="info1">‚â‚Ü‚Ë”çƒt‰ÈƒNƒŠƒjƒbƒNi”ü—eŠOA”çj</td>
-							<td class="info2">–ñ“k•à7•ª</td>
+							<td class="info1">ï¿½ï¿½Ü‚Ë”ï¿½tï¿½ÈƒNï¿½ï¿½ï¿½jï¿½bï¿½Nï¿½iï¿½ï¿½ï¿½eï¿½Oï¿½Aï¿½ï¿½j</td>
+							<td class="info2">ï¿½ï¿½kï¿½ï¿½7ï¿½ï¿½</td>
 							<td class="info3">520m</td>
 						</tr>
 						<tr>
-							<td class="info1">“ú–{ˆã‰È‘åŠw•t‘®•a‰@</td>
-							<td class="info2">–ñ“k•à8•ª</td>
+							<td class="info1">ï¿½ï¿½ï¿½{ï¿½ï¿½È‘ï¿½wï¿½tï¿½ï¿½ï¿½aï¿½@</td>
+							<td class="info2">ï¿½ï¿½kï¿½ï¿½8ï¿½ï¿½</td>
 							<td class="info3">600m</td>
 						</tr>
 						<tr>
-							<td class="last info1">àV“c‚±‚Ç‚àƒNƒŠƒjƒbƒNi¬AƒAƒŒƒ‹ƒM[j</td>
-							<td class="last info2">–ñ“k•à9•ª</td>
+							<td class="last info1">ï¿½Vï¿½cï¿½ï¿½ï¿½Ç‚ï¿½Nï¿½ï¿½ï¿½jï¿½bï¿½Nï¿½iï¿½ï¿½ï¿½Aï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½Mï¿½[ï¿½j</td>
+							<td class="last info2">ï¿½ï¿½kï¿½ï¿½9ï¿½ï¿½</td>
 							<td class="last info3">680m</td>
 						</tr>
 					</table>
@@ -302,202 +302,202 @@
 				
 				<div class="life_info_box flt_R">
 					<div class="location_ttl">
-						<img class="mb20" src="images/loacation/lifeinfo_ttl2.gif" width="464" height="31" alt="‹à—Z‹@ŠÖ" />
-						<p><span>9</span>•ªˆÈ“à <span>5</span>Ž{Ý</p>
+						<img class="mb20" src="images/loacation/lifeinfo_ttl2.gif" width="464" height="31" alt="ï¿½ï¿½Zï¿½@ï¿½ï¿½" />
+						<p><span>9</span>ï¿½ï¿½ï¿½È“ï¿½ <span>5</span>ï¿½{ï¿½ï¿½</p>
 					</div>
 			  <table cellpadding="0" cellspacing="0" border="0">
 						<tr>
-							<td class="info1">–k—¤‹âs ”’ŽRŽx“X</td>
-							<td class="info2">–ñ“k•à9•ª</td>
+							<td class="info1">ï¿½kï¿½ï¿½ï¿½ï¿½s ï¿½ï¿½ï¿½Rï¿½xï¿½X</td>
+							<td class="info2">ï¿½ï¿½kï¿½ï¿½9ï¿½ï¿½</td>
 							<td class="info3">650m</td>
 						</tr>
 						<tr>
-							<td class="info1">ŽO•H“Œ‹žUFJ‹âs ”’ŽR‰w‘Oo’£Š</td>
-							<td class="info2">–ñ“k•à9•ª</td>
+							<td class="info1">ï¿½Oï¿½Hï¿½ï¿½ï¿½ï¿½UFJï¿½ï¿½s ï¿½ï¿½ï¿½Rï¿½wï¿½Oï¿½oï¿½ï¿½ï¿½ï¿½</td>
+							<td class="info2">ï¿½ï¿½kï¿½ï¿½9ï¿½ï¿½</td>
 							<td class="info3">650m</td>
 						</tr>
 						<tr>
-							<td class="info1">‘ƒŠ›M—p‹àŒÉ ”’ŽRŽx“X</td>
-							<td class="info2">–ñ“k•à9•ª</td>
+							<td class="info1">ï¿½ï¿½ï¿½ï¿½ï¿½Mï¿½pï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Rï¿½xï¿½X</td>
+							<td class="info2">ï¿½ï¿½kï¿½ï¿½9ï¿½ï¿½</td>
 							<td class="info3">680m</td>
 						</tr>
 						<tr>
-							<td class="info1">‚Ý‚¸‚Ù‹âs ”’ŽRo’£Š</td>
-							<td class="info2">–ñ“k•à9•ª</td>
+							<td class="info1">ï¿½Ý‚ï¿½ï¿½Ù‹ï¿½s ï¿½ï¿½ï¿½Rï¿½oï¿½ï¿½ï¿½ï¿½</td>
+							<td class="info2">ï¿½ï¿½kï¿½ï¿½9ï¿½ï¿½</td>
 							<td class="info3">690m</td>
 						</tr>
 						<tr>
-							<td class="last info1">‚è‚»‚È‹âs ”’ŽRo’£Š</td>
-							<td class="last info2">–ñ“k•à9•ª</td>
+							<td class="last info1">ï¿½è‚»ï¿½È‹ï¿½s ï¿½ï¿½ï¿½Rï¿½oï¿½ï¿½ï¿½ï¿½</td>
+							<td class="last info2">ï¿½ï¿½kï¿½ï¿½9ï¿½ï¿½</td>
 							<td class="last info3">720m</td>
 						</tr>
 					</table>
                     
                     
 					<div class="location_ttl">
-                  	 	<img class="mb20" src="images/loacation/lifeinfo_ttl4.gif" width="464" height="31" alt="Œö‰€" />
-						<p><span>8</span>•ªˆÈ“à <span>6</span>Ž{Ý</p>
+                  	 	<img class="mb20" src="images/loacation/lifeinfo_ttl4.gif" width="464" height="31" alt="ï¿½ï¿½ï¿½ï¿½" />
+						<p><span>8</span>ï¿½ï¿½ï¿½È“ï¿½ <span>6</span>ï¿½{ï¿½ï¿½</p>
 					</div>
 			  <table cellpadding="0" cellspacing="0" border="0">
 						<tr>
-							<td class="info1">¼•Ð“ñ’š–ÚŽ™“¶—V‰€</td>
-							<td class="info2">–ñ“k•à3•ª</td>
+							<td class="info1">ï¿½ï¿½ï¿½Ð“ñ’š–ÚŽï¿½ï¿½ï¿½ï¿½Vï¿½ï¿½</td>
+							<td class="info2">ï¿½ï¿½kï¿½ï¿½3ï¿½ï¿½</td>
 							<td class="info3">180m</td>
 						</tr>
 						<tr>
-							<td class="info1">”’ŽRˆê’š–Ú‘æ2Ž™“¶—V‰€</td>
-							<td class="info2">–ñ“k•à5•ª</td>
+							<td class="info1">ï¿½ï¿½ï¿½Rï¿½ê’šï¿½Ú‘ï¿½2ï¿½ï¿½ï¿½ï¿½ï¿½Vï¿½ï¿½</td>
+							<td class="info2">ï¿½ï¿½kï¿½ï¿½5ï¿½ï¿½</td>
 							<td class="info3">360m</td>
 						</tr>
 						<tr>
-							<td class="info1">Œü‹u“ñ’š–ÚŽ™“¶—V‰€</td>
-							<td class="info2">–ñ“k•à6•ª</td>
+							<td class="info1">ï¿½ï¿½ï¿½uï¿½ñ’š–ÚŽï¿½ï¿½ï¿½ï¿½Vï¿½ï¿½</td>
+							<td class="info2">ï¿½ï¿½kï¿½ï¿½6ï¿½ï¿½</td>
 							<td class="info3">460m</td>
 						</tr>
 						<tr>
-							<td class="info1">¼•ÐŒö‰€</td>
-							<td class="info2">–ñ“k•à7•ª</td>
+							<td class="info1">ï¿½ï¿½ï¿½ÐŒï¿½ï¿½ï¿½</td>
+							<td class="info2">ï¿½ï¿½kï¿½ï¿½7ï¿½ï¿½</td>
 							<td class="info3">530m</td>
 						</tr>
 						<tr>
-							<td class="info1">”’ŽRˆê’š–ÚŽ™“¶—V‰€</td>
-							<td class="info2">–ñ“k•à6•ª</td>
+							<td class="info1">ï¿½ï¿½ï¿½Rï¿½ê’šï¿½ÚŽï¿½ï¿½ï¿½ï¿½Vï¿½ï¿½</td>
+							<td class="info2">ï¿½ï¿½kï¿½ï¿½6ï¿½ï¿½</td>
 							<td class="info3">480m</td>
 						</tr>
 						<tr>
-							<td class="last info1">ŠÛŽR•ŸŽRŽ™“¶—V‰€</td>
-							<td class="last info2">–ñ“k•à8•ª</td>
+							<td class="last info1">ï¿½ÛŽRï¿½ï¿½ï¿½Rï¿½ï¿½ï¿½ï¿½ï¿½Vï¿½ï¿½</td>
+							<td class="last info2">ï¿½ï¿½kï¿½ï¿½8ï¿½ï¿½</td>
 							<td class="last info3">640m</td>
 						</tr>
 						<!--<tr>
-							<td class="info1">”’ŽRŒö‰€</td>
-							<td class="info2">–ñ“k•à11•ª</td>
+							<td class="info1">ï¿½ï¿½ï¿½Rï¿½ï¿½ï¿½ï¿½</td>
+							<td class="info2">ï¿½ï¿½kï¿½ï¿½11ï¿½ï¿½</td>
 							<td class="info3">860m</td>
 						</tr>
 						<tr>
-							<td class="info1">ç‘Ê–Ø‚Ó‚ê‚ ‚¢‚Ì“m</td>
-							<td class="info2">–ñ“k•à12•ª</td>
+							<td class="info1">ï¿½ï¿½Ê–Ø‚Ó‚ê‚ ï¿½ï¿½ï¿½Ì“m</td>
+							<td class="info2">ï¿½ï¿½kï¿½ï¿½12ï¿½ï¿½</td>
 							<td class="info3">960m</td>
 						</tr>
 						<tr>
-							<td class="last info1">¬ÎìA•¨‰€</td>
-							<td class="last info2">–ñ“k•à15•ª</td>
+							<td class="last info1">ï¿½ï¿½ï¿½Îï¿½Aï¿½ï¿½ï¿½ï¿½</td>
+							<td class="last info2">ï¿½ï¿½kï¿½ï¿½15ï¿½ï¿½</td>
 							<td class="last info3">1,200m</td>
 						</tr>
 						<tr>
-							<td class="info1">âIìŒö‰€</td>
-							<td class="info2">–ñ“k•à17•ª</td>
+							<td class="info1">ï¿½Iï¿½ï¿½ï¿½ï¿½ï¿½</td>
+							<td class="info2">ï¿½ï¿½kï¿½ï¿½17ï¿½ï¿½</td>
 							<td class="info3">1,360m</td>
 						</tr>
 						<tr>
-							<td class="last info1">‹³ˆç‚ÌXŒö‰€</td>
-							<td class="last info2">–ñ“k•à27•ª</td>
+							<td class="last info1">ï¿½ï¿½ï¿½ï¿½ÌXï¿½ï¿½ï¿½ï¿½</td>
+							<td class="last info2">ï¿½ï¿½kï¿½ï¿½27ï¿½ï¿½</td>
 							<td class="last info3">3,120m</td>
 						</tr> -->
 					</table>
                     
                     
                   	<div class="location_ttl"> 
-                   		<img class="mb20" src="images/loacation/lifeinfo_ttl5.gif" width="464" height="31" alt="•¶‰»Ž{Ý" />
-					<p><span>8</span>•ªˆÈ“à <span>5</span>Ž{Ý</p>
+                   		<img class="mb20" src="images/loacation/lifeinfo_ttl5.gif" width="464" height="31" alt="ï¿½ï¿½ï¿½ï¿½ï¿½{ï¿½ï¿½" />
+					<p><span>8</span>ï¿½ï¿½ï¿½È“ï¿½ <span>5</span>ï¿½{ï¿½ï¿½</p>
 					</div>
 			  <table cellpadding="0" cellspacing="0" border="0">
 						<tr>
-							<td class="info1">Œü‹u’nˆæŠˆ“®ƒZƒ“ƒ^[</td>
-							<td class="info2">–ñ“k•à2•ª</td>
+							<td class="info1">ï¿½ï¿½ï¿½uï¿½nï¿½æŠˆï¿½ï¿½ï¿½Zï¿½ï¿½ï¿½^ï¿½[</td>
+							<td class="info2">ï¿½ï¿½kï¿½ï¿½2ï¿½ï¿½</td>
 							<td class="info3">140m</td>
 						</tr>
 						<tr>
-							<td class="info1">•¶‹žŠw‰@‘åŠwE’ZŠú‘åŠw –{‹½}‘ŠÙ</td>
-							<td class="info2">–ñ“k•à4•ª</td>
+							<td class="info1">ï¿½ï¿½ï¿½ï¿½ï¿½wï¿½@ï¿½ï¿½wï¿½Eï¿½Zï¿½ï¿½ï¿½ï¿½w ï¿½{ï¿½ï¿½ï¿½}ï¿½ï¿½ï¿½ï¿½</td>
+							<td class="info2">ï¿½ï¿½kï¿½ï¿½4ï¿½ï¿½</td>
 							<td class="info3">300m</td>
 						</tr>
 						<tr>
-							<td class="info1">‘åš¢Ž›i‚¾‚¢‚¦‚ñ‚¶)‚Ù‚¤‚ë‚­‚¶‚¼‚¤</td>
-							<td class="info2">–ñ“k•à7•ª</td>
+							<td class="info1">ï¿½åš¢ï¿½ï¿½ï¿½iï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½)ï¿½Ù‚ï¿½ï¿½ë‚­ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</td>
+							<td class="info2">ï¿½ï¿½kï¿½ï¿½7ï¿½ï¿½</td>
 							<td class="info3">520m</td>
 						</tr>
 						<tr>
-							<td class="info1">š¢æŽ›i‚¦‚ñ‚¶‚å‚¤‚¶j</td>
-							<td class="info2">–ñ“k•à7•ª</td>
+							<td class="info1">ï¿½ï¿½ï¿½æŽ›ï¿½iï¿½ï¿½ï¿½ñ‚¶‚å‚¤ï¿½ï¿½ï¿½j</td>
+							<td class="info2">ï¿½ï¿½kï¿½ï¿½7ï¿½ï¿½</td>
 							<td class="info3">560m</td>
 						</tr>
 						<tr>
-							<td class="last info1">ƒAƒJƒfƒ~[Œü‹u</td>
-							<td class="last info2">–ñ“k•à8•ª</td>
+							<td class="last info1">ï¿½Aï¿½Jï¿½fï¿½~ï¿½[ï¿½ï¿½ï¿½u</td>
+							<td class="last info2">ï¿½ï¿½kï¿½ï¿½8ï¿½ï¿½</td>
 							<td class="last info3">600m</td>
 						</tr>
 						<!--<tr>
-							<td class="info1">ª’Ã_ŽÐ</td>
-							<td class="info2">–ñ“k•à10•ª</td>
+							<td class="info1">ï¿½ï¿½ï¿½Ã_ï¿½ï¿½</td>
+							<td class="info2">ï¿½ï¿½kï¿½ï¿½10ï¿½ï¿½</td>
 							<td class="info3">730m</td>
 						</tr>
 						<tr>
-							<td class="info1">–í¶”üpŠÙ</td>
-							<td class="info2">–ñ“k•à10•ª</td>
+							<td class="info1">ï¿½í¶ï¿½ï¿½ï¿½pï¿½ï¿½</td>
+							<td class="info2">ï¿½ï¿½kï¿½ï¿½10ï¿½ï¿½</td>
 							<td class="info3">760m</td>
 						</tr>
 						<tr>
-							<td class="last info1">ŠC‘ Ž›i‚©‚¢‚¼‚¤‚¶j</td>
-							<td class="last info2">–ñ“k•à10•ª</td>
+							<td class="last info1">ï¿½Cï¿½ï¿½ï¿½ï¿½ï¿½iï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½j</td>
+							<td class="last info2">ï¿½ï¿½kï¿½ï¿½10ï¿½ï¿½</td>
 							<td class="last info3">800m</td>
 						</tr>-->
 					</table>
                     
                     
                      <div class="location_ttl"> 
-                   		 <img class="mb20" src="images/loacation/lifeinfo_ttl8.gif" width="464" height="31" alt="¤‹ÆŽ{Ý" />
-						 <p><span>11</span>•ªˆÈ“à <span>10</span>Ž{Ý</p>
+                   		 <img class="mb20" src="images/loacation/lifeinfo_ttl8.gif" width="464" height="31" alt="ï¿½ï¿½ï¿½ÆŽ{ï¿½ï¿½" />
+						 <p><span>11</span>ï¿½ï¿½ï¿½È“ï¿½ <span>10</span>ï¿½{ï¿½ï¿½</p>
 					</div>
 			  <table cellpadding="0" cellspacing="0" border="0">
 						<tr>
-							<td class="info1">‚Ý‚ñ‚È‚ÌƒCƒ`ƒo •¶‹ž¼•Ð‚Q’š–Ú“X</td>
-							<td class="info2">–ñ“k•à2•ª</td>
+							<td class="info1">ï¿½Ý‚ï¿½È‚ÌƒCï¿½`ï¿½o ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ð‚Qï¿½ï¿½ï¿½Ú“X</td>
+							<td class="info2">ï¿½ï¿½kï¿½ï¿½2ï¿½ï¿½</td>
 							<td class="info3">120m</td>
 						</tr>
 						<tr>
-							<td class="info1">ƒZƒuƒ“ƒCƒŒƒuƒ“ •¶‹žŒü‹u‚P’š–Ú“X</td>
-							<td class="info2">–ñ“k•à4•ª</td>
+							<td class="info1">ï¿½Zï¿½uï¿½ï¿½ï¿½Cï¿½ï¿½ï¿½uï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½uï¿½Pï¿½ï¿½ï¿½Ú“X</td>
+							<td class="info2">ï¿½ï¿½kï¿½ï¿½4ï¿½ï¿½</td>
 							<td class="info3">300m</td>
 						</tr>
 						<tr>
-							<td class="info1">‚­‚·‚èƒZƒCƒWƒ‡[ ”’ŽR“X</td>
-							<td class="info2">–ñ“k•à8•ª</td>
+							<td class="info1">ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Zï¿½Cï¿½Wï¿½ï¿½ï¿½[ ï¿½ï¿½ï¿½Rï¿½X</td>
+							<td class="info2">ï¿½ï¿½kï¿½ï¿½8ï¿½ï¿½</td>
 							<td class="info3">630m</td>
 						</tr>
 						<tr>
-							<td class="info1">ƒZƒuƒ“ƒCƒŒƒuƒ“ •¶‹žŒü‹u‚Q’š–Ú“X</td>
-							<td class="info2">–ñ“k•à9•ª</td>
+							<td class="info1">ï¿½Zï¿½uï¿½ï¿½ï¿½Cï¿½ï¿½ï¿½uï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½uï¿½Qï¿½ï¿½ï¿½Ú“X</td>
+							<td class="info2">ï¿½ï¿½kï¿½ï¿½9ï¿½ï¿½</td>
 							<td class="info3">690m</td>
 						</tr>
 						<tr>
-							<td class="info1">ƒR[ƒv‚Æ‚¤‚«‚å‚¤ ”’ŽR“X</td>
-							<td class="info2">–ñ“k•à9•ª</td>
+							<td class="info1">ï¿½Rï¿½[ï¿½vï¿½Æ‚ï¿½ï¿½ï¿½ï¿½å‚¤ ï¿½ï¿½ï¿½Rï¿½X</td>
+							<td class="info2">ï¿½ï¿½kï¿½ï¿½9ï¿½ï¿½</td>
 							<td class="info3">700m</td>
 						</tr>
 						<tr>
-							<td class="info1">ƒIƒŠƒ“ƒsƒbƒN ”’ŽR“X</td>
-							<td class="info2">–ñ“k•à9•ª</td>
+							<td class="info1">ï¿½Iï¿½ï¿½ï¿½ï¿½ï¿½sï¿½bï¿½N ï¿½ï¿½ï¿½Rï¿½X</td>
+							<td class="info2">ï¿½ï¿½kï¿½ï¿½9ï¿½ï¿½</td>
 							<td class="info3">720m</td>
 						</tr>
 						<tr>
-							<td class="info1">ŽO“¿ ”’ŽR“X</td>
-							<td class="info2">–ñ“k•à10•ª</td>
+							<td class="info1">ï¿½Oï¿½ï¿½ ï¿½ï¿½ï¿½Rï¿½X</td>
+							<td class="info2">ï¿½ï¿½kï¿½ï¿½10ï¿½ï¿½</td>
 							<td class="info3">740m</td>
 						</tr>
 						<tr>
-							<td class="info1">TSUTAYA ”’ŽR“X</td>
-							<td class="info2">–ñ“k•à10•ª</td>
+							<td class="info1">TSUTAYA ï¿½ï¿½ï¿½Rï¿½X</td>
+							<td class="info2">ï¿½ï¿½kï¿½ï¿½10ï¿½ï¿½</td>
 							<td class="info3">750m</td>
 						</tr>
 						<tr>
-							<td class="info1">ƒRƒRƒX‹îž ”’ŽR“X</td>
-							<td class="info2">–ñ“k•à11•ª</td>
+							<td class="info1">ï¿½Rï¿½Rï¿½Xï¿½îž ï¿½ï¿½ï¿½Rï¿½X</td>
+							<td class="info2">ï¿½ï¿½kï¿½ï¿½11ï¿½ï¿½</td>
 							<td class="info3">810m</td>
 						</tr>
 						<tr>
-							<td class="last info1">ƒNƒC[ƒ“ƒYˆÉ¨’O ¬Îì“X</td>
-							<td class="last info2">–ñ“k•à11•ª</td>
+							<td class="last info1">ï¿½Nï¿½Cï¿½[ï¿½ï¿½ï¿½Yï¿½Éï¿½ï¿½O ï¿½ï¿½ï¿½Îï¿½X</td>
+							<td class="last info2">ï¿½ï¿½kï¿½ï¿½11ï¿½ï¿½</td>
 							<td class="last info3">880m</td>
 						</tr>
 					</table>
@@ -507,10 +507,10 @@
 			</div>
 			
 			<ul class="numb_caption mb60"> 
-				<li>¦ “k•à•ª”‚Í80m/1•ª‚ÅŽZo‚µ‚Ä‚¢‚Ü‚·¡¬”“_ˆÈ‰º‚ÍØ‚èã‚°‚Ä‚¨‚è‚Ü‚·¡</li> 
+				<li>ï¿½ï¿½ ï¿½kï¿½ï¿½ï¿½ï¿½ï¿½ï¿½80m/1ï¿½ï¿½ï¿½ÅŽZï¿½oï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½_ï¿½È‰ï¿½ï¿½ÍØ‚ï¿½ã‚°ï¿½Ä‚ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½</li> 
 			</ul>   
 			<div class="pagetop mt20">
-				<img src="common/images/pagetop_arrow.gif" width="7" height="4" /><a href="#pagetop" onclick="$('html,body').animate({scrollTop:0},500,'swing'); return false;">ƒy[ƒW‚Ìæ“ª‚Ö–ß‚é</a>
+				<img src="common/images/pagetop_arrow.gif" width="7" height="4" /><a href="#pagetop" onclick="$('html,body').animate({scrollTop:0},500,'swing'); return false;">ï¿½yï¿½[ï¿½Wï¿½Ìæ“ªï¿½Ö–ß‚ï¿½</a>
 			</div>
 			
 			
@@ -522,27 +522,27 @@
 	<div id="footer_navi">
 		<ul>
 			<li>|</li>
-			<li><a href="top.html">ƒgƒbƒvƒy[ƒW</a></li>
+			<li><a href="top.html">ï¿½gï¿½bï¿½vï¿½yï¿½[ï¿½W</a></li>
 			<li>|</li>
-			<li><a href="concept.html">•¨Œ‚Ì“Á’·</a></li>
+			<li><a href="concept.html">ï¿½ï¿½ï¿½ï¿½ï¿½Ì“ï¿½ï¿½ï¿½</a></li>
 			<li>|</li>
-			<li><a href="location.html">Žü•ÓŠÂ‹«</a></li>
+			<li><a href="location.html">ï¿½ï¿½ï¿½ÓŠÂ‹ï¿½</a></li>
 			<li>|</li>
-			<li><a href="access.html">ƒAƒNƒZƒX</a></li>
+			<li><a href="access.html">ï¿½Aï¿½Nï¿½Zï¿½X</a></li>
 			<li>|</li>
-			<li><a href="roomplan.html">ŠÔŽæ‚è</a></li>
+			<li><a href="roomplan.html">ï¿½ÔŽï¿½ï¿½</a></li>
 			<li>|</li>
-			<li><a href="structure1.html">ˆÀSˆÀ‘S</a></li>
+			<li><a href="structure1.html">ï¿½ï¿½ï¿½Sï¿½ï¿½ï¿½S</a></li>
 			<li>|</li>
-			<li><a href="quality.html">Brillia‚É‚Â‚¢‚Ä</a></li>
+			<li><a href="quality.html">Brilliaï¿½É‚Â‚ï¿½ï¿½ï¿½</a></li>
 			<li>|</li>
-			<li><a href="outline.html" target="_blank" onclick="window.open(this.href,'popup','width=720,height=800,scrollbars=yes'); return false;">•¨ŒŠT—v</a></li>
+			<li><a href="outline.html" target="_blank" onclick="window.open(this.href,'popup','width=720,height=800,scrollbars=yes'); return false;">ï¿½ï¿½ï¿½ï¿½ï¿½Tï¿½v</a></li>
 			<li>|</li>
-			<li><a href="accessmap.html" target="_blank" onclick="window.open(this.href,'popup','width=720,height=800,scrollbars=yes'); return false;">Œ»’nˆÄ“à}</a></li>
+			<li><a href="accessmap.html" target="_blank" onclick="window.open(this.href,'popup','width=720,height=800,scrollbars=yes'); return false;">ï¿½ï¿½ï¿½nï¿½Ä“ï¿½}</a></li>
 			<li>|</li>
-			<li><a href="http://www.bt4.jp/yoyaku_hp/index.html" target="_blank">—ˆê—\–ñ</a></li>
+			<li><a href="http://www.bt4.jp/yoyaku_hp/index.html" target="_blank">ï¿½ï¿½ï¿½ï¿½\ï¿½ï¿½</a></li>
 			<li>|</li>
-			<li><a href="http://www.bt4.jp/request/index.html" target="_blank">Ž‘—¿¿‹</a></li>
+			<li><a href="http://www.bt4.jp/request/index.html" target="_blank">ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</a></li>
 			<li>|</li>
 		</ul>
 	</div>
@@ -551,21 +551,21 @@
 	<div id="footer">
 		<div class="footer_infoBox clearfix">
 			<div class="footer_L">
-				<img src="common/images/footerinfo_01.gif" width="480" height="160" alt="“–ƒ}ƒ“ƒVƒ‡ƒ“‚ÉŠÖ‚·‚é‚¨–â‚¢‡‚í‚¹E‚²‘Š’k‚Í‚±‚¿‚ç‚©‚ç TEL:0120-222-846 ¦Œg‘Ñ“d˜bEPHS‚©‚ç‚à‚²—˜—p‚É‚È‚ê‚Ü‚·B ‚¨–â‚¢‡‚í‚¹‚ÍuBrillia “Œ‘å‘OvƒQƒXƒgƒTƒƒ“ ‰c‹ÆŽžŠÔ : 11F00`18F00(•½“ú) 10F00`18F00(“y“új) ’è‹x“ú : ‰ÎE…—j“ú ¦j“ú‚ðœ‚­"/>
+				<img src="common/images/footerinfo_01.gif" width="480" height="160" alt="ï¿½ï¿½ï¿½}ï¿½ï¿½ï¿½Vï¿½ï¿½ï¿½ï¿½ï¿½ÉŠÖ‚ï¿½ï¿½é‚¨ï¿½â‚¢ï¿½ï¿½ï¿½í‚¹ï¿½Eï¿½ï¿½ï¿½ï¿½ï¿½kï¿½Í‚ï¿½ï¿½ï¿½ï¿½ç‚©ï¿½ï¿½ TEL:0120-222-846 ï¿½ï¿½ï¿½gï¿½Ñ“dï¿½bï¿½EPHSï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½pï¿½É‚È‚ï¿½Ü‚ï¿½ï¿½B ï¿½ï¿½ï¿½â‚¢ï¿½ï¿½ï¿½í‚¹ï¿½ÍuBrillia ï¿½ï¿½ï¿½ï¿½Oï¿½vï¿½Qï¿½Xï¿½gï¿½Tï¿½ï¿½ï¿½ï¿½ ï¿½cï¿½ÆŽï¿½ï¿½ï¿½ : 11ï¿½F00ï¿½`18ï¿½F00(ï¿½ï¿½ï¿½ï¿½) 10ï¿½F00ï¿½`18ï¿½F00(ï¿½yï¿½ï¿½ï¿½j) ï¿½ï¿½xï¿½ï¿½ : ï¿½ÎEï¿½ï¿½ï¿½jï¿½ï¿½ ï¿½ï¿½ï¿½jï¿½ï¿½ï¿½ï¿½ï¿½"/>
 				<ul><!--
-				--><li><a href="http://www.bt4.jp/yoyaku_hp/index.html" target="_blank"><img src="common/images/footer_menu05_off.gif" width="140" height="51" alt="—ˆê—\–ñ —ˆê‚ð‚²Šó–]‚Ì•û‚Í‚±‚¿‚ç" /></a></li><!--
-				--><li><a href="http://www.bt4.jp/request/index.html" target="_blank"><img src="common/images/footer_menu01_off.gif" width="140" height="51" alt="Ž‘—¿¿‹ “–•¨Œ‚ÌŽ‘—¿‚ð‚²‘—•t‚¢‚½‚µ‚Ü‚·" /></a></li><!--
+				--><li><a href="http://www.bt4.jp/yoyaku_hp/index.html" target="_blank"><img src="common/images/footer_menu05_off.gif" width="140" height="51" alt="ï¿½ï¿½ï¿½ï¿½\ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½]ï¿½Ì•ï¿½ï¿½Í‚ï¿½ï¿½ï¿½ï¿½ï¿½" /></a></li><!--
+				--><li><a href="http://www.bt4.jp/request/index.html" target="_blank"><img src="common/images/footer_menu01_off.gif" width="140" height="51" alt="ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÌŽï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½tï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½" /></a></li><!--
 				--></ul>
 			</div>
 			<div class="footer_R">
-				<img src="common/images/footerinfo_02.gif" width="480" height="160" alt="Ž–‹ÆŽåi”„Žåj‚É‚Â‚¢‚Ä‚Í‚±‚¿‚ç‚©‚ç"/>
+				<img src="common/images/footerinfo_02.gif" width="480" height="160" alt="ï¿½ï¿½ï¿½ÆŽï¿½iï¿½ï¿½ï¿½ï¿½jï¿½É‚Â‚ï¿½ï¿½Ä‚Í‚ï¿½ï¿½ï¿½ï¿½ç‚©ï¿½ï¿½"/>
 				<ul><!--
-				--><li><a href="http://sumai.tatemono.com/" target="_blank"><img src="common/images/footer_menu03.gif" width="215" height="37"  alt="ƒ”„Žå„“Œ‹žŒš•¨ “Œ‹žŒš•¨‚ÌŽÀÑ@V’zƒ}ƒ“ƒVƒ‡ƒ“‚Ì‚²ˆÄ“à" /></a></li>
+				--><li><a href="http://sumai.tatemono.com/" target="_blank"><img src="common/images/footer_menu03.gif" width="215" height="37"  alt="ï¿½ï¿½ï¿½ï¿½ï¿½å„ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÌŽï¿½ï¿½Ñ@ï¿½Vï¿½zï¿½}ï¿½ï¿½ï¿½Vï¿½ï¿½ï¿½ï¿½ï¿½Ì‚ï¿½ï¿½Ä“ï¿½" /></a></li>
 				<!--
-				--><li><a href="http://www.ttfuhan.co.jp/" target="_blank"><img src="common/images/footer_menu04.gif" width="215" height="37" alt="ƒ”Ì”„‘ã—„“Œ‹žŒš•¨•s“®ŽY”Ì”„ “Œ‹žŒš•¨•s“®ŽY”Ì”„‚Ì‚²ˆÄ“à" /></a></li>
+				--><li><a href="http://www.ttfuhan.co.jp/" target="_blank"><img src="common/images/footer_menu04.gif" width="215" height="37" alt="ï¿½ï¿½ï¿½Ì”ï¿½ï¿½ã—ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½sï¿½ï¿½ï¿½Yï¿½Ì”ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½sï¿½ï¿½ï¿½Yï¿½Ì”ï¿½ï¿½Ì‚ï¿½ï¿½Ä“ï¿½" /></a></li>
 			  <!--
 				--></ul>
-				<div class="brillia_club"><a href="http://sumai.tatemono.com/club/" target="_blank"><img src="common/images/index_brillia_club.gif" alt="uBrillia Clubv‚É‚²“ü‰ï‚¢‚½‚¾‚¢‚½•û‚Éƒ[ƒ‹‚âûŽq‚É‚ÄÅV‚Ì•¨Œî•ñ‚ð‚¨“Í‚¯‚¢‚½‚µ‚Ü‚·Bi“ü‰ï‹àE”N‰ï”ïˆêØ–³—¿j"/></a></div>
+				<div class="brillia_club"><a href="http://sumai.tatemono.com/club/" target="_blank"><img src="common/images/index_brillia_club.gif" alt="ï¿½uBrillia Clubï¿½vï¿½É‚ï¿½ï¿½ï¿½ï¿½ï‚¢ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Éƒï¿½ï¿½[ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½qï¿½É‚ÄÅVï¿½Ì•ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Í‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½Bï¿½iï¿½ï¿½ï¿½ï¿½ï¿½Eï¿½Nï¿½ï¿½ï¿½ï¿½Ø–ï¿½ï¿½ï¿½ï¿½j"/></a></div>
 		  </div>
 			<p class="copyright"><img src="common/images/copyright.gif" width="342" height="12" alt="(C)Copyright 2011 TOKYO TATEMONO Co.,Ltd. All RightsReserved." /></p>
 		</div>

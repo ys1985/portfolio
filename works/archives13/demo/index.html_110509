@@ -1,10 +1,10 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS" />
-<meta name="description" content="“Œ‹žƒƒgƒ“ì–küu“Œ‘å‘Ov‰w“k•à4•ªBBrillia“Œ‘å‘OB" /> 
-<meta name="keywords" content="Brillia“Œ‘å‘O,“Œ‹žƒƒgƒ“ì–küu“Œ‘å‘Ov‰w“k•à4•ª,V’zE•ª÷ƒ}ƒ“ƒVƒ‡ƒ“,“Œ‹žŒš•¨" /> 
-<title>yŒöŽ®zBrillia“Œ‘å‘Ob“Œ‹žƒƒgƒ“ì–küu“Œ‘å‘Ov‰w“k•à4•ªb“Œ‹žŒš•¨‚ÌV’zE•ª÷ƒ}ƒ“ƒVƒ‡ƒ“</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½gï¿½ï¿½ï¿½ï¿½kï¿½ï¿½ï¿½uï¿½ï¿½ï¿½ï¿½Oï¿½vï¿½wï¿½kï¿½ï¿½4ï¿½ï¿½ï¿½BBrilliaï¿½ï¿½ï¿½ï¿½Oï¿½B" /> 
+<meta name="keywords" content="Brilliaï¿½ï¿½ï¿½ï¿½O,ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½gï¿½ï¿½ï¿½ï¿½kï¿½ï¿½ï¿½uï¿½ï¿½ï¿½ï¿½Oï¿½vï¿½wï¿½kï¿½ï¿½4ï¿½ï¿½,ï¿½Vï¿½zï¿½Eï¿½ï¿½ï¿½ï¿½ï¿½}ï¿½ï¿½ï¿½Vï¿½ï¿½ï¿½ï¿½,ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½" /> 
+<title>ï¿½yï¿½ï¿½ï¿½ï¿½ï¿½zBrilliaï¿½ï¿½ï¿½ï¿½Oï¿½bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½gï¿½ï¿½ï¿½ï¿½kï¿½ï¿½ï¿½uï¿½ï¿½ï¿½ï¿½Oï¿½vï¿½wï¿½kï¿½ï¿½4ï¿½ï¿½ï¿½bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÌVï¿½zï¿½Eï¿½ï¿½ï¿½ï¿½ï¿½}ï¿½ï¿½ï¿½Vï¿½ï¿½ï¿½ï¿½</title>
 <link rel="stylesheet" type="text/css" href="common/css/import.css" media="all" />
 <link rel="stylesheet" type="text/css" href="common/css/home.css" media="all" />
 <link rel="stylesheet" type="text/css" href="common/css/teaser.css" media="all" />
@@ -16,12 +16,12 @@
 	<!-- header start -->
 	<div id="header">
 		<div class="inner_header">
-			<h1>yŒöŽ®zBrillia“Œ‘å‘Ob“Œ‹žƒƒgƒ“ì–küu“Œ‘å‘Ov‰w“k•à4•ªb“Œ‹žŒš•¨‚ÌV’zE•ª÷ƒ}ƒ“ƒVƒ‡ƒ“</h1>
-			<div class="logo"><a href="./index.html"><img src="common/images/header_logo.gif" width="178" height="30" alt="Brillia “Œ‘å‘O" /></a></div>
+			<h1>ï¿½yï¿½ï¿½ï¿½ï¿½ï¿½zBrilliaï¿½ï¿½ï¿½ï¿½Oï¿½bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½gï¿½ï¿½ï¿½ï¿½kï¿½ï¿½ï¿½uï¿½ï¿½ï¿½ï¿½Oï¿½vï¿½wï¿½kï¿½ï¿½4ï¿½ï¿½ï¿½bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÌVï¿½zï¿½Eï¿½ï¿½ï¿½ï¿½ï¿½}ï¿½ï¿½ï¿½Vï¿½ï¿½ï¿½ï¿½</h1>
+			<div class="logo"><a href="./index.html"><img src="common/images/header_logo.gif" width="178" height="30" alt="Brillia ï¿½ï¿½ï¿½ï¿½O" /></a></div>
 			<div class="header_btn">
 				<ul class="clearfix"><!--
-				--><li><a href="access/index.html" target="_blank" onclick="window.open(this.href,'popup','width=680,height=800'); return false;"><img src="common/images/header_menu02_off.gif" width="105" height="31" alt="Œ»’nˆÄ“à}" /></a></li><!--
-				--><li><a href="http://www.bt4.jp/request/index.html" target="_blank"><img src="common/images/header_menu03_off.gif" width="136" height="31" alt="Ž‘—¿¿‹" /></a></li><!--
+				--><li><a href="access/index.html" target="_blank" onclick="window.open(this.href,'popup','width=680,height=800'); return false;"><img src="common/images/header_menu02_off.gif" width="105" height="31" alt="ï¿½ï¿½ï¿½nï¿½Ä“ï¿½}" /></a></li><!--
+				--><li><a href="http://www.bt4.jp/request/index.html" target="_blank"><img src="common/images/header_menu03_off.gif" width="136" height="31" alt="ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½" /></a></li><!--
 				--></ul>
 			</div>
 		</div>
@@ -30,157 +30,157 @@
 	
 	<!-- home start -->
 	<div class="home_main">
-		<div><img src="home/mainImg.jpg" width="1041"  height="613"  alt="•¶‚Ì‹žA‰b‚Ì‹uB@‚»‚Ì“sS‚Ìu‹uv‚ÍA”ü‚µ‚¢l¶‚Ì‰b’q‚É[‚¿‚Ä‚¢‚éB “Œ‹žƒƒgƒ“ì–küu“Œ‘å‘Ov‰w“k•à4•ª u‹æ—§½”V¬ŠwZvŠw‹æ uBrillia“Œ‘å‘OvA’a¶BŽ‘—¿¿‹Žó•tŠJŽnB"/></div>
+		<div><img src="home/mainImg.jpg" width="1041"  height="613"  alt="ï¿½ï¿½ï¿½Ì‹ï¿½ï¿½Aï¿½bï¿½Ì‹uï¿½Bï¿½@ï¿½ï¿½ï¿½Ì“sï¿½Sï¿½Ìuï¿½uï¿½vï¿½ÍAï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½lï¿½ï¿½ï¿½Ì‰bï¿½qï¿½É[ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½B ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½gï¿½ï¿½ï¿½ï¿½kï¿½ï¿½ï¿½uï¿½ï¿½ï¿½ï¿½Oï¿½vï¿½wï¿½kï¿½ï¿½4ï¿½ï¿½ ï¿½uï¿½æ—§ï¿½ï¿½ï¿½Vï¿½ï¿½ï¿½wï¿½Zï¿½vï¿½wï¿½ï¿½ ï¿½uBrilliaï¿½ï¿½ï¿½ï¿½Oï¿½vï¿½Aï¿½aï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½tï¿½Jï¿½nï¿½B"/></div>
 	</div>
 	<!-- home end -->
 	
 	<!-- home_content_bg start -->
 	<div class="home_content_bg">
-		<h2 class="mb30"><img src="teaser/copy_ttl.gif" width="1200" height="66" alt="‘S“@“ì¼E“ì“ŒŒü‚«BŠpZŒË”ä—¦–ñ8Š„B70m&sup2;’´3LDK’†SB" /></h2>
+		<h2 class="mb30"><img src="teaser/copy_ttl.gif" width="1200" height="66" alt="ï¿½Sï¿½@ï¿½ì¼ï¿½Eï¿½ì“Œï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½pï¿½Zï¿½Ë”ä—¦ï¿½ï¿½8ï¿½ï¿½ï¿½B70m&sup2;ï¿½ï¿½3LDKï¿½ï¿½ï¿½Sï¿½B" /></h2>
 		<!-- content_wrapper start -->
 		<div class="content_wrapper">
 			<div class="clearfix mb20">
 				<!-- news start -->
 				<div class="news content_L">
 					<img src="home/news_ttl.gif" width="610" height="20" alt="NEWS" />
-					<!--<p><img src="teaser/ico_info.gif" width="48" height="14" alt="‚¨’m‚ç‚¹" /><a href="http://www.c-minami.jp/news-03.pdf" target="_blank">u“Œ–k’n•û‘¾•½—m‰«’nkv‚ÉŠÖ‚·‚é‚¨’m‚ç‚¹</a></p>-->
-					<p>6ŒŽã{XV—\’èAŽ‘—¿¿‹Žó•t’†B</p>
+					<!--<p><img src="teaser/ico_info.gif" width="48" height="14" alt="ï¿½ï¿½ï¿½mï¿½ç‚¹" /><a href="http://www.c-minami.jp/news-03.pdf" target="_blank">ï¿½uï¿½ï¿½ï¿½kï¿½nï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½mï¿½ï¿½ï¿½nï¿½kï¿½vï¿½ÉŠÖ‚ï¿½ï¿½é‚¨ï¿½mï¿½ç‚¹</a></p>-->
+					<p>6ï¿½ï¿½ï¿½ï¿½{ï¿½Xï¿½Vï¿½\ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½tï¿½ï¿½ï¿½B</p>
 				</div>
 				<!-- news end -->
-				<!-- Ž‘—¿¿‹ƒ{ƒ^ƒ“ start -->
+				<!-- ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½{ï¿½^ï¿½ï¿½ start -->
 				<div class="content_R">
 					<div class="content_btn">
 						<ul><!--
-						--><li class="mb10"><a href="http://www.bt4.jp/request/index.html" target="_blank"><img src="home/content_btn01_off.gif" width="304" eight="73" alt="Ž‘—¿¿‹ “–•¨Œ‚ÌŽ‘—¿‚ð‚²¿‹‚Ì•û‚ÉÅV‚Ìî•ñ‚ð‚¨“Í‚¯‚µ‚Ü‚·B" /></a></li><!--
-						--><li><a href="access/index.html" target="_blank" onclick="window.open(this.href,'popup','width=680,height=800'); return false;"><img src="home/content_btn02_off.gif" width="304" height="45" alt="Œ»’nˆÄ“à}‚Í‚±‚¿‚ç‚©‚ç" /></a></li><!--
+						--><li class="mb10"><a href="http://www.bt4.jp/request/index.html" target="_blank"><img src="home/content_btn01_off.gif" width="304" eight="73" alt="ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÌŽï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì•ï¿½ï¿½ÉÅVï¿½Ìï¿½ï¿½ï¿½Í‚ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½B" /></a></li><!--
+						--><li><a href="access/index.html" target="_blank" onclick="window.open(this.href,'popup','width=680,height=800'); return false;"><img src="home/content_btn02_off.gif" width="304" height="45" alt="ï¿½ï¿½ï¿½nï¿½Ä“ï¿½}ï¿½Í‚ï¿½ï¿½ï¿½ï¿½ç‚©ï¿½ï¿½" /></a></li><!--
 						--></ul>
 					</div>
 				</div>
-				<!-- Ž‘—¿¿‹ƒ{ƒ^ƒ“ end -->
+				<!-- ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½{ï¿½^ï¿½ï¿½ end -->
 			</div>
 			<!-- information start -->
 			<div class="information mb20">
 				<p class="mb40"><img src="teaser/information_ttl.gif" width="960" height="20" alt="INFORMATION" /></p>
 				<div class="headline mb20 clearfix">
-					<p><img src="teaser/outline1_ttl.gif" width="266" height="18" alt="uBrillia“Œ‘å‘Ov•¨Œ‘S‘ÌŠT—v" /></p>
+					<p><img src="teaser/outline1_ttl.gif" width="266" height="18" alt="ï¿½uBrilliaï¿½ï¿½ï¿½ï¿½Oï¿½vï¿½ï¿½ï¿½ï¿½ï¿½Sï¿½ÌŠTï¿½v" /></p>
 					<ul><!--
-					--><li>î•ñXV“úF2011”N4ŒŽ27“ú</li><!--
-					--><li>ŽŸ‰ñî•ñXV—\’è“úF2011”N5ŒŽ11“ú</li><!--
+					--><li>ï¿½ï¿½ï¿½Xï¿½Vï¿½ï¿½ï¿½F2011ï¿½N4ï¿½ï¿½27ï¿½ï¿½</li><!--
+					--><li>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Xï¿½Vï¿½\ï¿½ï¿½ï¿½ï¿½F2011ï¿½N5ï¿½ï¿½11ï¿½ï¿½</li><!--
 					--></ul>
 				</div>
 				<table class="mb20" cellpadding="0" cellspacing="0" border="0">
 					<tr>
-						<th><img src="teaser/outline_square.gif" width="12" height="12" />ŠÝ’n</th>
-						<td>“Œ‹ž“s•¶‹ž‹æŒü‹u‚P’š–Ú‚R”Ôi’n”Ôj</td>
-						<th><img src="teaser/outline_square.gif" width="12" height="12" />Œð’Ê</th>
-						<td class="padding_r0px">“Œ‹žƒƒgƒ“ì–küu“Œ‘å‘Ov‰w“k•à4•ªA“s‰cŽO“cüu”’ŽRv‰w“k•à9•ªA“s‰cŽO“cüE“s‰c‘å]ŒËüut“úv‰w“k•à12•ªA“Œ‹žƒƒgƒç‘ã“cüuª’Ãv‰w“k•à13•ª</td>
+						<th><img src="teaser/outline_square.gif" width="12" height="12" />ï¿½ï¿½ï¿½Ý’n</th>
+						<td>ï¿½ï¿½ï¿½ï¿½ï¿½sï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½uï¿½Pï¿½ï¿½ï¿½Ú‚Rï¿½Ôiï¿½nï¿½Ôj</td>
+						<th><img src="teaser/outline_square.gif" width="12" height="12" />ï¿½ï¿½ï¿½</th>
+						<td class="padding_r0px">ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½gï¿½ï¿½ï¿½ï¿½kï¿½ï¿½ï¿½uï¿½ï¿½ï¿½ï¿½Oï¿½vï¿½wï¿½kï¿½ï¿½4ï¿½ï¿½ï¿½Aï¿½sï¿½cï¿½Oï¿½cï¿½ï¿½ï¿½uï¿½ï¿½ï¿½Rï¿½vï¿½wï¿½kï¿½ï¿½9ï¿½ï¿½ï¿½Aï¿½sï¿½cï¿½Oï¿½cï¿½ï¿½ï¿½Eï¿½sï¿½cï¿½ï¿½]ï¿½Ëï¿½ï¿½uï¿½tï¿½ï¿½ï¿½vï¿½wï¿½kï¿½ï¿½12ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½gï¿½ï¿½ï¿½ï¿½ï¿½cï¿½ï¿½ï¿½uï¿½ï¿½ï¿½Ãvï¿½wï¿½kï¿½ï¿½13ï¿½ï¿½</td>
 					</tr>
 					<tr>
-						<th><img src="teaser/outline_square.gif" width="12" height="12" />—p“r’nˆæ</th>
-						<td>‹ß—×¤‹Æ’nˆæ</td>
-						<th><img src="teaser/outline_square.gif" width="12" height="12" />‘ŒË”</th>
-						<td class="padding_r0px">33ŒËi“à”ñ•ª÷ZŒË4ŒËj</td>
+						<th><img src="teaser/outline_square.gif" width="12" height="12" />ï¿½pï¿½rï¿½nï¿½ï¿½</th>
+						<td>ï¿½ß—×ï¿½ï¿½Æ’nï¿½ï¿½</td>
+						<th><img src="teaser/outline_square.gif" width="12" height="12" />ï¿½ï¿½ï¿½Ëï¿½</th>
+						<td class="padding_r0px">33ï¿½Ëiï¿½ï¿½ñ•ªï¿½ï¿½Zï¿½ï¿½4ï¿½Ëj</td>
 					</tr>
 					<tr>
-						<th><img src="teaser/outline_square.gif" width="12" height="12" />•~’n–ÊÏ</th>
+						<th><img src="teaser/outline_square.gif" width="12" height="12" />ï¿½~ï¿½nï¿½Êï¿½</th>
 						<td>610.42m&sup2;</td>
-						<th><img src="teaser/outline_square.gif" width="12" height="12" />Œš’z–ÊÏ</th>
+						<th><img src="teaser/outline_square.gif" width="12" height="12" />ï¿½ï¿½ï¿½zï¿½Êï¿½</th>
 						<td class="padding_r0px">368.94m&sup2;</td>
 					</tr>
 					<tr>
-						<th><img src="teaser/outline_square.gif" width="12" height="12" />Œš’z‰„°–ÊÏ</th>
+						<th><img src="teaser/outline_square.gif" width="12" height="12" />ï¿½ï¿½ï¿½zï¿½ï¿½ï¿½ï¿½ï¿½Êï¿½</th>
 						<td>2,877.38m&sup2;</td>
-						<th><img src="teaser/outline_square.gif" width="12" height="12" />\‘¢E‹K–Í</th>
-						<td class="padding_r0px">“S‹ØƒRƒ“ƒNƒŠ[ƒg‘¢E’nã14ŠKŒš</td>
+						<th><img src="teaser/outline_square.gif" width="12" height="12" />ï¿½\ï¿½ï¿½ï¿½Eï¿½Kï¿½ï¿½</th>
+						<td class="padding_r0px">ï¿½Sï¿½ØƒRï¿½ï¿½ï¿½Nï¿½ï¿½ï¿½[ï¿½gï¿½ï¿½ï¿½Eï¿½nï¿½ï¿½14ï¿½Kï¿½ï¿½</td>
 					</tr>
 					<tr>
-						<th><img src="teaser/outline_square.gif" width="12" height="12" />ŠÔŽæ‚è</th>
-						<td>1LDK`4LDK</td>
-						<th><img src="teaser/outline_square.gif" width="12" height="12" />ZŒËê—L–ÊÏ</th>
-						<td class="padding_r0px">41.21m&sup2;`83.33m&sup2;</td>
+						<th><img src="teaser/outline_square.gif" width="12" height="12" />ï¿½ÔŽï¿½ï¿½</th>
+						<td>1LDKï¿½`4LDK</td>
+						<th><img src="teaser/outline_square.gif" width="12" height="12" />ï¿½Zï¿½Ëï¿½Lï¿½Êï¿½</th>
+						<td class="padding_r0px">41.21m&sup2;ï¿½`83.33m&sup2;</td>
 					</tr>
 					<tr>
-						<th><img src="teaser/outline_square.gif" width="12" height="12" />ƒoƒ‹ƒRƒj[–ÊÏ</th>
-						<td>2.56m&sup2;`13.00m&sup2;</td>
-						<th><img src="teaser/outline_square.gif" width="12" height="12" />Ž©“]ŽÔ’u‚«ê</th>
-						<td class="padding_r0px">58‘äi—\’èj</td>
+						<th><img src="teaser/outline_square.gif" width="12" height="12" />ï¿½oï¿½ï¿½ï¿½Rï¿½jï¿½[ï¿½Êï¿½</th>
+						<td>2.56m&sup2;ï¿½`13.00m&sup2;</td>
+						<th><img src="teaser/outline_square.gif" width="12" height="12" />ï¿½ï¿½ï¿½]ï¿½Ô’uï¿½ï¿½ï¿½ï¿½</th>
+						<td class="padding_r0px">58ï¿½ï¿½iï¿½\ï¿½ï¿½j</td>
 					</tr>
 					<tr>
-						<th><img src="teaser/outline_square.gif" width="12" height="12" />’“ŽÔê</th>
-						<td>5‘äi“àA‰®ŠO‹@ŠBŽ®3‘äAg‘ÌáŠQŽÒ—p1‘äA”ñ•ª÷ŒËê—p’“ŽÔê1‘äji—\’èj</td>
-						<th><img src="teaser/outline_square.gif" width="12" height="12" />ƒ~ƒjƒoƒCƒN’uê</th>
-						<td class="padding_r0px">4‘äi—\’èj</td>
+						<th><img src="teaser/outline_square.gif" width="12" height="12" />ï¿½ï¿½ï¿½Ôï¿½</th>
+						<td>5ï¿½ï¿½iï¿½ï¿½Aï¿½ï¿½ï¿½Oï¿½@ï¿½Bï¿½ï¿½3ï¿½ï¿½Aï¿½gï¿½Ìï¿½Qï¿½Ò—p1ï¿½ï¿½Aï¿½ñ•ªï¿½ï¿½Ëï¿½pï¿½ï¿½ï¿½Ôï¿½1ï¿½ï¿½jï¿½iï¿½\ï¿½ï¿½j</td>
+						<th><img src="teaser/outline_square.gif" width="12" height="12" />ï¿½~ï¿½jï¿½oï¿½Cï¿½Nï¿½uï¿½ï¿½</th>
+						<td class="padding_r0px">4ï¿½ï¿½iï¿½\ï¿½ï¿½j</td>
 					</tr>
 					<tr>
-						<th><img src="teaser/outline_square.gif" width="12" height="12" />Œš’zŠm”F\¿”Ô†</th>
-						<td>‘æUHECŒšŠm22519†@•½¬23”N2ŒŽ10“ú•t</td>
-						<th><img src="teaser/outline_square.gif" width="12" height="12" />ŠÇ—Œ`‘Ô</th>
-						<td class="padding_r0px">‹æ•ªŠ—LŽÒ‘Sˆõ‚É‚æ‚è‘g‡‚ðŒ‹¬‚µŠÇ—‰ïŽÐ‚ÉˆÏ‘õ</td>
+						<th><img src="teaser/outline_square.gif" width="12" height="12" />ï¿½ï¿½ï¿½zï¿½mï¿½Fï¿½\ï¿½ï¿½ï¿½Ôï¿½</th>
+						<td>ï¿½ï¿½UHECï¿½ï¿½ï¿½m22519ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½23ï¿½N2ï¿½ï¿½10ï¿½ï¿½ï¿½t</td>
+						<th><img src="teaser/outline_square.gif" width="12" height="12" />ï¿½Ç—ï¿½ï¿½`ï¿½ï¿½</th>
+						<td class="padding_r0px">ï¿½æ•ªï¿½ï¿½ï¿½Lï¿½Ò‘Sï¿½ï¿½ï¿½É‚ï¿½ï¿½gï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ç—ï¿½ï¿½ï¿½Ð‚ÉˆÏ‘ï¿½</td>
 					</tr>
 					<tr>
-						<th><img src="teaser/outline_square.gif" width="12" height="12" />ŠÇ—‰ïŽÐ</th>
-						<td>Š”Ž®‰ïŽÐ“Œ‹žŒš•¨ƒAƒƒjƒeƒBƒTƒ|[ƒg</td>
-						<th><img src="teaser/outline_square.gif" width="12" height="12" />•ª÷Œã‚ÌŒ —˜Œ`‘Ô</th>
-						<td class="padding_r0px">ê—L•”•ª‚Í‹æ•ªŠ—LŒ A‹¤—L•”•ª‚Íê—L–ÊÏŠ„‡‚É‚æ‚éŠ—LŒ ‚Ì‹¤—L</td>
+						<th><img src="teaser/outline_square.gif" width="12" height="12" />ï¿½Ç—ï¿½ï¿½ï¿½ï¿½</th>
+						<td>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ð“ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½jï¿½eï¿½Bï¿½Tï¿½|ï¿½[ï¿½g</td>
+						<th><img src="teaser/outline_square.gif" width="12" height="12" />ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÌŒï¿½ï¿½ï¿½ï¿½`ï¿½ï¿½</th>
+						<td class="padding_r0px">ï¿½ï¿½Lï¿½ï¿½ï¿½ï¿½ï¿½Í‹æ•ªï¿½ï¿½ï¿½Lï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½Lï¿½ï¿½ï¿½ï¿½ï¿½Íï¿½Lï¿½ÊÏŠï¿½ï¿½ï¿½ï¿½É‚ï¿½éŠï¿½Lï¿½ï¿½ï¿½Ì‹ï¿½ï¿½L</td>
 					</tr>
 					<tr>
-						<th><img src="teaser/outline_square.gif" width="12" height="12" />”„Žå</th>
-						<td>“Œ‹žŒš•¨Š”Ž®‰ïŽÐ@‘“yŒð’Ê‘åb–Æ‹–i14j‘æ6†iŽÐj•s“®ŽY‹¦‰ï‰ïˆõiŽÐjŽñ“sŒ—•s“®ŽYŒö³Žæˆø‹¦‹c‰ï‰Á–¿<br />§103-8285 “Œ‹ž“s’†‰›‹æ”ªdF1-9-9</td>
-						<th><img src="teaser/outline_square.gif" width="12" height="12" />”Ì”„‘ã—</th>
-						<td class="padding_r0px">“Œ‹žŒš•¨•s“®ŽY”Ì”„Š”Ž®‰ïŽÐ@‘“yŒð’Ê‘åb–Æ‹–i9j‘æ2885†iŽÐj•s“®ŽY‹¦‰ï‰ïˆõiŽÐj•s“®ŽY—¬’ÊŒo‰c‹¦‰ï‰ïˆõiŽÐjŽñ“sŒ—•s“®ŽYŒö³Žæˆø‹¦‹c‰ï‰Á–¿<br />§163-0665 “Œ‹ž“sVh‹æ¼Vh1-25-1VhƒZƒ“ƒ^[ƒrƒ‹</td>
+						<th><img src="teaser/outline_square.gif" width="12" height="12" />ï¿½ï¿½ï¿½ï¿½</th>
+						<td>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ð@ï¿½ï¿½ï¿½yï¿½ï¿½Ê‘ï¿½bï¿½Æ‹ï¿½ï¿½i14ï¿½jï¿½ï¿½6ï¿½ï¿½ï¿½iï¿½Ðjï¿½sï¿½ï¿½ï¿½Yï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½iï¿½Ðjï¿½ï¿½sï¿½ï¿½ï¿½sï¿½ï¿½ï¿½Yï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½cï¿½ï¿½ï¿½ï¿½ï¿½<br />ï¿½ï¿½103-8285 ï¿½ï¿½ï¿½ï¿½ï¿½sï¿½ï¿½ï¿½ï¿½ï¿½æ”ªï¿½dï¿½F1-9-9</td>
+						<th><img src="teaser/outline_square.gif" width="12" height="12" />ï¿½Ì”ï¿½ï¿½ã—</th>
+						<td class="padding_r0px">ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½sï¿½ï¿½ï¿½Yï¿½Ì”ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ð@ï¿½ï¿½ï¿½yï¿½ï¿½Ê‘ï¿½bï¿½Æ‹ï¿½ï¿½i9ï¿½jï¿½ï¿½2885ï¿½ï¿½ï¿½iï¿½Ðjï¿½sï¿½ï¿½ï¿½Yï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½iï¿½Ðjï¿½sï¿½ï¿½ï¿½Yï¿½ï¿½ï¿½ÊŒoï¿½cï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½iï¿½Ðjï¿½ï¿½sï¿½ï¿½ï¿½sï¿½ï¿½ï¿½Yï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½cï¿½ï¿½ï¿½ï¿½ï¿½<br />ï¿½ï¿½163-0665 ï¿½ï¿½ï¿½ï¿½ï¿½sï¿½Vï¿½hï¿½æ¼ï¿½Vï¿½h1-25-1ï¿½Vï¿½hï¿½Zï¿½ï¿½ï¿½^ï¿½[ï¿½rï¿½ï¿½</td>
 					</tr>
 					<tr>
-						<th><img src="teaser/outline_square.gif" width="12" height="12" />ÝŒvEŠÄ—</th>
-						<td>Š”Ž®‰ïŽÐˆÀ‘îÝŒv</td>
-						<th><img src="teaser/outline_square.gif" width="12" height="12" />Ž{H</th>
-						<td class="padding_r0px">¼•ŒšÝŠ”Ž®‰ïŽÐ</td>
+						<th><img src="teaser/outline_square.gif" width="12" height="12" />ï¿½ÝŒvï¿½Eï¿½Ä—ï¿½</th>
+						<td>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ðˆï¿½ï¿½ï¿½ÝŒv</td>
+						<th><img src="teaser/outline_square.gif" width="12" height="12" />ï¿½{ï¿½H</th>
+						<td class="padding_r0px">ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÝŠï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</td>
 					</tr>
 					<tr>
-						<th><img src="teaser/outline_square.gif" width="12" height="12" />Œš•¨Š®¬—\’è</th>
-						<td>¦–¢’è</td>
-						<th><img src="teaser/outline_square.gif" width="12" height="12" />“ü‹—\’è</th>
-						<td class="padding_r0px">¦–¢’è</td>
+						<th><img src="teaser/outline_square.gif" width="12" height="12" />ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½\ï¿½ï¿½</th>
+						<td>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</td>
+						<th><img src="teaser/outline_square.gif" width="12" height="12" />ï¿½ï¿½ï¿½ï¿½ï¿½\ï¿½ï¿½</th>
+						<td class="padding_r0px">ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</td>
 					</tr>
 				</table>
 				<div class="attention">
-				 <p class="mb10">¦Œš•¨Š®¬—\’èE“ü‹—\’èŽžŠú‚É‚Â‚«‚Ü‚µ‚Ä‚ÍA“Œ–k’n•û‘¾•½—m‰«’nk‚Ì‰e‹¿‚ÅHŠú‚ª–¢Šm’è‚Ì‚½‚ß–¢’è‚Æ‚È‚Á‚Ä‚¨‚è‚Ü‚·B</p>
+				 <p class="mb10">ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½\ï¿½ï¿½Eï¿½ï¿½ï¿½ï¿½ï¿½\ï¿½èŽžï¿½ï¿½ï¿½É‚Â‚ï¿½ï¿½Ü‚ï¿½ï¿½Ä‚ÍAï¿½ï¿½ï¿½kï¿½nï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½mï¿½ï¿½ï¿½nï¿½kï¿½Ì‰eï¿½ï¿½ï¿½ÅHï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½mï¿½ï¿½Ì‚ï¿½ï¿½ß–ï¿½ï¿½ï¿½Æ‚È‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½B</p>
 				 </div>
-				<p class="mb50"><img src="teaser/yokoku_ttl.gif" alt="—\L–{L‚ðs‚¤‚Ü‚Å‚ÍAŒ_–ñ‚Ü‚½‚Í—\–ñ‚Ì\ž‚Ý‚ÉˆêØ‰ž‚¶‚ç‚ê‚Ü‚¹‚ñB‚Ü‚½\ž‚Ý‚Ì‡ˆÊ‚ÌŠm•Û‚ÉŠÖ‚·‚éŽØ’u‚Íu‚¶‚ç‚ê‚Ü‚¹‚ñB‚ ‚ç‚©‚¶‚ß‚²—¹³‚­‚¾‚³‚¢B”Ì”„—\’èŽžŠú/•½¬23”N11ŒŽã{" width="661" height="29" /></p>
+				<p class="mb50"><img src="teaser/yokoku_ttl.gif" alt="ï¿½\ï¿½ï¿½ï¿½Lï¿½ï¿½ï¿½{ï¿½Lï¿½ï¿½ï¿½ï¿½sï¿½ï¿½ï¿½Ü‚Å‚ÍAï¿½_ï¿½ï¿½Ü‚ï¿½ï¿½Í—\ï¿½ï¿½Ì\ï¿½ï¿½ï¿½Ý‚Éˆï¿½Ø‰ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½Bï¿½Ü‚ï¿½ï¿½\ï¿½ï¿½ï¿½Ý‚Ìï¿½ï¿½Ê‚ÌŠmï¿½Û‚ÉŠÖ‚ï¿½ï¿½ï¿½Ø’uï¿½Íuï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ç‚©ï¿½ï¿½ï¿½ß‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½Ì”ï¿½ï¿½\ï¿½èŽžï¿½ï¿½/ï¿½ï¿½ï¿½ï¿½23ï¿½N11ï¿½ï¿½ï¿½ï¿½{" width="661" height="29" /></p>
 			
-				<p class="mb20"><img src="teaser/outline2_ttl.gif" width="960" height="25" alt="”Ì”„ZŒËŠT—v" /></p>
+				<p class="mb20"><img src="teaser/outline2_ttl.gif" width="960" height="25" alt="ï¿½Ì”ï¿½ï¿½Zï¿½ËŠTï¿½v" /></p>
 				<table class="mb20" cellpadding="0" cellspacing="0" border="0">
 					<tr>
-						<th><img src="teaser/outline_square.gif" width="12" height="12" />—\’è”Ì”„ŒË”</th>
-						<td>–¢’è</td>
-						<th><img src="teaser/outline_square.gif" width="12" height="12" />ŠÔŽæ‚è</th>
-						<td class="padding_r0px">1LDK`4LDK</td>
+						<th><img src="teaser/outline_square.gif" width="12" height="12" />ï¿½\ï¿½ï¿½Ì”ï¿½ï¿½Ëï¿½</th>
+						<td>ï¿½ï¿½ï¿½ï¿½</td>
+						<th><img src="teaser/outline_square.gif" width="12" height="12" />ï¿½ÔŽï¿½ï¿½</th>
+						<td class="padding_r0px">1LDKï¿½`4LDK</td>
 					</tr>
 					<tr>
-						<th><img src="teaser/outline_square.gif" width="12" height="12" />ZŒËê—L–ÊÏ</th>
-						<td>41.21m&sup2;`83.33m&sup2;</td>
-						<th><img src="teaser/outline_square.gif" width="12" height="12" />ƒoƒ‹ƒRƒj[–ÊÏ</th>
-						<td class="padding_r0px">4.56m&sup2;`11.55m&sup2;</td>
+						<th><img src="teaser/outline_square.gif" width="12" height="12" />ï¿½Zï¿½Ëï¿½Lï¿½Êï¿½</th>
+						<td>41.21m&sup2;ï¿½`83.33m&sup2;</td>
+						<th><img src="teaser/outline_square.gif" width="12" height="12" />ï¿½oï¿½ï¿½ï¿½Rï¿½jï¿½[ï¿½Êï¿½</th>
+						<td class="padding_r0px">4.56m&sup2;ï¿½`11.55m&sup2;</td>
 					</tr>
 					<tr>
-						<th><img src="teaser/outline_square.gif" width="12" height="12" />—\’è”Ì”„‰¿Ši</th>
-						<td>–¢’è</td>
-						<th><img src="teaser/outline_square.gif" width="12" height="12" />—\’èÅ‘½‰¿Ši‘Ñ</th>
-						<td class="padding_r0px">–¢’è</td>
+						<th><img src="teaser/outline_square.gif" width="12" height="12" />ï¿½\ï¿½ï¿½Ì”ï¿½ï¿½ï¿½ï¿½i</th>
+						<td>ï¿½ï¿½ï¿½ï¿½</td>
+						<th><img src="teaser/outline_square.gif" width="12" height="12" />ï¿½\ï¿½ï¿½Å‘ï¿½ï¿½ï¿½ï¿½iï¿½ï¿½</th>
+						<td class="padding_r0px">ï¿½ï¿½ï¿½ï¿½</td>
 					</tr>
 					<tr>
-						<th><img src="teaser/outline_square.gif" width="12" height="12" />ŠÇ—”ï“™</th>
-						<td>–¢’è</td>
-						<th><img src="teaser/outline_square.gif" width="12" height="12" />”Ì”„ŠJŽn—\’èŽžŠú</th>
-						<td class="padding_r0px">•½¬23”N11ŒŽã{</td>
+						<th><img src="teaser/outline_square.gif" width="12" height="12" />ï¿½Ç—ï¿½ï¿½ï“™</th>
+						<td>ï¿½ï¿½ï¿½ï¿½</td>
+						<th><img src="teaser/outline_square.gif" width="12" height="12" />ï¿½Ì”ï¿½ï¿½Jï¿½nï¿½\ï¿½èŽžï¿½ï¿½</th>
+						<td class="padding_r0px">ï¿½ï¿½ï¿½ï¿½23ï¿½N11ï¿½ï¿½ï¿½ï¿½{</td>
 					</tr>
 				</table>
 				<div class="attention">
-					<p>¦ã‹L•¨ŒŠT—v“à‚Ì”Ì”„ŒË”E”Ì”„‰¿Ši‚Í–¢’è‚Å‚·BZŒËê—L–ÊÏ“™‚Ì”’l‚ÍA‘S‘Ì‚Å”Ì”„‚·‚é‚©A”Šú‚Å•ª‚¯‚Ä”Ì”„‚·‚é‚©Šm’è‚µ‚Ä‚¨‚ç‚¸A”Ì”„ZŒË‚ª–¢Šm’è‚Ì‚½‚ßA‘S”Ì”„‘ÎÛZŒË‚Ì‚à‚Ì‚ðŽ¦‚µ‚Ä‚¢‚Ü‚·i”ñ•ª÷ZŒË‚Íœ‚­jBŠm’èŽ–€‚Í–{L‚É‚Ä–¾Ž¦‚¢‚½‚µ‚Ü‚·B</p>
-                    <p>¦”Ì”„‚ðŠJŽn‚·‚é‚Ü‚Å‚ÌŠÔ‚ÍAŒ_–ñE—\–ñŽó•tE‡ˆÊŠm•Û‚ÍˆêØ‚Å‚«‚Ü‚¹‚ñB‚ ‚ç‚©‚¶‚ß‚²—¹³‚­‚¾‚³‚¢B</p>
+					<p>ï¿½ï¿½ï¿½ï¿½Lï¿½ï¿½ï¿½ï¿½ï¿½Tï¿½vï¿½ï¿½Ì”Ì”ï¿½ï¿½Ëï¿½ï¿½Eï¿½Ì”ï¿½ï¿½ï¿½ï¿½iï¿½Í–ï¿½ï¿½ï¿½Å‚ï¿½ï¿½Bï¿½Zï¿½Ëï¿½Lï¿½ÊÏ“ï¿½ï¿½Ìï¿½ï¿½lï¿½ÍAï¿½Sï¿½Ì‚Å”Ì”ï¿½ï¿½ï¿½ï¿½é‚©ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½Å•ï¿½ï¿½ï¿½ï¿½Ä”Ì”ï¿½ï¿½ï¿½ï¿½é‚©ï¿½mï¿½è‚µï¿½Ä‚ï¿½ï¿½ç‚¸ï¿½Aï¿½Ì”ï¿½ï¿½Zï¿½Ë‚ï¿½ï¿½ï¿½ï¿½mï¿½ï¿½Ì‚ï¿½ï¿½ßAï¿½Sï¿½Ì”ï¿½ï¿½ÎÛZï¿½Ë‚Ì‚ï¿½Ì‚ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½iï¿½ñ•ªï¿½ï¿½Zï¿½Ë‚Íï¿½ï¿½ï¿½ï¿½jï¿½Bï¿½mï¿½èŽ–ï¿½ï¿½ï¿½Í–{ï¿½Lï¿½ï¿½ï¿½É‚Ä–ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½B</p>
+                    <p>ï¿½ï¿½ï¿½Ì”ï¿½ï¿½ï¿½Jï¿½nï¿½ï¿½ï¿½ï¿½Ü‚Å‚ÌŠÔ‚ÍAï¿½_ï¿½ï¿½Eï¿½\ï¿½ï¿½ï¿½tï¿½Eï¿½ï¿½ï¿½ÊŠmï¿½Û‚Íˆï¿½Ø‚Å‚ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ç‚©ï¿½ï¿½ï¿½ß‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B</p>
 					
 				</div>
 				<div class="pagetop mt40">
-					<img src="teaser/pagetop_arrow.gif" width="7" height="4" /><a href="#pagetop" onclick="$('html,body').animate({scrollTop:0},500,'swing'); return false;">ƒy[ƒW‚Ìæ“ª‚Ö–ß‚é</a>
+					<img src="teaser/pagetop_arrow.gif" width="7" height="4" /><a href="#pagetop" onclick="$('html,body').animate({scrollTop:0},500,'swing'); return false;">ï¿½yï¿½[ï¿½Wï¿½Ìæ“ªï¿½Ö–ß‚ï¿½</a>
 				</div>
 			</div>
 			<!-- information end -->
@@ -193,18 +193,18 @@
 	<div id="footer">
 		<div class="footer_infoBox clearfix">
 			<div class="footer_L">
-				<img src="common/images/footerinfo_01.gif" width="480" height="160" alt="“–ƒ}ƒ“ƒVƒ‡ƒ“‚ÉŠÖ‚·‚é‚¨–â‚¢‡‚í‚¹E‚²‘Š’k‚Í‚±‚¿‚ç‚©‚ç TEL:0120-222-846 ¦Œg‘Ñ“d˜bEPHS‚©‚ç‚à‚²—˜—p‚É‚È‚ê‚Ü‚·B ‚¨–â‚¢‡‚í‚¹‚ÍuBrillia “Œ‘å‘Ov ”Ì”„€”õŽº ‰c‹ÆŽžŠÔ^11:00`18:00 ’è‹x“ú^…E–Ø—j“ú"/>
+				<img src="common/images/footerinfo_01.gif" width="480" height="160" alt="ï¿½ï¿½ï¿½}ï¿½ï¿½ï¿½Vï¿½ï¿½ï¿½ï¿½ï¿½ÉŠÖ‚ï¿½ï¿½é‚¨ï¿½â‚¢ï¿½ï¿½ï¿½í‚¹ï¿½Eï¿½ï¿½ï¿½ï¿½ï¿½kï¿½Í‚ï¿½ï¿½ï¿½ï¿½ç‚©ï¿½ï¿½ TEL:0120-222-846 ï¿½ï¿½ï¿½gï¿½Ñ“dï¿½bï¿½EPHSï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½pï¿½É‚È‚ï¿½Ü‚ï¿½ï¿½B ï¿½ï¿½ï¿½â‚¢ï¿½ï¿½ï¿½í‚¹ï¿½ÍuBrillia ï¿½ï¿½ï¿½ï¿½Oï¿½v ï¿½Ì”ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½cï¿½ÆŽï¿½ï¿½Ô^11:00ï¿½`18:00 ï¿½ï¿½xï¿½ï¿½ï¿½^ï¿½ï¿½ï¿½Eï¿½Ø—jï¿½ï¿½"/>
 				<ul><!--
-				--><li><a href="http://www.bt4.jp/request/index.html" target="_blank"><img src="common/images/footer_menu01_off.gif" width="140" height="51" alt="Ž‘—¿¿‹ “–•¨Œ‚ÌŽ‘—¿‚ð‚²‘—•t‚¢‚½‚µ‚Ü‚·" /></a></li><!--
-				--><li><a href="access/index.html" target="_blank" onclick="window.open(this.href,'popup','width=680,height=800'); return false;"><img src="common/images/footer_menu02_off.gif" width="140" height="51" alt="Œ»’nˆÄ“à} Œ»’nˆÄ“à}‚Í‚±‚¿‚ç‚©‚ç" /></a></li><!--
+				--><li><a href="http://www.bt4.jp/request/index.html" target="_blank"><img src="common/images/footer_menu01_off.gif" width="140" height="51" alt="ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÌŽï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½tï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½" /></a></li><!--
+				--><li><a href="access/index.html" target="_blank" onclick="window.open(this.href,'popup','width=680,height=800'); return false;"><img src="common/images/footer_menu02_off.gif" width="140" height="51" alt="ï¿½ï¿½ï¿½nï¿½Ä“ï¿½} ï¿½ï¿½ï¿½nï¿½Ä“ï¿½}ï¿½Í‚ï¿½ï¿½ï¿½ï¿½ç‚©ï¿½ï¿½" /></a></li><!--
 				--></ul>
 			</div>
 			<div class="footer_R">
-				<img src="common/images/footerinfo_02.gif" width="480" height="160" alt="Ž–‹ÆŽåi”„Žåj‚É‚Â‚¢‚Ä‚Í‚±‚¿‚ç‚©‚ç"/>
+				<img src="common/images/footerinfo_02.gif" width="480" height="160" alt="ï¿½ï¿½ï¿½ÆŽï¿½iï¿½ï¿½ï¿½ï¿½jï¿½É‚Â‚ï¿½ï¿½Ä‚Í‚ï¿½ï¿½ï¿½ï¿½ç‚©ï¿½ï¿½"/>
 				<ul><!--
-				--><li><a href="http://sumai.tatemono.com/" target="_blank"><img src="common/images/footer_menu03.gif" width="215" height="37"  alt="ƒ”„Žå„“Œ‹žŒš•¨ “Œ‹žŒš•¨‚ÌŽÀÑ@V’zƒ}ƒ“ƒVƒ‡ƒ“‚Ì‚²ˆÄ“à" /></a></li>
+				--><li><a href="http://sumai.tatemono.com/" target="_blank"><img src="common/images/footer_menu03.gif" width="215" height="37"  alt="ï¿½ï¿½ï¿½ï¿½ï¿½å„ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÌŽï¿½ï¿½Ñ@ï¿½Vï¿½zï¿½}ï¿½ï¿½ï¿½Vï¿½ï¿½ï¿½ï¿½ï¿½Ì‚ï¿½ï¿½Ä“ï¿½" /></a></li>
 				<!--
-				--><li><a href="http://www.ttfuhan.co.jp/" target="_blank"><img src="common/images/footer_menu04.gif" width="215" height="37" alt="ƒ”Ì”„‘ã—„“Œ‹žŒš•¨•s“®ŽY”Ì”„ “Œ‹žŒš•¨•s“®ŽY”Ì”„‚Ì‚²ˆÄ“à" /></a></li>
+				--><li><a href="http://www.ttfuhan.co.jp/" target="_blank"><img src="common/images/footer_menu04.gif" width="215" height="37" alt="ï¿½ï¿½ï¿½Ì”ï¿½ï¿½ã—ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½sï¿½ï¿½ï¿½Yï¿½Ì”ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½sï¿½ï¿½ï¿½Yï¿½Ì”ï¿½ï¿½Ì‚ï¿½ï¿½Ä“ï¿½" /></a></li>
 			  <!--
 				--></ul>
 				<div class="brillia_club"><a href="http://sumai.tatemono.com/club/" target="_blank"> <img src="common/images/index_brillia_club.gif"/> </a></div>

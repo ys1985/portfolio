@@ -1,10 +1,10 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS" />
-<meta name="description" content="“Њ‹ћѓЃѓgѓЌ“м–kђьЃu“Њ‘е‘OЃv‰w“k•а4•ЄЃBBrillia“Њ‘е‘OЃB" /> 
-<meta name="keywords" content="Brillia“Њ‘е‘O,“Њ‹ћѓЃѓgѓЌ“м–kђьЃu“Њ‘е‘OЃv‰w“k•а4•Є,ђV’zЃE•ЄЏчѓ}ѓ“ѓVѓ‡ѓ“,“Њ‹ћЊљ•Ё" />
-<title>	•ЁЊЏ‚М“Б’· |ЃyЊцЋ®ЃzBrillia“Њ‘е‘OЃb“Њ‹ћѓЃѓgѓЌ“м–kђьЃu“Њ‘е‘OЃv‰w“k•а4•ЄЃb“Њ‹ћЊљ•Ё‚МђV’zЃE•ЄЏчѓ}ѓ“ѓVѓ‡ѓ“</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="пїЅпїЅпїЅпїЅпїЅпїЅпїЅgпїЅпїЅпїЅпїЅkпїЅпїЅпїЅuпїЅпїЅпїЅпїЅOпїЅvпїЅwпїЅkпїЅпїЅ4пїЅпїЅпїЅBBrilliaпїЅпїЅпїЅпїЅOпїЅB" /> 
+<meta name="keywords" content="BrilliaпїЅпїЅпїЅпїЅO,пїЅпїЅпїЅпїЅпїЅпїЅпїЅgпїЅпїЅпїЅпїЅkпїЅпїЅпїЅuпїЅпїЅпїЅпїЅOпїЅvпїЅwпїЅkпїЅпїЅ4пїЅпїЅ,пїЅVпїЅzпїЅEпїЅпїЅпїЅпїЅпїЅ}пїЅпїЅпїЅVпїЅпїЅпїЅпїЅ,пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ" />
+<title>	пїЅпїЅпїЅпїЅпїЅМ“пїЅпїЅпїЅ |пїЅyпїЅпїЅпїЅпїЅпїЅzBrilliaпїЅпїЅпїЅпїЅOпїЅbпїЅпїЅпїЅпїЅпїЅпїЅпїЅgпїЅпїЅпїЅпїЅkпїЅпїЅпїЅuпїЅпїЅпїЅпїЅOпїЅvпїЅwпїЅkпїЅпїЅ4пїЅпїЅпїЅbпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅМђVпїЅzпїЅEпїЅпїЅпїЅпїЅпїЅ}пїЅпїЅпїЅVпїЅпїЅпїЅпїЅ</title>
 <link rel="stylesheet" type="text/css" href="common/css/import.css" media="all" />
 <link rel="stylesheet" type="text/css" href="common/css/concept.css" media="all" />
 <link rel="stylesheet" type="text/css" href="common/css/print.css" media="print" />
@@ -19,15 +19,15 @@
 	<!-- header start -->
 	<div id="header02">
 		<div class="inner_header">
-			<h1>ЃyЊцЋ®ЃzBrillia“Њ‘е‘OЃb“Њ‹ћѓЃѓgѓЌ“м–kђьЃu“Њ‘е‘OЃv‰w“k•а4•ЄЃb“Њ‹ћЊљ•Ё‚МђV’zЃE•ЄЏчѓ}ѓ“ѓVѓ‡ѓ“</h1>
-			<div class="logo"><a href="./index.html"><img src="common/images/header_logo.gif" width="178" height="30" alt="Brillia “Њ‘е‘O" /></a></div>
-			<div class="headerinfo"><img src="common/images/headerinfo.gif" width="261" height="26" alt="‚Ё–в‚ўЌ‡‚н‚№ 0120-222-846" /></div>
+			<h1>пїЅyпїЅпїЅпїЅпїЅпїЅzBrilliaпїЅпїЅпїЅпїЅOпїЅbпїЅпїЅпїЅпїЅпїЅпїЅпїЅgпїЅпїЅпїЅпїЅkпїЅпїЅпїЅuпїЅпїЅпїЅпїЅOпїЅvпїЅwпїЅkпїЅпїЅ4пїЅпїЅпїЅbпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅМђVпїЅzпїЅEпїЅпїЅпїЅпїЅпїЅ}пїЅпїЅпїЅVпїЅпїЅпїЅпїЅ</h1>
+			<div class="logo"><a href="./index.html"><img src="common/images/header_logo.gif" width="178" height="30" alt="Brillia пїЅпїЅпїЅпїЅO" /></a></div>
+			<div class="headerinfo"><img src="common/images/headerinfo.gif" width="261" height="26" alt="пїЅпїЅпїЅв‚ўпїЅпїЅпїЅн‚№ 0120-222-846" /></div>
 			<div class="header_btn">
 				<ul class="clearfix"><!--
-				--><li><a href="outline.html" target="_blank" onclick="window.open(this.href,'popup','width=720,height=800,scrollbars=yes,resizable=yes'); return false;"><img src="common/images/header_menu01_off.gif" width="105" height="31" alt="•ЁЊЏЉT—v" /></a></li><!--
-				--><li><a href="accessmap.html" target="_blank" onclick="window.open(this.href,'popup','width=720,height=800,scrollbars=yes,resizable=yes'); return false;"><img src="common/images/header_menu02_off.gif" width="105" height="31" alt="Њ»’n€Д“ађ}" /></a></li><!--
-				--><li><a href="http://www.bt4.jp/yoyaku_hp/index.html" target="_blank"><img src="common/images/header_menu04_off.gif" width="136" height="31" alt="—€Џк—\–с" /></a></li><!--
-				--><li><a href="http://www.bt4.jp/request/index.html" target="_blank"><img src="common/images/header_menu03_off.gif" width="136" height="31" alt="Ћ‘—їђї‹Ѓ" /></a></li><!--
+				--><li><a href="outline.html" target="_blank" onclick="window.open(this.href,'popup','width=720,height=800,scrollbars=yes,resizable=yes'); return false;"><img src="common/images/header_menu01_off.gif" width="105" height="31" alt="пїЅпїЅпїЅпїЅпїЅTпїЅv" /></a></li><!--
+				--><li><a href="accessmap.html" target="_blank" onclick="window.open(this.href,'popup','width=720,height=800,scrollbars=yes,resizable=yes'); return false;"><img src="common/images/header_menu02_off.gif" width="105" height="31" alt="пїЅпїЅпїЅnпїЅД“пїЅ}" /></a></li><!--
+				--><li><a href="http://www.bt4.jp/yoyaku_hp/index.html" target="_blank"><img src="common/images/header_menu04_off.gif" width="136" height="31" alt="пїЅпїЅпїЅпїЅ\пїЅпїЅ" /></a></li><!--
+				--><li><a href="http://www.bt4.jp/request/index.html" target="_blank"><img src="common/images/header_menu03_off.gif" width="136" height="31" alt="пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ" /></a></li><!--
 				--></ul>
 			</div>
 		</div>
@@ -35,59 +35,59 @@
 	<!-- header end -->
 	
 	
-	<!-- ѓOѓЌЃ[ѓoѓ‹ѓiѓr start -->
+	<!-- пїЅOпїЅпїЅпїЅ[пїЅoпїЅпїЅпїЅiпїЅr start -->
 	<div id="gnavi" class="clearfix">
 		<ul><!--
-			--><li><a href="top.html"><img src="common/images/gnavi_01_off.gif" width="137" height="39" alt="ѓgѓbѓv" /></a></li><!--
-			--><li><a href="concept.html"><img src="common/images/gnavi_02_on.gif" width="137" height="39" alt="•ЁЊЏ‚М“Б’·" /></a></li><!--
-			--><li><a href="location.html"><img src="common/images/gnavi_03_off.gif" width="137" height="39" alt="Ћь•У‚МЉВ‹«" /></a></li><!--
-			--><li><a href="access.html"><img src="common/images/gnavi_04_off.gif" width="137" height="39" alt="ѓAѓNѓZѓX" /></a></li><!--
-			--><li><a href="structure1.html"><img src="common/images/gnavi_05_off.gif" width="137" height="39" alt="€АђS€А‘S" /></a></li><!--
-			--><li><a href="roomplan.html"><img src="common/images/gnavi_06_off.gif" width="137" height="39" alt="ЉФЋж‚и" /></a></li><!--
-			--><li><a href="quality.html"><img src="common/images/gnavi_07_off.gif" width="138" height="39" alt="Brillia‚Й‚В‚ў‚Д" /></a></li><!--
+			--><li><a href="top.html"><img src="common/images/gnavi_01_off.gif" width="137" height="39" alt="пїЅgпїЅbпїЅv" /></a></li><!--
+			--><li><a href="concept.html"><img src="common/images/gnavi_02_on.gif" width="137" height="39" alt="пїЅпїЅпїЅпїЅпїЅМ“пїЅпїЅпїЅ" /></a></li><!--
+			--><li><a href="location.html"><img src="common/images/gnavi_03_off.gif" width="137" height="39" alt="пїЅпїЅпїЅУ‚МЉВ‹пїЅ" /></a></li><!--
+			--><li><a href="access.html"><img src="common/images/gnavi_04_off.gif" width="137" height="39" alt="пїЅAпїЅNпїЅZпїЅX" /></a></li><!--
+			--><li><a href="structure1.html"><img src="common/images/gnavi_05_off.gif" width="137" height="39" alt="пїЅпїЅпїЅSпїЅпїЅпїЅS" /></a></li><!--
+			--><li><a href="roomplan.html"><img src="common/images/gnavi_06_off.gif" width="137" height="39" alt="пїЅФЋпїЅпїЅ" /></a></li><!--
+			--><li><a href="quality.html"><img src="common/images/gnavi_07_off.gif" width="138" height="39" alt="BrilliaпїЅЙ‚В‚пїЅпїЅпїЅ" /></a></li><!--
 		--></ul>
 	</div>
-	<!-- ѓOѓЌЃ[ѓoѓ‹ѓiѓr end -->
+	<!-- пїЅOпїЅпїЅпїЅ[пїЅoпїЅпїЅпїЅiпїЅr end -->
 	
-	<!-- ѓRѓ“ѓeѓ“ѓ^ѓCѓgѓ‹ -->
+	<!-- пїЅRпїЅпїЅпїЅeпїЅпїЅпїЅ^пїЅCпїЅgпїЅпїЅ -->
 	<h2 class="content_headerttl"><img src="images/concept/content_headerttl.gif" alt="CONCEPT" width="960" height="43" /></h2>
 <!-- home_content_bg start -->
 
-	<!-- ѓpѓ“ѓNѓY -->
+	<!-- пїЅpпїЅпїЅпїЅNпїЅY -->
 	<ul class="breadcrumbs">
-		<li><a href="top.html">ѓgѓbѓv</a></li>
+		<li><a href="top.html">пїЅgпїЅbпїЅv</a></li>
 		<li>&gt;</li>
-		<li>•ЁЊЏ‚М“Б’Ґ</li>
+		<li>пїЅпїЅпїЅпїЅпїЅМ“пїЅпїЅпїЅ</li>
 	</ul>
 	<div class="content_bg">
 		<div class="content_wrapper">
 			<ul class="concept_navi clearfix">
-				<li class="concept_navi1"><a href="concept.html"><img src="images/concept/concept_btn1_off.gif" alt="•¶‚М‹ћЃA‰b‚М‹u" width="310" height="50" /></a></li>
-			  <li class="concept_navi2"><a href="concept2.html"><img src="images/concept/concept_btn2_on.gif" alt="”ь‚µ‚ўЃA€Р•—‚М“@" width="310" height="50" /></a></li>
-			  <li class="concept_navi3"><a href="concept3.html"><img src="images/concept/concept_btn3_off.gif" alt="“@‘о‚И‚з‚Е‚Н‚МђЭ”х" width="310" height="50" /></a></li>
+				<li class="concept_navi1"><a href="concept.html"><img src="images/concept/concept_btn1_off.gif" alt="пїЅпїЅпїЅМ‹пїЅпїЅAпїЅbпїЅМ‹u" width="310" height="50" /></a></li>
+			  <li class="concept_navi2"><a href="concept2.html"><img src="images/concept/concept_btn2_on.gif" alt="пїЅпїЅпїЅпїЅпїЅпїЅпїЅAпїЅР•пїЅпїЅМ“@" width="310" height="50" /></a></li>
+			  <li class="concept_navi3"><a href="concept3.html"><img src="images/concept/concept_btn3_off.gif" alt="пїЅ@пїЅпїЅИ‚пїЅЕ‚Н‚МђЭ”пїЅ" width="310" height="50" /></a></li>
 		  </ul>
-			<p><img src="images/concept/concept2/content1_img1.jpg" width="960" height="497" alt="ѓOѓ‰ѓ“ѓhѓQЃ[ѓgЃ•ѓXѓЉѓbѓg‘‹‚ржo‚¦‚ЅЃA”ь‚µ‚ў€Р•—‚М“@ЃB“Њ‘еЉEЊG‚М“`“ќ‚ ‚йИ‚Ь‚ў‚Ж‹ї‚«‚ ‚¤ЃA”ь—н‚ЕЃA“°ЃX‚Ж‚µ‚ЅѓЊѓWѓfѓ“ѓX‚М‚©‚ЁЃBѓAЃ[ѓXѓJѓ‰Ѓ[‚МЉO•З‚ЖЏcѓXѓЉѓbѓg‚М‘@ЌЧ‚И‘‹‚Є‹у‚Й‰f‚¦ЃA“@‘о‚МѓOѓЊЃ[ѓh‚Жђф—ыђ«‚рЊO‚з‚№‚Ь‚·ЃB‹ЊЉX“№Ѓi’†ЋR“№Ѓj‰€‚ў‚рЌs‚«Њр‚¤ђl‚ЙЃAђ[‚ўЉґ–Б‚рЋc‚·ѓOѓ‰ѓ“ѓhѓQЃ[ѓg‚ржo‚¦‚ДЃB‚»‚МѓQЃ[ѓg‚Є‘n‚иЏo‚·‚М‚НЃA‚в‚·‚з‚¬‚ЙЏ[‚ї‚ЅЋ„“I‹уЉФ‚Ж‚ў‚¤Њ‹ЉEЃBђS‰р‚«•ъ‚Ѕ‚к‚йЃA“@‘о‚М‰b’q‚Ц‚Ж“±‚«‚Ь‚·ЃB" /></p>
+			<p><img src="images/concept/concept2/content1_img1.jpg" width="960" height="497" alt="пїЅOпїЅпїЅпїЅпїЅпїЅhпїЅQпїЅ[пїЅgпїЅпїЅпїЅXпїЅпїЅпїЅbпїЅgпїЅпїЅпїЅпїЅпїЅoпїЅпїЅпїЅпїЅпїЅAпїЅпїЅпїЅпїЅпїЅпїЅпїЅР•пїЅпїЅМ“@пїЅBпїЅпїЅпїЅпїЅEпїЅGпїЅМ“`пїЅпїЅпїЅпїЅпїЅпїЅИ‚Ь‚пїЅпїЅЖ‹пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅAпїЅпїЅпїЅпїЅЕЃAпїЅпїЅпїЅXпїЅЖ‚пїЅпїЅпїЅпїЅпїЅпїЅWпїЅfпїЅпїЅпїЅXпїЅМ‚пїЅпїЅпїЅпїЅBпїЅAпїЅ[пїЅXпїЅJпїЅпїЅпїЅ[пїЅМЉOпїЅЗ‚ЖЏcпїЅXпїЅпїЅпїЅbпїЅgпїЅМ‘@пїЅЧ‚И‘пїЅпїЅпїЅпїЅпїЅЙ‰fпїЅпїЅпїЅAпїЅ@пїЅпїЅМѓOпїЅпїЅпїЅ[пїЅhпїЅЖђпїЅпїЅпїЅпїЅпїЅпїЅOпїЅз‚№пїЅЬ‚пїЅпїЅBпїЅпїЅпїЅXпїЅпїЅпїЅiпїЅпїЅпїЅRпїЅпїЅпїЅjпїЅпїЅпїЅпїЅпїЅпїЅsпїЅпїЅпїЅпїЅlпїЅЙЃAпїЅ[пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅcпїЅпїЅпїЅOпїЅпїЅпїЅпїЅпїЅhпїЅQпїЅ[пїЅgпїЅпїЅпїЅoпїЅпїЅпїЅДЃBпїЅпїЅпїЅМѓQпїЅ[пїЅgпїЅпїЅпїЅnпїЅпїЅoпїЅпїЅпїЅМ‚НЃAпїЅв‚·пїЅз‚¬пїЅЙЏ[пїЅпїЅпїЅпїЅпїЅпїЅпїЅIпїЅпїЅФ‚Ж‚пїЅпїЅпїЅпїЅпїЅпїЅEпїЅBпїЅSпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅAпїЅ@пїЅпїЅМ‰bпїЅqпїЅЦ‚Ж“пїЅпїЅпїЅпїЅЬ‚пїЅпїЅB" /></p>
 		  	<ul class="numb_caption mt10 mb60"><!--
-				--><li>ЉOЉПЉ®ђ¬—\‘zCG</li><!--
-				--><li>Ѓ¦ ЊfЌЪ‚МЉ®ђ¬—\‘zCG‚НЃAђ}–К‚рЉо‚Й•`‚«‹N‚±‚µ‚Ѕ‚а‚М‚ЕЋАЌЫ‚Ж‚Н‘ЅЏ­€Щ‚И‚и‚Ь‚·ЃB‚Ь‚ЅЃAЋь•У‚МЊљ•Ё‚Н€к•”ЏИ—Є‚µ‚Д‚Ё‚иЃAђAЌН“™‚НЋАЌЫ‚Ж€Щ‚И‚и‚Ь‚·ЃB</li><!--
+				--><li>пїЅOпїЅПЉпїЅпїЅпїЅпїЅ\пїЅzCG</li><!--
+				--><li>пїЅпїЅ пїЅfпїЅЪ‚МЉпїЅпїЅпїЅпїЅ\пїЅzCGпїЅНЃAпїЅ}пїЅК‚пїЅпїЅЙ•`пїЅпїЅпїЅNпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅМ‚ЕЋпїЅпїЅЫ‚Ж‚Н‘пїЅпїЅпїЅпїЅЩ‚И‚пїЅЬ‚пїЅпїЅBпїЅЬ‚пїЅпїЅAпїЅпїЅпїЅУ‚МЊпїЅпїЅпїЅпїЅН€к•”пїЅИ—пїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅAпїЅAпїЅН“пїЅпїЅНЋпїЅпїЅЫ‚Ж€Щ‚И‚пїЅЬ‚пїЅпїЅB</li><!--
 			--></ul>
 					  	
 			<div><img src="images/concept/concept2/content1_img2.jpg" width="960" height="283" alt="" /></div>
 			<ul class="numb_caption mt10 mb60"><!--
-				--><li>Ѓ¦ ЊfЌЪ‚МЊ»’n‚ж‚и“м‘¤‚р–]‚Ю’­–]ЋКђ^‚НЊ»’n14ЉK‘Љ“–‚МЌ‚‚і‚ж‚иЋB‰e‚µ‚Ѕ‚а‚М‚ЕЋАЌЫ‚МЊ©‚¦•ы‚Ж‚Н‘ЅЏ­€Щ‚И‚и‚Ь‚·ЃB‚Ь‚ЅЃA’­–]ЊiЉП‚НЉeЉKЃEЉeЏZЊЛ‚Й‚ж‚и€Щ‚И‚и‚Ь‚·ЃBЃi•Ѕђ¬23”N5ЊЋЋB‰eЃj</li><!--
+				--><li>пїЅпїЅ пїЅfпїЅЪ‚МЊпїЅпїЅnпїЅпїЅпїЅм‘¤пїЅпїЅ]пїЅЮ’пїЅпїЅ]пїЅКђ^пїЅНЊпїЅпїЅn14пїЅKпїЅпїЅпїЅпїЅпїЅМЌпїЅпїЅпїЅпїЅпїЅпїЅBпїЅeпїЅпїЅпїЅпїЅпїЅпїЅМ‚ЕЋпїЅпїЅЫ‚МЊпїЅпїЅпїЅпїЅпїЅпїЅЖ‚Н‘пїЅпїЅпїЅпїЅЩ‚И‚пїЅЬ‚пїЅпїЅBпїЅЬ‚пїЅпїЅAпїЅпїЅпїЅ]пїЅiпїЅП‚НЉeпїЅKпїЅEпїЅeпїЅZпїЅЛ‚Й‚пїЅпїЅЩ‚И‚пїЅЬ‚пїЅпїЅBпїЅiпїЅпїЅпїЅпїЅ23пїЅN5пїЅпїЅпїЅBпїЅeпїЅj</li><!--
 			--></ul>
 			
 			<p>
-				<img src="images/concept/concept2/content1_img3.jpg" width="960" height="410" alt="ЉpЏZЊЛ”д—¦–с8Љ„ ЊхЃA•—ЃAѓvѓ‰ѓCѓoѓVЃ[‚рЏdЋ‹‚µ‚ЅЉpЏZЊЛ’†ђSЃA70m2’ґ’†ђSЃB ЊхЃA•—ЃAѓvѓ‰ѓCѓoѓVЃ[ђ«‚рЏdЋ‹‚µ‚ЅЃAЉpЏZЊЛ”д—¦–с8Љ„ЃB “ъ“–‚и—ЗЌD‚И‘S“@“м“ЊЃE“мђјЊь‚«ЃB 8ЉK€ИЏг‚НЃA“аL‰єЌМ—pЃB ‰Ж‘°‘z‚ў‚М70m2’ґ’†ђSЃB3LDK’†ђSЃB" />
-				<img src="images/concept/concept2/content1_img4.jpg" width="960" height="290"alt="MATERIAL ЉO•Зѓ^ѓCѓ‹ ЊfЌЪ‚МЋКђ^‚НѓCѓЃЃ[ѓW‚Е‚·ЃBЋАЌЫ‚МђFЃEЊ`Џу‚Ж‚Н€Щ‚И‚и‚Ь‚·ЃB" /></p>
+				<img src="images/concept/concept2/content1_img3.jpg" width="960" height="410" alt="пїЅpпїЅZпїЅЛ”д—¦пїЅпїЅ8пїЅпїЅ пїЅпїЅпїЅAпїЅпїЅпїЅAпїЅvпїЅпїЅпїЅCпїЅoпїЅVпїЅ[пїЅпїЅdпїЅпїЅпїЅпїЅпїЅпїЅпїЅpпїЅZпїЅЛ’пїЅпїЅSпїЅA70m2пїЅпїЅпїЅпїЅпїЅSпїЅB пїЅпїЅпїЅAпїЅпїЅпїЅAпїЅvпїЅпїЅпїЅCпїЅoпїЅVпїЅ[пїЅпїЅпїЅпїЅdпїЅпїЅпїЅпїЅпїЅпїЅпїЅAпїЅpпїЅZпїЅЛ”д—¦пїЅпїЅ8пїЅпїЅпїЅB пїЅпїЅпїЅпїЅпїЅпїЅЗЌDпїЅИ‘SпїЅ@пїЅм“ЊпїЅEпїЅмђјпїЅпїЅпїЅпїЅпїЅB 8пїЅKпїЅИЏпїЅНЃAпїЅпїЅLпїЅпїЅпїЅМ—pпїЅB пїЅЖ‘пїЅпїЅzпїЅпїЅпїЅпїЅ70m2пїЅпїЅпїЅпїЅпїЅSпїЅB3LDKпїЅпїЅпїЅSпїЅB" />
+				<img src="images/concept/concept2/content1_img4.jpg" width="960" height="290"alt="MATERIAL пїЅOпїЅЗѓ^пїЅCпїЅпїЅ пїЅfпїЅЪ‚МЋКђ^пїЅНѓCпїЅпїЅпїЅ[пїЅWпїЅЕ‚пїЅпїЅBпїЅпїЅпїЅЫ‚МђFпїЅEпїЅ`пїЅпїЅЖ‚Н€Щ‚И‚пїЅЬ‚пїЅпїЅB" /></p>
 			
 		  <ul class="numb_caption mt10 mb60"><!--
-				--><li>Ѓ¦ ЊfЌЪ‚МЉ®ђ¬—\‘zCG‚НЃAђ}–К‚рЉо‚Й•`‚«‹N‚±‚µ‚Ѕ‚а‚М‚ЕЋАЌЫ‚Ж‚Н‘ЅЏ­€Щ‚И‚и‚Ь‚·ЃB‚Ь‚ЅЃAЋь•У‚МЊљ•Ё‚Н€к•”ЏИ—Є‚µ‚Д‚Ё‚иЃAђAЌН“™‚НЋАЌЫ‚Ж€Щ‚И‚и‚Ь‚·ЃB</li><!--
+				--><li>пїЅпїЅ пїЅfпїЅЪ‚МЉпїЅпїЅпїЅпїЅ\пїЅzCGпїЅНЃAпїЅ}пїЅК‚пїЅпїЅЙ•`пїЅпїЅпїЅNпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅМ‚ЕЋпїЅпїЅЫ‚Ж‚Н‘пїЅпїЅпїЅпїЅЩ‚И‚пїЅЬ‚пїЅпїЅBпїЅЬ‚пїЅпїЅAпїЅпїЅпїЅУ‚МЊпїЅпїЅпїЅпїЅН€к•”пїЅИ—пїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅAпїЅAпїЅН“пїЅпїЅНЋпїЅпїЅЫ‚Ж€Щ‚И‚пїЅЬ‚пїЅпїЅB</li><!--
 			--></ul>
 			
 			
 			<div class="pagetop mt20">
-				<img src="common/images/pagetop_arrow.gif" width="7" height="4" /><a href="#pagetop" onclick="$('html,body').animate({scrollTop:0},500,'swing'); return false;">ѓyЃ[ѓW‚Мђж“Є‚Ц–Я‚й</a>
+				<img src="common/images/pagetop_arrow.gif" width="7" height="4" /><a href="#pagetop" onclick="$('html,body').animate({scrollTop:0},500,'swing'); return false;">пїЅyпїЅ[пїЅWпїЅМђж“ЄпїЅЦ–Я‚пїЅ</a>
 			</div>
 		</div>
 	</div>
@@ -96,27 +96,27 @@
 	<div id="footer_navi">
 		<ul>
 			<li>|</li>
-			<li><a href="top.html">ѓgѓbѓvѓyЃ[ѓW</a></li>
+			<li><a href="top.html">пїЅgпїЅbпїЅvпїЅyпїЅ[пїЅW</a></li>
 			<li>|</li>
-			<li><a href="concept.html">•ЁЊЏ‚М“Б’·</a></li>
+			<li><a href="concept.html">пїЅпїЅпїЅпїЅпїЅМ“пїЅпїЅпїЅ</a></li>
 			<li>|</li>
-			<li><a href="location.html">Ћь•УЉВ‹«</a></li>
+			<li><a href="location.html">пїЅпїЅпїЅУЉВ‹пїЅ</a></li>
 			<li>|</li>
-			<li><a href="access.html">ѓAѓNѓZѓX</a></li>
+			<li><a href="access.html">пїЅAпїЅNпїЅZпїЅX</a></li>
 			<li>|</li>
-			<li><a href="roomplan.html">ЉФЋж‚и</a></li>
+			<li><a href="roomplan.html">пїЅФЋпїЅпїЅ</a></li>
 			<li>|</li>
-			<li><a href="structure1.html">€АђS€А‘S</a></li>
+			<li><a href="structure1.html">пїЅпїЅпїЅSпїЅпїЅпїЅS</a></li>
 			<li>|</li>
-			<li><a href="quality.html">Brillia‚Й‚В‚ў‚Д</a></li>
+			<li><a href="quality.html">BrilliaпїЅЙ‚В‚пїЅпїЅпїЅ</a></li>
 			<li>|</li>
-			<li><a href="outline.html" target="_blank" onclick="window.open(this.href,'popup','width=720,height=800,scrollbars=yes'); return false;">•ЁЊЏЉT—v</a></li>
+			<li><a href="outline.html" target="_blank" onclick="window.open(this.href,'popup','width=720,height=800,scrollbars=yes'); return false;">пїЅпїЅпїЅпїЅпїЅTпїЅv</a></li>
 			<li>|</li>
-			<li><a href="accessmap.html" target="_blank" onclick="window.open(this.href,'popup','width=720,height=800,scrollbars=yes'); return false;">Њ»’n€Д“ађ}</a></li>
+			<li><a href="accessmap.html" target="_blank" onclick="window.open(this.href,'popup','width=720,height=800,scrollbars=yes'); return false;">пїЅпїЅпїЅnпїЅД“пїЅ}</a></li>
 			<li>|</li>
-			<li><a href="http://www.bt4.jp/yoyaku_hp/index.html" target="_blank">—€Џк—\–с</a></li>
+			<li><a href="http://www.bt4.jp/yoyaku_hp/index.html" target="_blank">пїЅпїЅпїЅпїЅ\пїЅпїЅ</a></li>
 			<li>|</li>
-			<li><a href="http://www.bt4.jp/request/index.html" target="_blank">Ћ‘—їђї‹Ѓ</a></li>
+			<li><a href="http://www.bt4.jp/request/index.html" target="_blank">пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ</a></li>
 			<li>|</li>
 		</ul>
 	</div>
@@ -125,21 +125,21 @@
 	<div id="footer">
 		<div class="footer_infoBox clearfix">
 			<div class="footer_L">
-				<img src="common/images/footerinfo_01.gif" width="480" height="160" alt="“–ѓ}ѓ“ѓVѓ‡ѓ“‚ЙЉЦ‚·‚й‚Ё–в‚ўЌ‡‚н‚№ЃE‚І‘Љ’k‚Н‚±‚ї‚з‚©‚з TEL:0120-222-846 Ѓ¦Њg‘С“dbЃEPHS‚©‚з‚а‚І——p‚Й‚И‚к‚Ь‚·ЃB ‚Ё–в‚ўЌ‡‚н‚№‚НЃuBrillia “Њ‘е‘OЃvѓQѓXѓgѓTѓЌѓ“ ‰c‹ЖЋћЉФ : 11ЃF00Ѓ`18ЃF00(•Ѕ“ъ) 10ЃF00Ѓ`18ЃF00(“y“ъЏj) ’и‹x“ъ : ‰ОЃEђ…—j“ъ Ѓ¦Џj“ъ‚рЏњ‚­"/>
+				<img src="common/images/footerinfo_01.gif" width="480" height="160" alt="пїЅпїЅпїЅ}пїЅпїЅпїЅVпїЅпїЅпїЅпїЅпїЅЙЉЦ‚пїЅпїЅй‚ЁпїЅв‚ўпїЅпїЅпїЅн‚№пїЅEпїЅпїЅпїЅпїЅпїЅkпїЅН‚пїЅпїЅпїЅпїЅз‚©пїЅпїЅ TEL:0120-222-846 пїЅпїЅпїЅgпїЅС“dпїЅbпїЅEPHSпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅpпїЅЙ‚И‚пїЅЬ‚пїЅпїЅB пїЅпїЅпїЅв‚ўпїЅпїЅпїЅн‚№пїЅНЃuBrillia пїЅпїЅпїЅпїЅOпїЅvпїЅQпїЅXпїЅgпїЅTпїЅпїЅпїЅпїЅ пїЅcпїЅЖЋпїЅпїЅпїЅ : 11пїЅF00пїЅ`18пїЅF00(пїЅпїЅпїЅпїЅ) 10пїЅF00пїЅ`18пїЅF00(пїЅyпїЅпїЅпїЅj) пїЅпїЅxпїЅпїЅ : пїЅОЃEпїЅпїЅпїЅjпїЅпїЅ пїЅпїЅпїЅjпїЅпїЅпїЅпїЅпїЅ"/>
 				<ul><!--
-				--><li><a href="http://www.bt4.jp/yoyaku_hp/index.html" target="_blank"><img src="common/images/footer_menu05_off.gif" width="140" height="51" alt="—€Џк—\–с —€Џк‚р‚ІЉу–]‚М•ы‚Н‚±‚ї‚з" /></a></li><!--
-				--><li><a href="http://www.bt4.jp/request/index.html" target="_blank"><img src="common/images/footer_menu01_off.gif" width="140" height="51" alt="Ћ‘—їђї‹Ѓ “–•ЁЊЏ‚МЋ‘—ї‚р‚І‘—•t‚ў‚Ѕ‚µ‚Ь‚·" /></a></li><!--
+				--><li><a href="http://www.bt4.jp/yoyaku_hp/index.html" target="_blank"><img src="common/images/footer_menu05_off.gif" width="140" height="51" alt="пїЅпїЅпїЅпїЅ\пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ]пїЅМ•пїЅпїЅН‚пїЅпїЅпїЅпїЅпїЅ" /></a></li><!--
+				--><li><a href="http://www.bt4.jp/request/index.html" target="_blank"><img src="common/images/footer_menu01_off.gif" width="140" height="51" alt="пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅМЋпїЅпїЅпїЅпїЅпїЅпїЅпїЅtпїЅпїЅпїЅпїЅпїЅпїЅпїЅЬ‚пїЅ" /></a></li><!--
 				--></ul>
 			</div>
 			<div class="footer_R">
-				<img src="common/images/footerinfo_02.gif" width="480" height="160" alt="Ћ–‹ЖЋеЃi”„ЋеЃj‚Й‚В‚ў‚Д‚Н‚±‚ї‚з‚©‚з"/>
+				<img src="common/images/footerinfo_02.gif" width="480" height="160" alt="пїЅпїЅпїЅЖЋпїЅiпїЅпїЅпїЅпїЅjпїЅЙ‚В‚пїЅпїЅД‚Н‚пїЅпїЅпїЅпїЅз‚©пїЅпїЅ"/>
 				<ul><!--
-				--><li><a href="http://sumai.tatemono.com/" target="_blank"><img src="common/images/footer_menu03.gif" width="215" height="37"  alt="Ѓѓ”„ЋеЃ„“Њ‹ћЊљ•Ё “Њ‹ћЊљ•Ё‚МЋАђСЃ@ђV’zѓ}ѓ“ѓVѓ‡ѓ“‚М‚І€Д“а" /></a></li>
+				--><li><a href="http://sumai.tatemono.com/" target="_blank"><img src="common/images/footer_menu03.gif" width="215" height="37"  alt="пїЅпїЅпїЅпїЅпїЅеЃ„пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅМЋпїЅпїЅСЃ@пїЅVпїЅzпїЅ}пїЅпїЅпїЅVпїЅпїЅпїЅпїЅпїЅМ‚пїЅпїЅД“пїЅ" /></a></li>
 				<!--
-				--><li><a href="http://www.ttfuhan.co.jp/" target="_blank"><img src="common/images/footer_menu04.gif" width="215" height="37" alt="Ѓѓ”М”„‘г—ќЃ„“Њ‹ћЊљ•Ё•s“®ЋY”М”„ “Њ‹ћЊљ•Ё•s“®ЋY”М”„‚М‚І€Д“а" /></a></li>
+				--><li><a href="http://www.ttfuhan.co.jp/" target="_blank"><img src="common/images/footer_menu04.gif" width="215" height="37" alt="пїЅпїЅпїЅМ”пїЅпїЅг—ќпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅsпїЅпїЅпїЅYпїЅМ”пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅsпїЅпїЅпїЅYпїЅМ”пїЅпїЅМ‚пїЅпїЅД“пїЅ" /></a></li>
 			  <!--
 				--></ul>
-				<div class="brillia_club"><a href="http://sumai.tatemono.com/club/" target="_blank"><img src="common/images/index_brillia_club.gif" alt="ЃuBrillia ClubЃv‚Й‚І“ь‰п‚ў‚Ѕ‚ѕ‚ў‚Ѕ•ы‚ЙѓЃЃ[ѓ‹‚вЌыЋq‚Й‚ДЌЕђV‚М•ЁЊЏЏо•с‚р‚Ё“Н‚Ї‚ў‚Ѕ‚µ‚Ь‚·ЃBЃi“ь‰п‹аЃE”N‰п”п€кђШ–і—їЃj"/></a></div>
+				<div class="brillia_club"><a href="http://sumai.tatemono.com/club/" target="_blank"><img src="common/images/index_brillia_club.gif" alt="пїЅuBrillia ClubпїЅvпїЅЙ‚пїЅпїЅпїЅпїЅп‚ўпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЙѓпїЅпїЅ[пїЅпїЅпїЅпїЅпїЅпїЅqпїЅЙ‚ДЌЕђVпїЅМ•пїЅпїЅпїЅпїЅпїЅпїЅпїЅН‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЬ‚пїЅпїЅBпїЅiпїЅпїЅпїЅпїЅпїЅEпїЅNпїЅпїЅпїЅпїЅШ–пїЅпїЅпїЅпїЅj"/></a></div>
 		  </div>
 			<p class="copyright"><img src="common/images/copyright.gif" width="342" height="12" alt="(C)Copyright 2011 TOKYO TATEMONO Co.,Ltd. All RightsReserved." /></p>
 		</div>
