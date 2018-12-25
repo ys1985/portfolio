@@ -43,7 +43,7 @@
                     }
                     else{
                         
-                        $mainListItems.append('<li class="item"><a href="/works/archives'+ imgCount +'/"><img src='+ imgURLlist[imgCount] +'></a></li>');
+                        $mainListItems.append('<li class="item"><a href="./works/archives'+ imgCount +'/"><img src='+ imgURLlist[imgCount] +'></a></li>');
                         if(index === 0){
                             $mainListItems.find('li').addClass('logo');
                         }
