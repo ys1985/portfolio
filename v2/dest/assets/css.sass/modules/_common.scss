@@ -1,0 +1,187 @@
+
+
+/**********************************************************************/
+/* pc common
+/**********************************************************************/
+html{
+    font-size: 62.5%; /*ベースを10pxにしています*/
+}
+
+body{
+    background-color: #eeeeee;
+    font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", YuGothic, "ヒラギノ角ゴ ProN W3", Hiragino Kaku Gothic ProN, Arial, "メイリオ", Meiryo, sans-serif;
+    line-height: 1.7;
+    -webkit-font-smoothing: antialiased;
+    text-size-adjust: 100%;
+    font-size: 1.0rem; /*10px*/
+    transition: all 0.5s ease;
+}
+body.is-dark{
+    background-color: var(--body_darkColor);
+}
+
+a{
+    color: #333;
+    text-decoration: none;
+}
+a:hover{
+    color: #333
+}
+a:active{
+    color: #333;
+}
+a:visited{
+    color: #333;
+}
+.Montserrat{
+	font-family: 'Montserrat', sans-serif;
+	font-style              : normal;
+	font-weight             : 400;
+	letter-spacing          : 1px;
+	-webkit-font-smoothing  : antialiased;
+	-moz-osx-font-smoothing : grayscale;
+}
+.wf-notosansjapanese { font-family: "Noto Sans JP"; }
+
+//--------------------------
+// .toggleSwitch
+//--------------------------
+.toggleSwitch{
+    display: block;
+    width: 80px;
+    height: 24px;
+    margin: 40px auto 0 auto;
+    padding: 0px 0px 0px 0px;
+    background: #fff;
+    border-radius: 12px;
+    text-align: center;
+    line-height: 22px;
+    font-size: 12px;
+    outline: none;
+    border: none;
+    span{
+        display: block;
+        padding: 0px;
+    }
+    span.light{
+        width: 65px;
+        height: 24px;
+        padding-left: 15px;
+        background: #ffffff;
+        border-radius: 14px;
+        border: 1px solid #ccc;
+        position: relative;
+        .btn{
+            position: absolute;
+            display: block;
+            width: 24px;
+            height: 24px;
+            border-radius: 14px;
+            border: 1px solid #ccc;
+            top: -1px;
+            left: -1px;
+            &:after{
+                position: absolute;
+                display: block;
+                content: "";
+                background-color: var(--toggleSwitch_ico_lightColor);
+                box-shadow: 0px 0px 0 0 var(--toggleSwitch_ico_lightColor),4px 0px 0 0 var(--toggleSwitch_ico_lightColor),8px 0px 0 0 var(--toggleSwitch_ico_lightColor),2px 2px 0 0 var(--toggleSwitch_ico_lightColor),6px 2px 0 0 var(--toggleSwitch_ico_lightColor),0px 4px 0 0 var(--toggleSwitch_ico_lightColor),4px 4px 0 0 var(--toggleSwitch_ico_lightColor),8px 4px 0 0 var(--toggleSwitch_ico_lightColor),2px 6px 0 0 var(--toggleSwitch_ico_lightColor),6px 6px 0 0 var(--toggleSwitch_ico_lightColor),0px 8px 0 0 var(--toggleSwitch_ico_lightColor),4px 8px 0 0 var(--toggleSwitch_ico_lightColor),8px 8px 0 0 var(--toggleSwitch_ico_lightColor),;
+                height: 2px;
+                width: 2px;
+                top: 7px;
+                left: 7px;
+            }
+        }
+    }
+}
+
+//--------------------------
+// .closeBtn
+//--------------------------
+.closeBtn{
+    position: absolute;
+    display: block;
+    width: 50px;
+    height: 50px;
+    outline: 0;
+    border: none;
+    top: 40px;
+    right: 40px;
+    z-index: 3;
+    cursor: pointer;
+    background: #fff;
+    transition: all .3s;
+    span{
+        position: absolute;
+        display: block;
+        width: 20px;
+        height: 2px;
+        background: var(--body_lightColor);
+        border-radius: 2px;
+        top: 49%;
+        left: 29%;
+        transition:all 0.3s ease-in-out;
+    }
+    span.line01{
+        transform:translate(-12px, -12px) rotate(45deg);
+    }
+    span.line02{
+        transition-delay: 0.1s;
+        transform:translate(12px, -12px) rotate(-45deg);
+    }
+    span.line03{
+        transition-delay: 0.2s;
+        transform:translate(-12px, 12px) rotate(-45deg);
+    }
+    span.line04{
+        transition-delay: 0.3s;
+        transform:translate(12px, 12px) rotate(45deg);
+    } 
+}
+.closeBtn:hover{
+    span.line01{
+        transform:translate(-10px, -10px) rotate(45deg);
+    }
+    span.line02{
+        transform:translate(10px, -10px) rotate(-45deg);
+    }
+    span.line03{
+        transform:translate(-10px, 10px) rotate(-45deg);
+    }
+    span.line04{
+        transform:translate(10px, 10px) rotate(45deg);
+    } 
+}
+
+//--------------------------
+// #responsive-reaction
+//--------------------------
+.responsive-reaction{
+    width: 0;
+    height: 0;
+    visibility: visible;
+    display: block;
+}
+
+/**********************************************************************/
+/* sp common
+/**********************************************************************/
+
+
+@media only screen and (max-width:768px){
+    .responsive-reaction{
+        width: 0;
+        height: 0;
+        visibility: hidden;
+        display: none;
+    }
+   
+    //--------------------------
+    // .closeBtn
+    //--------------------------
+    .closeBtn{       
+        top: 20px;
+        right: 20px;
+    }
+    
+}

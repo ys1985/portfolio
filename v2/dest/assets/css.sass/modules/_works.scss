@@ -1,0 +1,140 @@
+/**********************************************************************/
+/* pc works
+/**********************************************************************/
+#works_main{
+    width: 100%;
+    width: 1280px;
+    margin: 0 auto;
+    .in-wrap{
+        padding: 40px;//in-wrap width:1200px;
+        //--------------------------
+        // header
+        //--------------------------
+        header{
+            position: relative;
+            display: flex;
+            flex-wrap: wrap;
+            margin-bottom: $sectionMarginBottomRatio;
+            a.logo{
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                width: 200px;
+                box-sizing: border-box;
+                background: #E2E2E2;
+                border-radius: 20px;
+                padding: 40px;
+                img{
+                     width: 100%;
+                }
+            }
+            .summary{
+                width: 960px;
+                box-sizing: border-box;
+                padding: 30px;
+                background: var(--bg_currentColor);
+                border-radius: 20px;
+                margin-left: 40px;
+                h1{
+                    font-size: 2rem;
+                    margin: 0 0 20px 0;
+                }
+                p{
+                    font-size: 1.4rem;
+                }
+            }
+        }
+        
+        //--------------------------
+        // btnDetail
+        //--------------------------
+        .btnDetail{ 
+            display: block;
+            width: 200px;
+            position: absolute;
+            height: 40px;
+            right: 30px;
+            bottom: 30px;
+            text-align: center;
+            line-height: 40px;
+            font-size: 1vw;
+            border: 1px solid #ccc;
+            background: var(--bg_currentColor);
+            border-radius: $bg_borderRadius;
+        }
+
+        //--------------------------
+        // coverImg
+        //--------------------------
+        section.coverImg{
+            width: 100%;
+            border-radius: $bg_borderRadius;
+            overflow: hidden;
+            margin-bottom: $sectionMarginBottomRatio;
+            img{
+                width: 100%;
+                vertical-align: top;
+            }
+        }
+        //--------------------------
+        // slick_slider
+        //--------------------------
+        section.slider{
+            position: relative;
+            margin-bottom: $sectionMarginBottomRatio;
+            .brandLogo{
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                width: 220px;
+                height: 220px;
+                position: absolute;
+                right: 0px;
+                padding: 30px;
+                box-sizing: border-box;
+                background: var(--bg_currentColor);
+                border-radius: $bg_borderRadius;
+                img{
+                    width:100%;
+                }
+            }
+            .slick-slider{
+                width: 940px;
+                margin: 0;
+                padding: 0;
+                li{
+                    span{
+                        display: block;
+                        overflow: hidden;
+                        border-radius: $bg_borderRadius;
+                        box-sizing: border-box;
+                        width: 97.872340425531915%;
+                        img{
+                            width: 100%;
+                        }
+                    }
+                    
+                }
+            }
+        }
+        //--------------------------
+        // introduction
+        //--------------------------
+        section.introduction{
+            width: 400px;
+            border-radius: $bg_borderRadius;
+            padding: 30px;
+            background: var(--bg_currentColor);
+            p{
+                font-size: 1.2rem;
+            }
+        }
+    }
+}
+/**********************************************************************/
+/* sp home
+/**********************************************************************/
+
+@media only screen and (max-width:768px){
+    
+}

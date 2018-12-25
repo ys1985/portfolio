@@ -1,6 +1,12 @@
 (function($) {
     $(function() {
+        
+        var themeColor;
+        var currentThemeColor;
+        currentThemeColor = localStorage.getItem('toggleSwngitchClass');
 
+        $('body').addClass(currentThemeColor);
+        
         var HOME = (function(){
             var $body = $('body');
             var device;
@@ -12,19 +18,19 @@
             var itemListLength = 25;
             var imgCount = 0;
             var imgURLlist = [
-                '/assets/images/logo.svg',
-                '/assets/images/sp_mhd_logo.png',
-                '/assets/images/sp_moet_logo.png',
-                '/assets/images/sp_fivestar_logo.png',
-                '/assets/images/sp_tokyometro_logo.png',
-                '/assets/images/sp_gazooraicng_logo.png',
-                '/assets/images/logo_gmominer.svg',
-                '/assets/images/sp_zushifes_logo.png',
-                '/assets/images/sp_lenovo_logo.png',
-                '/assets/images/sp_homestar_logo.png',
-                '/assets/images/wabisabi_logo.svg',
-                '/assets/images/sp_dance_logo.png',
-                '/assets/images/sp_macromill_logo.png',
+                'assets/images/logo.svg',
+                'assets/images/sp_mhd_logo.png',
+                'assets/images/sp_moet_logo.png',
+                'assets/images/sp_fivestar_logo.png',
+                'assets/images/sp_tokyometro_logo.png',
+                'assets/images/sp_gazooraicng_logo.png',
+                'assets/images/logo_gmominer.svg',
+                'assets/images/sp_zushifes_logo.png',
+                'assets/images/sp_lenovo_logo.png',
+                'assets/images/sp_homestar_logo.png',
+                'assets/images/wabisabi_logo.svg',
+                'assets/images/sp_dance_logo.png',
+                'assets/images/sp_macromill_logo.png',
             ]
 
             var ResonsiveReactionInit = function(){
@@ -37,7 +43,7 @@
                     }
                     else{
                         
-                        $mainListItems.append('<li class="item"><a href="/works/archives'+ imgCount +'"><img src='+ imgURLlist[imgCount] +'></a></li>');
+                        $mainListItems.append('<li class="item"><a href="/works/archives'+ imgCount +'/"><img src='+ imgURLlist[imgCount] +'></a></li>');
                         if(index === 0){
                             $mainListItems.find('li').addClass('logo');
                         }
@@ -45,7 +51,7 @@
                     }          
                 }             
 
-              //masonry
+            //masonry
             //   var $bnrthumbList = $('#bnrthumb-list');
             //   $bnrthumbList.imagesLoaded(function(){
             //     $bnrthumbList.masonry({
@@ -59,20 +65,19 @@
             }
 
             var ResponsiveHandler = function(){
-              device = $('.responsive-reaction').css('visibility');
-                if(device === "visible"){
-                    device = "PC";
-                }
-                else{
-                    device = "SP";
-                }
-                if(device_cheker != device){
-                    device_cheker = device;
-                    $body.trigger('resize:responsive');
-                }
-            }
-
-            
+                device = $('.responsive-reaction').css('visibility');
+                  if(device === "visible"){
+                      device = "PC";
+                  }
+                  else{
+                      device = "SP";
+                  }
+                  if(device_cheker != device){
+                      device_cheker = device;
+                      $body.trigger('resize:responsive');
+                  }
+              }
+        
             
             var HeaderMenu = function(){
               $('#ico-menu').click(function(e){
@@ -88,6 +93,19 @@
                 }
               })
             }
+
+            var ToggleSwitchBtn = function(){         
+                $('.toggleSwitch').on('click',function(){
+                    $('body').toggleClass('is-dark');
+                    
+                    if($('body').hasClass('is-dark')){
+                        themeColor = 'is-dark';
+                    }
+                    localStorage.setItem('toggleSwngitchClass', themeColor);
+                    
+                })
+            }
+
             var ModalWindow = function(){
                 $('.aboutme').on('click',function(){
                     $('#aboutme_modal').fadeIn(300);
@@ -141,16 +159,17 @@
               ResponsiveHandler : ResponsiveHandler ,
               HeaderMenu : HeaderMenu,
               ModalWindow : ModalWindow,
+              ToggleSwitchBtn : ToggleSwitchBtn
             };
         })();
 
         // window resize
         $(window).on('load',function(){
-
             HOME.HeaderMenu();
             HOME.ResonsiveReactionInit();
             HOME.ResponsiveHandler();
             HOME.ModalWindow();
+            HOME.ToggleSwitchBtn();
 
         })
         // window resize
