@@ -13,16 +13,32 @@
 <script type="text/javascript" src="assets/js/velocity.js"></script>
 <script type="text/javascript" src="assets/js/masonry.pkgd.min.js"></script>
 <script type="text/javascript" src="assets/js/imagesloaded.js"></script>
+<script type="text/javascript" src="assets/js/jquery.inview.js"></script>
 <script type="text/javascript" src="assets/js/common.js"></script>
 
 </head>
 <body>
-    <button class="toggleSwitch Montserrat">
-        <span class="light">Light<span class="btn"></span></span>
-        <!-- <span class="dark">Dark</span> -->
-    </button>
+
+    <div id="loading_overray">
+        <div class="bg"></div>
+        <div id="load" class="Montserrat">
+            <div>G</div>
+            <div>N</div>
+            <div>I</div>
+            <div>D</div>
+            <div>A</div>
+            <div>O</div>
+            <div>L</div>
+        </div>
+    </div>
+      
+    
   <div id="main">
-    <ul>
+    <button class="toggleSwitch Montserrat">
+        <span class="handle"></span>
+        <span class="labeltxt Montserrat"></span>
+    </button>
+    <ul class="inview-itemFade">
     </ul>
     <button class="aboutme Montserrat">ABOUT ME</button>
     <div id="aboutme_modal">

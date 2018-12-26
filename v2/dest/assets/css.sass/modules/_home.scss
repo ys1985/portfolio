@@ -11,11 +11,14 @@
     margin: 0 auto;
     padding: 50px 0px;
     ul{
-        padding: 40px;
+        padding:40px;
         margin: 0;
         display: flex;
         flex-wrap: wrap;
-       
+        li{
+        //    transform: scale(0);
+           opacity: 0;
+        }
         li.item{
             display: flex;
             align-items: center;
@@ -57,7 +60,7 @@
         display: block;
         width: 184px;
         height: 40px;
-        margin: 60px auto;
+        margin: 0 auto 60px auto;
         background: #fff;
         border-radius: 20px;
         border: 1px solid #ccc;
