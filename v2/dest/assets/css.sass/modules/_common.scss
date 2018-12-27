@@ -51,6 +51,7 @@ a:visited{
     align-items: center;
     background: #222;
     z-index: 10;
+    font-size: 1.4rem;
   }
   
   #loading_overray .bg{
@@ -337,14 +338,13 @@ a:visited{
     right: 40px;
     z-index: 3;
     cursor: pointer;
-    background: #fff;
     transition: all .3s;
     span{
         position: absolute;
         display: block;
         width: 20px;
         height: 2px;
-        background: var(--body_lightColor);
+        background: var(--lightColor);
         border-radius: 2px;
         top: 49%;
         left: 29%;

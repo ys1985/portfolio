@@ -6,6 +6,7 @@
     --body_lightColor:#EEEEEE;
     --body_darkColor:#333333;
     --toggleSwitch_ico_lightColor:#999999;
+    --lightColor:#888888;
     --logo_column_darkColor:#1A1A1A;
     --column_darkColor:#1A1A1A;
     --darkColor:#1A1A1A;
@@ -13,4 +14,5 @@
 
 $inWrapRatiowidth:1200;
 $bg_borderRadius:20px;
+$itemRatio:calc( 240 / #{$inWrapRatiowidth} * 100%);
 $sectionMarginBottomRatio:calc( 40 / #{$inWrapRatiowidth} * 100%);

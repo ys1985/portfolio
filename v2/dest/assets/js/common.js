@@ -21,7 +21,7 @@
             var window_w = $(window).innerWidth();
             var $header = $('#header');
             var $mainListItems = $('#main ul');
-            var itemListLength = 25;
+            var itemListLength;
             var imgCount = 0;
             var imgURLlist = [
                 'assets/images/logo.svg',
@@ -40,10 +40,7 @@
             ]
 
             var imgItemInit = function(){
-
-                var itemsArray = [];
-                var randomArray = [];
-            
+                itemListLength = (imgURLlist.length * 2)-1;
                 for (var index = 0; index < itemListLength; index++) {
                     if(index % 2){
                         $mainListItems.append('<li class="transparentItem"></li>');
@@ -55,24 +52,22 @@
                             $mainListItems.find('li').addClass('logo');
                         }                    
                         imgCount++;
-                        console.log(imgCount);
                     }
                 }
 
-                var setElm = $mainListItems.find('li.item');
-                
+                var randomSetItem = $mainListItems.find('li.item');
                 function randomShow(){
                     
-                    var elmLength = setElm.length;
+                    var elmLength = randomSetItem.length;
                 
-                    randomSet = Math.floor(Math.random()*elmLength);
-                    $(setElm[randomSet]).velocity({opacity:'1'},{duration:500});
-                    setElm.splice(randomSet,1);
+                    randomSetNum = Math.floor(Math.random()*elmLength);
+                    $(randomSetItem[randomSetNum]).velocity({opacity:'1'},{duration:500,easing:"easeOutIn"});
+                    randomSetItem.splice(randomSetNum,1);
                     
                     if (elmLength > 0) {
                         setTimeout(function(){randomShow();},100);
                     } else {
-                        return false; //全てロード終了後に処理を加える際はココに
+                        return false;
                     }
                 }
                 randomShow();
@@ -142,8 +137,10 @@
 
         // window load
         $(window).on('load',function(){
+            //resposive-reaction selector append
+            $body.append('<div class="responsive-reaction"></div>');
             
-
+            //loading
             setTimeout(function(){
                 $('#loading_overray .bg').velocity({width:"100%"},1000,"easeInOutCubic",function () {
                     $('#loading_overray').hide();
@@ -151,10 +148,6 @@
                     HOME.imgItemInit();
                 })
             },1500);
-
-            //resposive-reaction selector append
-            $body.append('<div class="responsive-reaction"></div>');
-
             
             HOME.ResponsiveTriggerHandler();
             HOME.ModalWindow();

@@ -3,46 +3,144 @@
 /* pc home
 /**********************************************************************/
 
+@keyframes rotateAnimation{
+    0%{
+         transform:rotate(0deg);
+     }
+    100%{
+        transform:rotate(360deg);
+    }
+ }
+
+
+.bgVectorWrap{
+    width: 100%;
+    height: 100%;
+    top:0;
+    left: 0;
+    display: block;
+    position: fixed;
+    z-index: 1;
+}
+
+.bgVector{
+    position: absolute;
+    width: 600px;
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    z-index: 1; 
+}
+
+.bgVector.box01{
+    top: 50%;
+    left: 50%;
+    margin-left: -300px;
+    margin-top: -300px;
+    background-image: url(../images/bgVector.svg);
+    animation: rotateAnimation 200s infinite normal; 
+ }
+ .bgVector.box02{
+    top: 0%;
+    left: 0%;
+    background-image: url(../images/bgVector01.svg);
+    animation: rotateAnimation 190s infinite normal; 
+ }
+ .bgVector.box03{
+    top: 0%;
+    right: 0%;
+    background-image: url(../images/bgVector02.svg);
+    animation: rotateAnimation 180s infinite normal; 
+ }
+ .bgVector.box04{
+    bottom: 0%;
+    left: 0%;
+    background-image: url(../images/bgVector03.svg);
+    animation: rotateAnimation 170s infinite normal; 
+ }
+ .bgVector.box05{
+    bottom: 0%;
+    right: 0%;
+    background-image: url(../images/bgVector04.svg);
+    animation: rotateAnimation 160s infinite normal; 
+ }
+
+
+
+.blurCircle{
+    width: 100%;
+    height: 100%;
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffffff+0,333333+100&0+0,1+100 */
+background: -moz-radial-gradient(center, ellipse cover, rgba(255,255,255,0) 0%, rgba(51,51,51,1) 100%); /* FF3.6-15 */
+background: -webkit-radial-gradient(center, ellipse cover, rgba(255,255,255,0) 0%,rgba(51,51,51,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: radial-gradient(ellipse at center, rgba(255,255,255,0) 0%,rgba(51,51,51,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00ffffff', endColorstr='#333333',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+    display: block;
+    position: fixed;
+    top:0;
+    z-index: 1;
+}
+canvas {
+    position: fixed;
+    top:0;
+    z-index: 0;
+    background: white;
+    background: radial-gradient(#FFF, #DDD);
+    background: transparent;
+    //background: radial-gradient(hsl(40, 80%, 60%), hsl(0, 50%, 40%));
+    //filter: blur(1px) contrast(5);
+    //transform: scale(0.1);
+    transform-origin: 0 0;
+    //border: solid .8em green;
+    width: 100%;
+    height: 100%;
+  }
 //--------------------------
 // #main
 //--------------------------
 #main{
-    width: 1000px;
+    position: relative;
+    width: 100%;
+    max-width: 1000px;
     margin: 0 auto;
     padding: 50px 0px;
+    z-index: 2;
     ul{
         padding:40px;
         margin: 0;
         display: flex;
         flex-wrap: wrap;
         li{
-        //    transform: scale(0);
            opacity: 0;
         }
         li.item{
             display: flex;
             align-items: center;
             justify-content: center;
-            width: 184px;
-            height: 184px;
-            transition: all 0.2s ease;
+            width: $itemRatio;
+            height: $itemRatio;
             a{
                 background: #fff;
                 display: flex;
                 align-items: center;
                 justify-content: center;
-                width: 100%;
-                height: 100%;
+                width: 184px;
+                height: 184px;
                 border-radius: 20px;
+                transition: all 0.5s ease;
+                &:hover{
+                    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+                }
             }
             img{
                 width: 130px;
             }
         }
+        
         li.transparentItem{
             display: block;
             background: rgba(255, 255, 255, 0);
-            width: 184px;
+            width: $itemRatio;
             height: 184px;
         }
         li.logo{
@@ -79,7 +177,7 @@
     position: fixed;
     width: 100%;
     height: 100%;
-    background: rgba(255, 255, 255, 0.9);
+    background: rgba(255, 255, 255, 0.95);
     top:0;
     left:0;
     box-sizing: content-box;
@@ -97,8 +195,10 @@
         font-size: 1.6rem;
     }
     p{
+        width: 700px;
         font-family: "Noto Sans JP";
         line-height: 1.7;
+        text-align: left;
     }
 }
 
