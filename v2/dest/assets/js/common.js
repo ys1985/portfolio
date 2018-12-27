@@ -114,7 +114,7 @@
     
                         function typofade(){
                             if(Math.floor($mainListItemswrap.innerWidth()/184) % 2){
-                                $mainListItemswrap.find('li.item').css({opacity:1});
+                                $mainListItemswrap.find('li.item').removeClass('is-active');
                                 $mainListItemswrap.find('li.transparentItem').removeClass('is-active');
                                 $mainListItemswrap.find('li.transparentItem a').remove();
                             }
@@ -148,12 +148,12 @@
                                         // console.log(array[j]); // まずは奇数の一次配列配列
                                         for(var x = 0; x < columnItems -1; x++){
                                             if((x%2===1)){
-                                                array[j][x].addClass('is-active');
+                                                // array[j][x].addClass('is-active');
                                             }
                                             else{
-                                                var cloneImg = array[j][x].find('a').clone();
-                                                array[j][x].next().append(cloneImg);
-                                                
+                                                // var cloneImg = array[j][x].find('a').clone();
+                                                // array[j][x].next().append(cloneImg);
+                                                array[j][x].addClass('is-active');
                                             }
                                             
                                         }
