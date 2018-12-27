@@ -92,7 +92,7 @@
                 right: 0px;
                 padding: 30px;
                 box-sizing: border-box;
-                background: var(--bg_currentColor);
+                background: #fff;
                 border-radius: $bg_borderRadius;
                 img{
                     width:100%;
@@ -102,6 +102,7 @@
                 width: 940px;
                 margin: 0;
                 padding: 0;
+                background: #fff;
                 li{
                     span{
                         display: block;
@@ -117,16 +118,60 @@
                 }
             }
         }
-        //--------------------------
-        // introduction
-        //--------------------------
-        section.introduction{
-            width: 400px;
-            border-radius: $bg_borderRadius;
-            padding: 30px;
-            background: var(--bg_currentColor);
-            p{
-                font-size: 1.2rem;
+        
+        .gridContainer{
+            display: grid;
+            grid-template-columns: 400px 1fr;
+            grid-template-rows: 400px 1000px;
+            //--------------------------
+            // introduction
+            //--------------------------
+            section.introduction{
+                grid-column-start: 1;
+                grid-column-end: 1;              
+                box-sizing: border-box;
+                border-radius: $bg_borderRadius;
+                padding: 30px;
+                background: #fff;
+                margin-bottom: 40px;
+                p{
+                    font-size: 1.2rem;
+                }
+            }
+            //--------------------------
+            // mobile
+            //--------------------------
+            section.mobile{
+                grid-column-start: 1;
+                grid-column-end: 1;
+                
+                box-sizing: border-box;
+                padding: 30px;
+                background: #fff;
+                border-radius: $bg_borderRadius;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                height: 400px;
+                img{
+                    width: 50%;
+                }
+            }
+            //--------------------------
+            // pc screen
+            //--------------------------
+            section.screen{
+                grid-column-start: 2;
+                grid-column-end: auto;
+                grid-row-start: 1;
+                grid-row-end: 3;
+                margin-left: 40px;
+                background: #fff;
+                border-radius: $bg_borderRadius;
+                overflow: hidden;
+                img{
+                    width: 100%;
+                }
             }
         }
     }
@@ -136,5 +181,6 @@
 /**********************************************************************/
 
 @media only screen and (max-width:768px){
+    
     
 }

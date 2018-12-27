@@ -12,6 +12,7 @@
         
         //curren theme addClass
         $body.addClass(currentThemeColor);
+        
        
         var HOME = (function(){
             var $body = $('body');
@@ -38,14 +39,7 @@
                 'assets/images/wabisabi_logo.svg',
                 'assets/images/sp_dance_logo.png',
                 'assets/images/sp_macromill_logo.png',
-                'assets/images/sp_mhd_logo.png',
-                'assets/images/sp_moet_logo.png',
-                'assets/images/sp_fivestar_logo.png',
-                'assets/images/sp_tokyometro_logo.png',
-                'assets/images/sp_gazooraicng_logo.png',
-                'assets/images/logo_gmominer.svg',
-                'assets/images/sp_zushifes_logo.png',
-                'assets/images/sp_lenovo_logo.png',
+                
             ]
             
 
@@ -72,9 +66,10 @@
                 function randomShow(){
                     
                     var elmLength = randomSetItem.length;
+                    console.log(elmLength);
                 
                     randomSetNum = Math.floor(Math.random()*elmLength);
-                    $(randomSetItem[randomSetNum]).velocity({opacity:'1'},{duration:500,easing:"easeOutIn"});
+                    $(randomSetItem[randomSetNum]).velocity({opacity:'1'},{duration:300,easing:"easeOutIn"});
                     randomSetItem.splice(randomSetNum,1);
                     
                     if (elmLength > 0) {
@@ -83,7 +78,7 @@
                         return false;
                     }
                 }
-                // randomShow();
+                randomShow();
 
                 //masonry
                 
@@ -110,7 +105,7 @@
                         resize: true 
                         });
                         
-                        $mainListItemswrap.masonry( 'on', 'layoutComplete', function() {typofade();});
+                        // $mainListItemswrap.masonry( 'on', 'layoutComplete', function() {typofade();});
     
                         function typofade(){
                             if(Math.floor($mainListItemswrap.innerWidth()/184) % 2){
@@ -162,7 +157,7 @@
                             
                             }
                         }
-                        typofade();
+                        // typofade();
                     })
                 }
             }

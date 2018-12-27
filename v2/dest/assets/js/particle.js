@@ -225,7 +225,7 @@ App.draw = function() {
   
 };
 App.dataXYtoCanvasXY = function(x, y) {
-  var zoom = 2.8;
+  var zoom = 2;
   var xx = this.xC + x * zoom * this.dataToImageRatio,
       yy = this.yC + y * zoom * this.dataToImageRatio;
   
