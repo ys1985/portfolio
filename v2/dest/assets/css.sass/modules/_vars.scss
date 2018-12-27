@@ -12,7 +12,8 @@
     --darkColor:#1A1A1A;
 }
 
-$inWrapRatiowidth:1200;
+$inWrapRatiowidth:1024;
+$homeItemColumn:5;
 $bg_borderRadius:20px;
-$itemRatio:calc( 240 / #{$inWrapRatiowidth} * 100%);
+$itemRatioWidth:calc( #{($inWrapRatiowidth / $homeItemColumn)}  / #{$inWrapRatiowidth} * 100%);
 $sectionMarginBottomRatio:calc( 40 / #{$inWrapRatiowidth} * 100%);

@@ -101,47 +101,60 @@ canvas {
 #main{
     position: relative;
     width: 100%;
-    max-width: 1000px;
+    // max-width: 1400px;
     margin: 0 auto;
     padding: 50px 0px;
     z-index: 2;
     ul{
-        padding:40px;
-        margin: 0;
-        display: flex;
-        flex-wrap: wrap;
+        padding:40px 0;
+        margin: 0 auto;
+        // display: flex;
+        // flex-wrap: wrap;
         li{
-           opacity: 0;
+           opacity: 1;
+        //    width: $itemRatioWidth;
+           width: 184px;
+           height: 184px;
+           margin-bottom: 20px;
+           a{
+            background: #fff;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 100%;
+            height: 100%;
+            border-radius: 20px;
+            transition: all 0.5s ease;
+            &:hover{
+                box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+            }
+            }
+        
+           img{
+            width: 130px;
+            }
         }
         li.item{
             display: flex;
             align-items: center;
             justify-content: center;
-            width: $itemRatio;
-            height: $itemRatio;
-            a{
-                background: #fff;
-                display: flex;
-                align-items: center;
-                justify-content: center;
-                width: 184px;
-                height: 184px;
-                border-radius: 20px;
-                transition: all 0.5s ease;
-                &:hover{
-                    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
-                }
-            }
-            img{
-                width: 130px;
-            }
+            
         }
         
         li.transparentItem{
             display: block;
-            background: rgba(255, 255, 255, 0);
-            width: $itemRatio;
-            height: 184px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            // border: 1px solid #ccc;
+            background: rgba(255, 255, 255, 1);
+            box-sizing: border-box;
+            border-radius: 20px;
+            opacity: 0;
+            transition: all 0.2s ease-in;
+        }
+        li.transparentItem.is-active{
+            opacity: 1;
         }
         li.logo{
             a{
@@ -199,8 +212,24 @@ canvas {
         font-family: "Noto Sans JP";
         line-height: 1.7;
         text-align: left;
+        background: transparent;
     }
 }
+
+/**********************************************************************/
+/* pc home dark
+/**********************************************************************/
+body.is-dark{
+    //--------------------------
+    // #aboutme_modal
+    //--------------------------
+    #aboutme_modal{
+        background: rgba(0, 0, 0, 0.95);
+        color: #fff;
+    }
+
+}
+
 
 /**********************************************************************/
 /* sp home
@@ -225,6 +254,8 @@ canvas {
         ul{
             padding: 0 10px;
             margin: 0;
+            display: flex;
+            flex-wrap: wrap;
             li.item{
                 box-sizing: border-box;
                 width: 46%;

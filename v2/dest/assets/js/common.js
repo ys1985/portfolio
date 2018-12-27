@@ -20,9 +20,10 @@
             var $contentsSlideWrap = $('#contents-slide-wrap');
             var window_w = $(window).innerWidth();
             var $header = $('#header');
-            var $mainListItems = $('#main ul');
+            var $mainListItemswrap = $('#main ul');
             var itemListLength;
             var imgCount = 0;
+            var typoCount = 0;
             var imgURLlist = [
                 'assets/images/logo.svg',
                 'assets/images/sp_mhd_logo.png',
@@ -37,25 +38,37 @@
                 'assets/images/wabisabi_logo.svg',
                 'assets/images/sp_dance_logo.png',
                 'assets/images/sp_macromill_logo.png',
+                'assets/images/sp_mhd_logo.png',
+                'assets/images/sp_moet_logo.png',
+                'assets/images/sp_fivestar_logo.png',
+                'assets/images/sp_tokyometro_logo.png',
+                'assets/images/sp_gazooraicng_logo.png',
+                'assets/images/logo_gmominer.svg',
+                'assets/images/sp_zushifes_logo.png',
+                'assets/images/sp_lenovo_logo.png',
             ]
+            
 
             var imgItemInit = function(){
+                
                 itemListLength = (imgURLlist.length * 2)-1;
                 for (var index = 0; index < itemListLength; index++) {
                     if(index % 2){
-                        $mainListItems.append('<li class="transparentItem"></li>');
+                        $mainListItemswrap.append('<li class="transparentItem"></li>');
+                        typoCount++;
                     }
                     else{
                         
-                        $mainListItems.append('<li class="item"><a href="./works/archives'+ imgCount +'/"><img src='+ imgURLlist[imgCount] +'></a></li>');
+                        // $mainListItemswrap.append('<li class="item"><a href="./works/archives'+ imgCount +'/"><img src='+ imgURLlist[imgCount] +'></a></li>');
+                        $mainListItemswrap.append('<li class="item"><a href="./works/archives'+ 1 +'/"><img src='+ imgURLlist[imgCount] +'></a></li>');
                         if(index === 0){
-                            $mainListItems.find('li').addClass('logo');
+                            $mainListItemswrap.find('li').addClass('logo');
                         }                    
                         imgCount++;
                     }
                 }
 
-                var randomSetItem = $mainListItems.find('li.item');
+                var randomSetItem = $mainListItemswrap.find('li.item');
                 function randomShow(){
                     
                     var elmLength = randomSetItem.length;
@@ -70,12 +83,94 @@
                         return false;
                     }
                 }
-                randomShow();
+                // randomShow();
+
+                //masonry
                 
+                if(device != "SP"){
+                    masonryInitiraized();
+                }
+                $body.on('resize:responsive',function(){
+                    // console.log(device);
+                    if(device != "SP"){
+                        masonryInitiraized();
+                    }else{
+                        console.log("masonry-sp");
+                        $mainListItemswrap.masonry('destroy');
+                    }
+                })
+
+                function masonryInitiraized(){
+                    $mainListItemswrap.imagesLoaded(function(){
+                        $mainListItemswrap.masonry({
+                        // options
+                        fitWidth: true,
+                        columnWidth: '.item',
+                        gutter: 20,
+                        resize: true 
+                        });
+                        
+                        $mainListItemswrap.masonry( 'on', 'layoutComplete', function() {typofade();});
+    
+                        function typofade(){
+                            if(Math.floor($mainListItemswrap.innerWidth()/184) % 2){
+                                $mainListItemswrap.find('li.item').css({opacity:1});
+                                $mainListItemswrap.find('li.transparentItem').removeClass('is-active');
+                                $mainListItemswrap.find('li.transparentItem a').remove();
+                            }
+                            else{
+                                var rowItems;
+                                var columnItems;
+                                var itemArray = [];
+                                $mainListItemswrap.find('li').each(function(){
+                                    rowItems = Math.ceil(index/($mainListItemswrap.innerWidth()/184));
+                                    columnItems = Math.ceil(($mainListItemswrap.innerWidth()/184));
+                                    itemArray.push($(this));
+                                });
+
+                                //単配列の宣言
+                                var array = [];
+                                var once=0;
+                                //for文で要素を格納する
+                                for(var i=0; i<rowItems; i++){
+                                    //配列の要素数を指定する
+                                　　 array[i] = [];
+                                    for(var j=0; j<columnItems-1; j++){
+                                        array[i][j] = itemArray.shift();
+                                    }
+                                }
+                                
+                                // console.log(array.filter(function(v, i) { return i % 2 === 1 }).reduce(function(prev,item){ return prev.concat(item) },[]).filter(function(v, i) { return i %2 === 0 }));
+                                
+                                for(var j=0; j<rowItems; j++){
+                                    if((j%2 === 1)){
+                                    
+                                        // console.log(array[j]); // まずは奇数の一次配列配列
+                                        for(var x = 0; x < columnItems -1; x++){
+                                            if((x%2===1)){
+                                                array[j][x].addClass('is-active');
+                                            }
+                                            else{
+                                                var cloneImg = array[j][x].find('a').clone();
+                                                array[j][x].next().append(cloneImg);
+                                                
+                                            }
+                                            
+                                        }
+                                    }
+                                }
+                            
+                            }
+                        }
+                        typofade();
+                    })
+                }
             }
 
-            var ResponsiveTriggerHandler = function(){
 
+
+            var ResponsiveTrigger = function(){
+                
                 device = $('.responsive-reaction').css('visibility');
                   if(device === "visible"){
                       device = "PC";
@@ -87,6 +182,7 @@
                       device_cheker = device;
                       $body.trigger('resize:responsive');
                   }
+                  
               }
             
             var ToggleSwitchBtn = function(){
@@ -123,13 +219,9 @@
                 })
             }
 
-            // $('body').on('resize:responsive',function(){
-            //     pagetopHandler();
-            // });
-
             return{
               imgItemInit : imgItemInit,
-              ResponsiveTriggerHandler : ResponsiveTriggerHandler ,
+              ResponsiveTrigger : ResponsiveTrigger ,
               ModalWindow : ModalWindow,
               ToggleSwitchBtn : ToggleSwitchBtn
             };
@@ -149,13 +241,14 @@
                 })
             },1500);
             
-            HOME.ResponsiveTriggerHandler();
+            HOME.ResponsiveTrigger();
             HOME.ModalWindow();
             HOME.ToggleSwitchBtn();
         })
         // window resize
         $(window).on('resize',function(){
-            HOME.ResponsiveTriggerHandler();
+            
+            HOME.ResponsiveTrigger();
         })
 
     });
