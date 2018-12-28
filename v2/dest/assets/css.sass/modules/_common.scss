@@ -430,6 +430,102 @@ body.is-dark{
         }
     }
 }
+#backTonavi{
+    display: block;
+    position: relative;
+    margin-top: -150px;
+    a{
+        width: 150px;
+        height: 150px;
+        display: block;
+        background: #fff;
+        border-radius: $bg_borderRadius;
+        position: relative;
+        transition: all 0.5s ease;
+        span{
+            display: block;
+            text-align: center;
+            font-size: 1.2rem;
+            padding-top: calc(150px / 2 + 14px);
+        }
+        &:hover{
+            box-shadow: $btnHoverBoxshadow;
+        }
+        &:after{
+            position: absolute;
+            display: block;
+            content: "";
+            background-color: var(--toggleSwitch_ico_lightColor);
+            box-shadow: 0px 0px 0 0 var(--toggleSwitch_ico_lightColor),10px 0px 0 0 var(--toggleSwitch_ico_lightColor),20px 0px 0 0 var(--toggleSwitch_ico_lightColor),5px 5px 0 0 var(--toggleSwitch_ico_lightColor),15px 5px 0 0 var(--toggleSwitch_ico_lightColor),0px 10px 0 0 var(--toggleSwitch_ico_lightColor),10px 10px 0 0 var(--toggleSwitch_ico_lightColor),20px 10px 0 0 var(--toggleSwitch_ico_lightColor),5px 15px 0 0 var(--toggleSwitch_ico_lightColor),15px 15px 0 0 var(--toggleSwitch_ico_lightColor),0px 20px 0 0 var(--toggleSwitch_ico_lightColor),10px 20px 0 0 var(--toggleSwitch_ico_lightColor),20px 20px 0 0 var(--toggleSwitch_ico_lightColor),;
+            height: 5px;
+            width: 5px;
+            top: 50%;
+            left: 50%;
+            margin-left: -12px;
+            margin-top: -22px;
+            transition: all 1s linear;
+        }
+        &.is-mouseover:after{
+            animation: dotted_over 1s linear forwards;
+        }
+        &.is-mouseout:after{
+            animation: dotted_out 1s linear forwards;
+        }
+        @keyframes dotted_over{
+            0%{
+                background-color: var(--toggleSwitch_ico_lightColor);
+                box-shadow: 0px 0px 0 0 var(--toggleSwitch_ico_lightColor),10px 0px 0 0 var(--toggleSwitch_ico_lightColor),20px 0px 0 0 var(--toggleSwitch_ico_lightColor),5px 5px 0 0 var(--toggleSwitch_ico_lightColor),15px 5px 0 0 var(--toggleSwitch_ico_lightColor),0px 10px 0 0 var(--toggleSwitch_ico_lightColor),10px 10px 0 0 var(--toggleSwitch_ico_lightColor),20px 10px 0 0 var(--toggleSwitch_ico_lightColor),5px 15px 0 0 var(--toggleSwitch_ico_lightColor),15px 15px 0 0 var(--toggleSwitch_ico_lightColor),0px 20px 0 0 var(--toggleSwitch_ico_lightColor),10px 20px 0 0 var(--toggleSwitch_ico_lightColor),20px 20px 0 0 var(--toggleSwitch_ico_lightColor),; 
+            }
+            20%{
+                background-color: var(--toggleSwitch_ico_hoverlightColor);
+                box-shadow: 0px 0px 0 0 var(--toggleSwitch_ico_lightColor),10px 0px 0 0 var(--toggleSwitch_ico_lightColor),20px 0px 0 0 var(--toggleSwitch_ico_lightColor),5px 5px 0 0 var(--toggleSwitch_ico_lightColor),15px 5px 0 0 var(--toggleSwitch_ico_lightColor),0px 10px 0 0 var(--toggleSwitch_ico_lightColor),10px 10px 0 0 var(--toggleSwitch_ico_lightColor),20px 10px 0 0 var(--toggleSwitch_ico_lightColor),5px 15px 0 0 var(--toggleSwitch_ico_lightColor),15px 15px 0 0 var(--toggleSwitch_ico_lightColor),0px 20px 0 0 var(--toggleSwitch_ico_lightColor),10px 20px 0 0 var(--toggleSwitch_ico_lightColor),20px 20px 0 0 var(--toggleSwitch_ico_lightColor),;
+            }
+            
+            40%{
+                box-shadow: 0px 0px 0 0 var(--toggleSwitch_ico_hoverlightColor),10px 0px 0 0 var(--toggleSwitch_ico_hoverlightColor),20px 0px 0 0 var(--toggleSwitch_ico_lightColor),5px 5px 0 0 var(--toggleSwitch_ico_hoverlightColor),15px 5px 0 0 var(--toggleSwitch_ico_lightColor),0px 10px 0 0 var(--toggleSwitch_ico_hoverlightColor),10px 10px 0 0 var(--toggleSwitch_ico_lightColor),20px 10px 0 0 var(--toggleSwitch_ico_lightColor),5px 15px 0 0 var(--toggleSwitch_ico_lightColor),15px 15px 0 0 var(--toggleSwitch_ico_lightColor),0px 20px 0 0 var(--toggleSwitch_ico_lightColor),10px 20px 0 0 var(--toggleSwitch_ico_lightColor),20px 20px 0 0 var(--toggleSwitch_ico_lightColor),;
+                background: var(--toggleSwitch_ico_hoverlightColor);
+            }
+            60%{
+                box-shadow: 0px 0px 0 0 var(--toggleSwitch_ico_hoverlightColor),10px 0px 0 0 var(--toggleSwitch_ico_hoverlightColor),20px 0px 0 0 var(--toggleSwitch_ico_hoverlightColor),5px 5px 0 0 var(--toggleSwitch_ico_hoverlightColor),15px 5px 0 0 var(--toggleSwitch_ico_hoverlightColor),0px 10px 0 0 var(--toggleSwitch_ico_hoverlightColor),10px 10px 0 0 var(--toggleSwitch_ico_hoverlightColor),20px 10px 0 0 var(--toggleSwitch_ico_lightColor),5px 15px 0 0 var(--toggleSwitch_ico_hoverlightColor),15px 15px 0 0 var(--toggleSwitch_ico_lightColor),0px 20px 0 0 var(--toggleSwitch_ico_hoverlightColor),10px 20px 0 0 var(--toggleSwitch_ico_lightColor),20px 20px 0 0 var(--toggleSwitch_ico_lightColor),;
+                background: var(--toggleSwitch_ico_hoverlightColor);
+            }
+            80%{
+                box-shadow: 0px 0px 0 0 var(--toggleSwitch_ico_hoverlightColor),10px 0px 0 0 var(--toggleSwitch_ico_hoverlightColor),20px 0px 0 0 var(--toggleSwitch_ico_hoverlightColor),5px 5px 0 0 var(--toggleSwitch_ico_hoverlightColor),15px 5px 0 0 var(--toggleSwitch_ico_hoverlightColor),0px 10px 0 0 var(--toggleSwitch_ico_hoverlightColor),10px 10px 0 0 var(--toggleSwitch_ico_hoverlightColor),20px 10px 0 0 var(--toggleSwitch_ico_hoverlightColor),5px 15px 0 0 var(--toggleSwitch_ico_hoverlightColor),15px 15px 0 0 var(--toggleSwitch_ico_hoverlightColor),0px 20px 0 0 var(--toggleSwitch_ico_hoverlightColor),10px 20px 0 0 var(--toggleSwitch_ico_hoverlightColor),20px 20px 0 0 var(--toggleSwitch_ico_lightColor),;
+                background: var(--toggleSwitch_ico_hoverlightColor);
+            }
+            100%{
+                box-shadow: 0px 0px 0 0 var(--toggleSwitch_ico_hoverlightColor),10px 0px 0 0 var(--toggleSwitch_ico_hoverlightColor),20px 0px 0 0 var(--toggleSwitch_ico_hoverlightColor),5px 5px 0 0 var(--toggleSwitch_ico_hoverlightColor),15px 5px 0 0 var(--toggleSwitch_ico_hoverlightColor),0px 10px 0 0 var(--toggleSwitch_ico_hoverlightColor),10px 10px 0 0 var(--toggleSwitch_ico_hoverlightColor),20px 10px 0 0 var(--toggleSwitch_ico_hoverlightColor),5px 15px 0 0 var(--toggleSwitch_ico_hoverlightColor),15px 15px 0 0 var(--toggleSwitch_ico_hoverlightColor),0px 20px 0 0 var(--toggleSwitch_ico_hoverlightColor),10px 20px 0 0 var(--toggleSwitch_ico_hoverlightColor),20px 20px 0 0 var(--toggleSwitch_ico_hoverlightColor),;
+                background: var(--toggleSwitch_ico_hoverlightColor);
+            }
+        }
+        @keyframes dotted_out{         
+            0%{
+                box-shadow: 0px 0px 0 0 var(--toggleSwitch_ico_hoverlightColor),10px 0px 0 0 var(--toggleSwitch_ico_hoverlightColor),20px 0px 0 0 var(--toggleSwitch_ico_hoverlightColor),5px 5px 0 0 var(--toggleSwitch_ico_hoverlightColor),15px 5px 0 0 var(--toggleSwitch_ico_hoverlightColor),0px 10px 0 0 var(--toggleSwitch_ico_hoverlightColor),10px 10px 0 0 var(--toggleSwitch_ico_hoverlightColor),20px 10px 0 0 var(--toggleSwitch_ico_hoverlightColor),5px 15px 0 0 var(--toggleSwitch_ico_hoverlightColor),15px 15px 0 0 var(--toggleSwitch_ico_hoverlightColor),0px 20px 0 0 var(--toggleSwitch_ico_hoverlightColor),10px 20px 0 0 var(--toggleSwitch_ico_hoverlightColor),20px 20px 0 0 var(--toggleSwitch_ico_hoverlightColor),;
+                background: var(--toggleSwitch_ico_hoverlightColor);
+            }
+            20%{
+                box-shadow: 0px 0px 0 0 var(--toggleSwitch_ico_hoverlightColor),10px 0px 0 0 var(--toggleSwitch_ico_hoverlightColor),20px 0px 0 0 var(--toggleSwitch_ico_hoverlightColor),5px 5px 0 0 var(--toggleSwitch_ico_hoverlightColor),15px 5px 0 0 var(--toggleSwitch_ico_hoverlightColor),0px 10px 0 0 var(--toggleSwitch_ico_hoverlightColor),10px 10px 0 0 var(--toggleSwitch_ico_hoverlightColor),20px 10px 0 0 var(--toggleSwitch_ico_hoverlightColor),5px 15px 0 0 var(--toggleSwitch_ico_hoverlightColor),15px 15px 0 0 var(--toggleSwitch_ico_hoverlightColor),0px 20px 0 0 var(--toggleSwitch_ico_hoverlightColor),10px 20px 0 0 var(--toggleSwitch_ico_hoverlightColor),20px 20px 0 0 var(--toggleSwitch_ico_lightColor),;
+                background: var(--toggleSwitch_ico_hoverlightColor);
+            }
+            40%{
+                box-shadow: 0px 0px 0 0 var(--toggleSwitch_ico_hoverlightColor),10px 0px 0 0 var(--toggleSwitch_ico_hoverlightColor),20px 0px 0 0 var(--toggleSwitch_ico_hoverlightColor),5px 5px 0 0 var(--toggleSwitch_ico_hoverlightColor),15px 5px 0 0 var(--toggleSwitch_ico_hoverlightColor),0px 10px 0 0 var(--toggleSwitch_ico_hoverlightColor),10px 10px 0 0 var(--toggleSwitch_ico_hoverlightColor),20px 10px 0 0 var(--toggleSwitch_ico_lightColor),5px 15px 0 0 var(--toggleSwitch_ico_hoverlightColor),15px 15px 0 0 var(--toggleSwitch_ico_lightColor),0px 20px 0 0 var(--toggleSwitch_ico_hoverlightColor),10px 20px 0 0 var(--toggleSwitch_ico_lightColor),20px 20px 0 0 var(--toggleSwitch_ico_lightColor),;
+                background: var(--toggleSwitch_ico_hoverlightColor);
+            }
+            60%{
+                box-shadow: 0px 0px 0 0 var(--toggleSwitch_ico_hoverlightColor),10px 0px 0 0 var(--toggleSwitch_ico_hoverlightColor),20px 0px 0 0 var(--toggleSwitch_ico_lightColor),5px 5px 0 0 var(--toggleSwitch_ico_hoverlightColor),15px 5px 0 0 var(--toggleSwitch_ico_lightColor),0px 10px 0 0 var(--toggleSwitch_ico_hoverlightColor),10px 10px 0 0 var(--toggleSwitch_ico_lightColor),20px 10px 0 0 var(--toggleSwitch_ico_lightColor),5px 15px 0 0 var(--toggleSwitch_ico_lightColor),15px 15px 0 0 var(--toggleSwitch_ico_lightColor),0px 20px 0 0 var(--toggleSwitch_ico_lightColor),10px 20px 0 0 var(--toggleSwitch_ico_lightColor),20px 20px 0 0 var(--toggleSwitch_ico_lightColor),;
+                background: var(--toggleSwitch_ico_hoverlightColor);
+            }
+            80%{
+                background-color: var(--toggleSwitch_ico_hoverlightColor);
+                box-shadow: 0px 0px 0 0 var(--toggleSwitch_ico_lightColor),10px 0px 0 0 var(--toggleSwitch_ico_lightColor),20px 0px 0 0 var(--toggleSwitch_ico_lightColor),5px 5px 0 0 var(--toggleSwitch_ico_lightColor),15px 5px 0 0 var(--toggleSwitch_ico_lightColor),0px 10px 0 0 var(--toggleSwitch_ico_lightColor),10px 10px 0 0 var(--toggleSwitch_ico_lightColor),20px 10px 0 0 var(--toggleSwitch_ico_lightColor),5px 15px 0 0 var(--toggleSwitch_ico_lightColor),15px 15px 0 0 var(--toggleSwitch_ico_lightColor),0px 20px 0 0 var(--toggleSwitch_ico_lightColor),10px 20px 0 0 var(--toggleSwitch_ico_lightColor),20px 20px 0 0 var(--toggleSwitch_ico_lightColor),;
+            }
+            100%{
+                background-color: var(--toggleSwitch_ico_lightColor);
+                box-shadow: 0px 0px 0 0 var(--toggleSwitch_ico_lightColor),10px 0px 0 0 var(--toggleSwitch_ico_lightColor),20px 0px 0 0 var(--toggleSwitch_ico_lightColor),5px 5px 0 0 var(--toggleSwitch_ico_lightColor),15px 5px 0 0 var(--toggleSwitch_ico_lightColor),0px 10px 0 0 var(--toggleSwitch_ico_lightColor),10px 10px 0 0 var(--toggleSwitch_ico_lightColor),20px 10px 0 0 var(--toggleSwitch_ico_lightColor),5px 15px 0 0 var(--toggleSwitch_ico_lightColor),15px 15px 0 0 var(--toggleSwitch_ico_lightColor),0px 20px 0 0 var(--toggleSwitch_ico_lightColor),10px 20px 0 0 var(--toggleSwitch_ico_lightColor),20px 20px 0 0 var(--toggleSwitch_ico_lightColor),; 
+            }
+        }
+    }
+}
 
 /**********************************************************************/
 /* sp common

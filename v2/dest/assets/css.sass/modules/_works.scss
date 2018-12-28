@@ -50,17 +50,48 @@
         //--------------------------
         .btnDetail{ 
             display: block;
-            width: 200px;
             position: absolute;
+            width: 200px;
             height: 40px;
             right: 30px;
             bottom: 30px;
-            text-align: center;
             line-height: 40px;
-            font-size: 1vw;
             border: 1px solid #ccc;
             background: var(--bg_currentColor);
             border-radius: $bg_borderRadius;
+            overflow: hidden;
+            text-align: center;
+            transition: all 0.5s cubic-bezier(.63,.42,.53,1);
+            span{
+                width: 100%;
+                position: relative;
+                font-size: 1.2rem;
+                z-index: 2;
+                transition: all 0.3s cubic-bezier(.63,.42,.53,1) 0.1s; 
+            }
+            &:after{
+                content: "";
+                display: block;
+                position: absolute;
+                width: 400px;
+                height: 400px;
+                transform: rotate(45deg);
+                background: #333;
+                top: -140px;
+                left: -470px;
+                z-index: 1;
+                transition: all 0.5s cubic-bezier(.63,.42,.53,1);
+            }
+            &:hover{
+                border: 1px solid #333;
+                &::after{
+                    left: 0px;
+                }
+                span{
+                    color:#fff;
+                }
+            }
+            
         }
 
         //--------------------------
@@ -103,13 +134,16 @@
                 margin: 0;
                 padding: 0;
                 background: #fff;
+                border-radius: $bg_borderRadius;
                 li{
+                    padding: 40px;
+                    box-sizing: border-box;
                     span{
                         display: block;
                         overflow: hidden;
                         border-radius: $bg_borderRadius;
                         box-sizing: border-box;
-                        width: 97.872340425531915%;
+                        width: 100%;
                         img{
                             width: 100%;
                         }

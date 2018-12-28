@@ -66,7 +66,6 @@
                 function randomShow(){
                     
                     var elmLength = randomSetItem.length;
-                    console.log(elmLength);
                 
                     randomSetNum = Math.floor(Math.random()*elmLength);
                     $(randomSetItem[randomSetNum]).velocity({opacity:'1'},{duration:300,easing:"easeOutIn"});
@@ -90,7 +89,6 @@
                     if(device != "SP"){
                         masonryInitiraized();
                     }else{
-                        console.log("masonry-sp");
                         $mainListItemswrap.masonry('destroy');
                     }
                 })
@@ -163,7 +161,6 @@
             }
 
 
-
             var ResponsiveTrigger = function(){
                 
                 device = $('.responsive-reaction').css('visibility');
@@ -205,6 +202,17 @@
                 })
             }
 
+            var BackTonavi = function(){
+                $('#backTonavi a').on("mouseover",function(){
+                    $(this).toggleClass('is-mouseover');
+                    $(this).removeClass('is-mouseout');
+                })
+                $('#backTonavi a').on("mouseout",function(){
+                    $(this).toggleClass('is-mouseover');
+                    $(this).addClass('is-mouseout');
+                })
+            }
+
             var ModalWindow = function(){
                 $('.aboutme').on('click',function(){
                     $('#aboutme_modal').fadeIn(300);
@@ -218,7 +226,8 @@
               imgItemInit : imgItemInit,
               ResponsiveTrigger : ResponsiveTrigger ,
               ModalWindow : ModalWindow,
-              ToggleSwitchBtn : ToggleSwitchBtn
+              ToggleSwitchBtn : ToggleSwitchBtn,
+              BackTonavi : BackTonavi
             };
         })();
 
@@ -239,6 +248,7 @@
             HOME.ResponsiveTrigger();
             HOME.ModalWindow();
             HOME.ToggleSwitchBtn();
+            HOME.BackTonavi();
         })
         // window resize
         $(window).on('resize',function(){
