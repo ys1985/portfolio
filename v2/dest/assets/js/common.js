@@ -1,19 +1,24 @@
 (function($) {
     $(function() {
-       
+
+        //globalElement Body
+        var $body = $('body');
+
+        //themeColor
         var themeColor;
         var currentThemeColor;
-        var $body = $('body');
+
+        //curren theme addClass
+        $body.addClass(currentThemeColor);
+
+        //currentThemeColor localStorage getItem
+        currentThemeColor = localStorage.getItem('toggleSwngitchClass');
+
+         //toggleSwitch
         var toggleSwitchSelector = document.querySelector('.toggleSwitch');
         var toggleSwitchLocked;
 
-        //localStorage getItem
-        currentThemeColor = localStorage.getItem('toggleSwngitchClass');
         
-        //curren theme addClass
-        $body.addClass(currentThemeColor);
-        
-       
         var HOME = (function(){
             var $body = $('body');
             var device;
@@ -26,7 +31,6 @@
             var imgCount = 0;
             var typoCount = 0;
             var imgURLlist = [
-                'assets/images/logo.svg',
                 'assets/images/sp_mhd_logo.png',
                 'assets/images/sp_moet_logo.png',
                 'assets/images/sp_fivestar_logo.png',
@@ -39,35 +43,38 @@
                 'assets/images/wabisabi_logo.svg',
                 'assets/images/sp_dance_logo.png',
                 'assets/images/sp_macromill_logo.png',
-                
+                'assets/images/sp_mhd_logo.png',
             ]
-            
 
             var imgItemInit = function(){
                 
+                //imgItem append
                 itemListLength = (imgURLlist.length * 2)-1;
                 for (var index = 0; index < itemListLength; index++) {
                     if(index % 2){
                         $mainListItemswrap.append('<li class="transparentItem"></li>');
-                        typoCount++;
                     }
                     else{
-                        
                         // $mainListItemswrap.append('<li class="item"><a href="./works/archives'+ imgCount +'/"><img src='+ imgURLlist[imgCount] +'></a></li>');
-                        $mainListItemswrap.append('<li class="item"><a href="./works/archives'+ 1 +'/"><img src='+ imgURLlist[imgCount] +'></a></li>');
                         if(index === 0){
-                            $mainListItemswrap.find('li').addClass('logo');
+                            $mainListItemswrap.append('<li class="item logo"><a href="./'+ 1 +'/"></a></li>');
+                        }
+                        else{
+                            $mainListItemswrap.append('<li class="item"><a href="./works/archives'+ 1 +'/"><img src='+ imgURLlist[imgCount] +'></a></li>');
                         }                    
                         imgCount++;
                     }
                 }
 
-                var randomSetItem = $mainListItemswrap.find('li.item');
+                //imgItem randomShow
+                $mainListItemswrap.find('li.logo').velocity({opacity:'1'},{duration:300,easing:"easeOutIn"});
+                var randomSetItem = $mainListItemswrap.find('li.item').not('.logo');
                 function randomShow(){
                     
                     var elmLength = randomSetItem.length;
                 
                     randomSetNum = Math.floor(Math.random()*elmLength);
+                    
                     $(randomSetItem[randomSetNum]).velocity({opacity:'1'},{duration:300,easing:"easeOutIn"});
                     randomSetItem.splice(randomSetNum,1);
                     
@@ -79,13 +86,14 @@
                 }
                 randomShow();
 
-                //masonry
                 
+                //masonry pc only init
                 if(device != "SP"){
                     masonryInitiraized();
                 }
+
+                //masonry sp destory
                 $body.on('resize:responsive',function(){
-                    // console.log(device);
                     if(device != "SP"){
                         masonryInitiraized();
                     }else{
@@ -93,6 +101,7 @@
                     }
                 })
 
+                //masonry Initiraized
                 function masonryInitiraized(){
                     $mainListItemswrap.imagesLoaded(function(){
                         $mainListItemswrap.masonry({
@@ -214,7 +223,7 @@
             }
 
             var ModalWindow = function(){
-                $('.aboutme').on('click',function(){
+                $('.aboutmeBtn').on('click',function(){
                     $('#aboutme_modal').fadeIn(300);
                 })
                 $('.closeBtn').on('click',function(){
@@ -236,7 +245,7 @@
             //resposive-reaction selector append
             $body.append('<div class="responsive-reaction"></div>');
             
-            //loading
+            //bg loading
             setTimeout(function(){
                 $('#loading_overray .bg').velocity({width:"100%"},1000,"easeInOutCubic",function () {
                     $('#loading_overray').hide();

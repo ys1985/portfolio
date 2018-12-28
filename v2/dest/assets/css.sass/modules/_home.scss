@@ -20,51 +20,48 @@
     display: block;
     position: fixed;
     z-index: 1;
+    .bgVector{
+        position: absolute;
+        width: 800px;
+        height: 800px;
+        background-repeat: no-repeat;
+        background-size: contain;
+        z-index: 1; 
+    }
+    
+    .bgVector.box01{
+        top: 50%;
+        left: 50%;
+        margin-left: -400px;
+        margin-top: -400px;
+        background-image: url(../images/bgVector.svg);
+        animation: rotateAnimation 200s infinite normal; 
+     }
+     .bgVector.box02{
+        top: -10%;
+        left: -10%;
+        background-image: url(../images/bgVector01.svg);
+        animation: rotateAnimation 190s infinite normal; 
+     }
+     .bgVector.box03{
+        top: -10%;
+        right: -10%;
+        background-image: url(../images/bgVector02.svg);
+        animation: rotateAnimation 180s infinite normal; 
+     }
+     .bgVector.box04{
+        bottom: -10%;
+        left: -10%;
+        background-image: url(../images/bgVector03.svg);
+        animation: rotateAnimation 170s infinite normal; 
+     }
+     .bgVector.box05{
+        bottom: -10%;
+        right: -10%;
+        background-image: url(../images/bgVector04.svg);
+        animation: rotateAnimation 160s infinite normal; 
+     }
 }
-
-.bgVector{
-    position: absolute;
-    width: 800px;
-    height: 800px;
-    background-repeat: no-repeat;
-    background-size: contain;
-    z-index: 1; 
-}
-
-.bgVector.box01{
-    top: 50%;
-    left: 50%;
-    margin-left: -400px;
-    margin-top: -400px;
-    background-image: url(../images/bgVector.svg);
-    animation: rotateAnimation 200s infinite normal; 
- }
- .bgVector.box02{
-    top: -10%;
-    left: -10%;
-    background-image: url(../images/bgVector01.svg);
-    animation: rotateAnimation 190s infinite normal; 
- }
- .bgVector.box03{
-    top: -10%;
-    right: -10%;
-    background-image: url(../images/bgVector02.svg);
-    animation: rotateAnimation 180s infinite normal; 
- }
- .bgVector.box04{
-    bottom: -10%;
-    left: -10%;
-    background-image: url(../images/bgVector03.svg);
-    animation: rotateAnimation 170s infinite normal; 
- }
- .bgVector.box05{
-    bottom: -10%;
-    right: -10%;
-    background-image: url(../images/bgVector04.svg);
-    animation: rotateAnimation 160s infinite normal; 
- }
-
-
 
 .blurCircle{
     width: 100%;
@@ -160,16 +157,20 @@ canvas {
         }
         li.logo{
             a{
+                background-image: url(../images/logo.svg);
+                background-repeat: no-repeat;
+                background-position: center center;
+                background-size: 50% auto;
                 transition: all 0.5s ease;
                 background-color:#E2E2E2;
-                img{
-                    width: 100px;
-                }
             }
         }
     }
     
-    .aboutme{
+    //--------------------------
+    // .aboutmeBtn
+    //--------------------------
+    .aboutmeBtn{
         display: block;
         width: 184px;
         height: 40px;
@@ -228,6 +229,7 @@ body.is-dark{
     #aboutme_modal{
         background: rgba(0, 0, 0, 0.95);
         color: #fff;
+        
     }
 
 }
@@ -239,13 +241,23 @@ body.is-dark{
 
 
 @media only screen and (max-width:768px){
-    .responsive-reaction{
-        width: 0;
-        height: 0;
-        visibility: hidden;
-        display: none;
+
+    .bgVectorWrap{
+        transform: scale(0.5);
+        .bgVector.box01{
+            top: 50%;
+            left: 50%;
+            margin-left: -400px;
+            margin-top: -400px;
+            background-image: url(../images/bgVector.svg);
+            animation: rotateAnimation 200s infinite normal; 
+         }
+         .bgVector.box02 , .bgVector.box03 , .bgVector.box04 ,.bgVector.box05{
+            display: none;
+         }
+         
     }
-   
+
     //--------------------------
     // #main
     //--------------------------
@@ -254,8 +266,8 @@ body.is-dark{
         margin: 0 auto;
         padding: 20px 0px;
         ul{
+            margin: 30px 0px;
             padding: 0 10px;
-            margin: 0;
             display: flex;
             flex-wrap: wrap;
             li.item{
@@ -279,13 +291,15 @@ body.is-dark{
             li.logo{
                 width: 100%;
                 a{
-                    img{
-                        width: 13vh;
-                    }
+                    background-image: url(../images/sp_logo.svg);
+                    background-repeat: no-repeat;
+                    background-position: center center;
+                    background-size: 50% auto;
+                    transition: all 0.5s ease;
+                    background-color:#E2E2E2;
                 }
             }
         }
-        
         .aboutme{
             margin: 40px auto;
         }
@@ -297,8 +311,12 @@ body.is-dark{
         .in-wrap{
             padding: 100px 20px;
         }
+        h2{
+            font-size: 1.8rem;
+        }
         p{
-            font-size: 0.9em;
+            width: 85vw;
+            font-size: 1.2rem;
         }
     }
 }

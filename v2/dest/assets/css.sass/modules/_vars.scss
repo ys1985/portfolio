@@ -14,8 +14,14 @@
 }
 
 $inWrapRatiowidth:1024;
+$sectionMarginBottomRatio:calc( 40 / #{$inWrapRatiowidth} * 100%);
+
+$sp_inWrapRatiowidth:640;
+$sp_sectionMarginBottomRatio:calc( 40 / #{$sp_inWrapRatiowidth} * 100%);
+
 $homeItemColumn:5;
 $bg_borderRadius:20px;
+$sp_bg_borderRadius:10px;
 $itemRatioWidth:calc( #{($inWrapRatiowidth / $homeItemColumn)}  / #{$inWrapRatiowidth} * 100%);
-$sectionMarginBottomRatio:calc( 40 / #{$inWrapRatiowidth} * 100%);
+
 $btnHoverBoxshadow: 0 0 20px rgba(0, 0, 0, 0.2);

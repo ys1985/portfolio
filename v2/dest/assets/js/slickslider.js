@@ -16,7 +16,7 @@
                        swipe:true,
                     //    autoplay : true,
                        speed: 1000,
-                       autoplaySpeed : 2000
+                    //    autoplaySpeed : 2000
                      }
                    }
                    // You can unslick at a given breakpoint now by adding:

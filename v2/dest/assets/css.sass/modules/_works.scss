@@ -20,8 +20,11 @@
                 align-items: center;
                 justify-content: center;
                 width: 200px;
+                height: 200px;
                 box-sizing: border-box;
-                background: #E2E2E2;
+                background:#E2E2E2 url(../../assets/images/logo.svg) no-repeat;
+                background-size: 50% 50%;
+                background-position: center center;
                 border-radius: 20px;
                 padding: 40px;
                 img{
@@ -61,7 +64,7 @@
             border-radius: $bg_borderRadius;
             overflow: hidden;
             text-align: center;
-            transition: all 0.5s cubic-bezier(.63,.42,.53,1);
+            transition: border 0.5s cubic-bezier(.63,.42,.53,1);
             span{
                 width: 100%;
                 position: relative;
@@ -80,7 +83,7 @@
                 top: -140px;
                 left: -470px;
                 z-index: 1;
-                transition: all 0.5s cubic-bezier(.63,.42,.53,1);
+                transition: all 0.6s cubic-bezier(.63,.42,.53,1);
             }
             &:hover{
                 border: 1px solid #333;
@@ -95,11 +98,18 @@
         }
 
         //--------------------------
+        // section
+        //--------------------------
+        section{
+            border-radius: $bg_borderRadius;
+            box-sizing: border-box;
+        }
+        //--------------------------
         // coverImg
         //--------------------------
         section.coverImg{
+            display: block;
             width: 100%;
-            border-radius: $bg_borderRadius;
             overflow: hidden;
             margin-bottom: $sectionMarginBottomRatio;
             img{
@@ -133,17 +143,18 @@
                 width: 940px;
                 margin: 0;
                 padding: 0;
-                background: #fff;
+               
                 border-radius: $bg_borderRadius;
                 li{
-                    padding: 40px;
+                   
                     box-sizing: border-box;
                     span{
+                        margin:0 4% 0 0;
                         display: block;
+                        background: #fff;
                         overflow: hidden;
                         border-radius: $bg_borderRadius;
                         box-sizing: border-box;
-                        width: 100%;
                         img{
                             width: 100%;
                         }
@@ -163,8 +174,6 @@
             section.introduction{
                 grid-column-start: 1;
                 grid-column-end: 1;              
-                box-sizing: border-box;
-                border-radius: $bg_borderRadius;
                 padding: 30px;
                 background: #fff;
                 margin-bottom: 40px;
@@ -178,11 +187,8 @@
             section.mobile{
                 grid-column-start: 1;
                 grid-column-end: 1;
-                
-                box-sizing: border-box;
                 padding: 30px;
                 background: #fff;
-                border-radius: $bg_borderRadius;
                 display: flex;
                 justify-content: center;
                 align-items: center;
@@ -201,7 +207,6 @@
                 grid-row-end: 3;
                 margin-left: 40px;
                 background: #fff;
-                border-radius: $bg_borderRadius;
                 overflow: hidden;
                 img{
                     width: 100%;
@@ -215,6 +220,160 @@
 /**********************************************************************/
 
 @media only screen and (max-width:768px){
-    
-    
+    #works_main{
+        width: 100%;
+        margin: 0 auto;
+        .in-wrap{
+            padding: 20px;//in-wrap width:1200px;
+            //--------------------------
+            // header
+            //--------------------------
+            header{
+                position: relative;
+                display: flex;
+                flex-wrap: wrap;
+                margin-bottom: $sp_sectionMarginBottomRatio;
+                a.logo{
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    width: 100%;
+                    height: 100px;
+                    box-sizing: border-box;
+                    background:#E2E2E2 url(../../assets/images/sp_logo.svg) no-repeat;
+                    background-size: 50% auto;
+                    background-position: center center;
+                    border-radius: 10px;
+                    padding: 20px;
+                    margin-bottom: $sp_sectionMarginBottomRatio;
+                    img{
+                         width: 100%;
+                    }
+                }
+                .summary{
+                    width: 100%;
+                    box-sizing: border-box;
+                    padding: 20px;
+                    background: #fff;
+                    border-radius: 10px;
+                    margin-left: 0px;
+                    h1{
+                        font-size: 1.6rem;
+                        margin: 0 0 0px 0;
+                    }
+                    p{
+                        font-size: 1.4rem;
+                    }
+                }
+            }
+            
+            //--------------------------
+            // btnDetail
+            //--------------------------
+            .btnDetail{ 
+                display: block;
+                position: relative;
+                width: 180px;
+                height: 36px;
+                right: 0px;
+                bottom: 0px;
+                margin: 0 auto;
+                line-height: 36px;
+                
+            }
+            //--------------------------
+            // section
+            //--------------------------
+            section{
+                border-radius: $sp_bg_borderRadius;
+                box-sizing: border-box;
+            }
+            //--------------------------
+            // coverImg
+            //--------------------------
+            section.coverImg{
+                display: none;
+            }
+             //--------------------------
+            // slick_slider
+            //--------------------------
+            section.slider{
+                position: relative;
+                margin-bottom: $sp_sectionMarginBottomRatio;
+                
+                .brandLogo{
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    position: relative;
+                    width: 100%;
+                    height: 100px;
+                    right: 0px;
+                    padding: 20px;
+                    box-sizing: border-box;
+                    border-radius: $sp_bg_borderRadius $sp_bg_borderRadius 0 0;
+                    background: #fff;
+                    img{
+                        width:30vw;
+                    }
+                }
+                .slick-slider{
+                    width: 100%;
+                    margin: 0;
+                    padding: 0 0 60px 0;
+                    background: #fff;
+                    border-radius: 0 0 $sp_bg_borderRadius $sp_bg_borderRadius;
+                    li{
+                        box-sizing: border-box;
+                        span{
+                            display: block;
+                            overflow: hidden;
+                            border-radius: 0;
+                            box-sizing: border-box;
+                            img{
+                                width: 100%;
+                                vertical-align: bottom;
+                            }
+                        }
+                        
+                    }
+                }
+            }
+            .gridContainer{
+                display: block;
+                margin-top: 80px;
+                //--------------------------
+                // introduction
+                //--------------------------
+                section.introduction{
+                    grid-column-start: 1;
+                    grid-column-end: 1;              
+                    padding: 30px;
+                    background: #fff;
+                    margin-bottom: $sp_sectionMarginBottomRatio;
+                    p{
+                        font-size: 1.2rem;
+                    }
+                }
+                //--------------------------
+                // mobile
+                //--------------------------
+                section.mobile{
+                    display: none;
+                }
+                //--------------------------
+                // pc screen
+                //--------------------------
+                section.screen{
+                    
+                    margin-left: 0px;
+                    background: #fff;
+                    overflow: hidden;
+                    img{
+                        width: 100%;
+                    }
+                }
+            }
+        }
+    }
 }
