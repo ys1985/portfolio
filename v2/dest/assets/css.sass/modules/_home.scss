@@ -129,7 +129,7 @@ canvas {
             width: 100%;
             height: 100%;
             border-radius: 20px;
-            transition: all 0.5s ease;
+            transition: box-shadow 0.5s ease;
                 &:hover{
                     box-shadow: $btnHoverBoxshadow;
                 }

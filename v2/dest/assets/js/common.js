@@ -30,6 +30,7 @@
             var typoCount = 0;
             var imgURLlist = [
                 'assets/images/sp_mhd_logo.png',
+                'assets/images/sp_mhd_logo.png',
                 'assets/images/sp_moet_logo.png',
                 'assets/images/sp_fivestar_logo.png',
                 'assets/images/sp_tokyometro_logo.png',
@@ -41,9 +42,7 @@
                 'assets/images/wabisabi_logo.svg',
                 'assets/images/sp_dance_logo.png',
                 'assets/images/sp_macromill_logo.png',
-                'assets/images/sp_mhd_logo.png',
             ]
-
 
 
             var imgItemInit = function(){
