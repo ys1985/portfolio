@@ -319,9 +319,21 @@ a:visited{
             left: 7px;
         }
     }
-    
-    
 }
+
+
+//--------------------------
+// jquery isinView class
+//--------------------------
+.fade-isinView{
+    opacity: 0;
+    transition: .8s;
+}
+
+.fadeItem{
+    opacity: 1.0;
+}
+
 
 //--------------------------
 // .closeBtn

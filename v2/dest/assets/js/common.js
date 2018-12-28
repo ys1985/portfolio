@@ -1,18 +1,16 @@
 (function($) {
     $(function() {
 
-        //globalElement Body
+        //global jquery selector body
         var $body = $('body');
 
         //themeColor
         var themeColor;
         var currentThemeColor;
-
-        //curren theme addClass
-        $body.addClass(currentThemeColor);
-
+        
         //currentThemeColor localStorage getItem
         currentThemeColor = localStorage.getItem('toggleSwngitchClass');
+        $body.addClass(currentThemeColor);
 
          //toggleSwitch
         var toggleSwitchSelector = document.querySelector('.toggleSwitch');
@@ -46,6 +44,8 @@
                 'assets/images/sp_mhd_logo.png',
             ]
 
+
+
             var imgItemInit = function(){
                 
                 //imgItem append
@@ -57,7 +57,7 @@
                     else{
                         // $mainListItemswrap.append('<li class="item"><a href="./works/archives'+ imgCount +'/"><img src='+ imgURLlist[imgCount] +'></a></li>');
                         if(index === 0){
-                            $mainListItemswrap.append('<li class="item logo"><a href="./'+ 1 +'/"></a></li>');
+                            $mainListItemswrap.append('<li class="item logo"><a href="./"></a></li>');
                         }
                         else{
                             $mainListItemswrap.append('<li class="item"><a href="./works/archives'+ 1 +'/"><img src='+ imgURLlist[imgCount] +'></a></li>');
@@ -231,12 +231,19 @@
                 })
             }
 
+            var isinView = function(){
+                $('.fade-isinView').on('inview', function(event, isInView, visiblePartX, visiblePartY) {
+                    if(isInView){$(this).stop().addClass('fadeItem');}
+                });
+            }
+
             return{
               imgItemInit : imgItemInit,
               ResponsiveTrigger : ResponsiveTrigger ,
               ModalWindow : ModalWindow,
               ToggleSwitchBtn : ToggleSwitchBtn,
-              BackTonavi : BackTonavi
+              BackTonavi : BackTonavi,
+              isinView : isinView
             };
         })();
 
@@ -251,6 +258,7 @@
                     $('#loading_overray').hide();
                     $(this).hide();
                     HOME.imgItemInit();
+                    HOME.isinView();
                 })
             },1500);
             

@@ -10,6 +10,14 @@
         transform:rotate(360deg);
     }
  }
+ @keyframes fade{
+    0%{
+        opacity: 0;
+     }
+    100%{
+        opacity: 1;
+    }
+ }
 
 
 .bgVectorWrap{
@@ -26,7 +34,8 @@
         height: 800px;
         background-repeat: no-repeat;
         background-size: contain;
-        z-index: 1; 
+        z-index: 1;
+        opacity: 0;
     }
     
     .bgVector.box01{
@@ -35,31 +44,31 @@
         margin-left: -400px;
         margin-top: -400px;
         background-image: url(../images/bgVector.svg);
-        animation: rotateAnimation 200s infinite normal; 
+        animation: rotateAnimation 200s infinite normal , fade 1s ease 3s forwards; 
      }
      .bgVector.box02{
         top: -10%;
         left: -10%;
         background-image: url(../images/bgVector01.svg);
-        animation: rotateAnimation 190s infinite normal; 
+        animation: rotateAnimation 190s infinite normal , fade 1s ease 3.1s forwards; 
      }
      .bgVector.box03{
         top: -10%;
         right: -10%;
         background-image: url(../images/bgVector02.svg);
-        animation: rotateAnimation 180s infinite normal; 
+        animation: rotateAnimation 180s infinite normal , fade 1s ease 3.2s forwards;
      }
      .bgVector.box04{
         bottom: -10%;
         left: -10%;
         background-image: url(../images/bgVector03.svg);
-        animation: rotateAnimation 170s infinite normal; 
+        animation: rotateAnimation 170s infinite normal , fade 1s ease 3.3s forwards; 
      }
      .bgVector.box05{
         bottom: -10%;
         right: -10%;
         background-image: url(../images/bgVector04.svg);
-        animation: rotateAnimation 160s infinite normal; 
+        animation: rotateAnimation 160s infinite normal , fade 1s ease 3.4s forwards; 
      }
 }
 
